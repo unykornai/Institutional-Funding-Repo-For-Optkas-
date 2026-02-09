@@ -77,7 +77,7 @@
 │  STC Statement:            CF913B0FA430FBDC...                  │
 │  TC Advantage PPM:         5134F730E60CA896...                  │
 │                                                                 │
-│  cryptographic Attestation Account: rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV │
+│  cryptographic Attestation Account: [Attestation Account] │
 │  All hashes independently verifiable.                           │
 └─────────────────────────────────────────────────────────────────┘
 ```

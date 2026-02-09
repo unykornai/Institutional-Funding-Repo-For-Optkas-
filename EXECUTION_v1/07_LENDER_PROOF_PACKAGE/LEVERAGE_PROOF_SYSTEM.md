@@ -6,7 +6,7 @@ SHA-256 hash verification, Merkle tree proof, and cryptographic-anchored timesta
 Data room is version-controlled, frozen, and independently verifiable.
 
 ## Competitive Advantage
-- GitHub + IPFS + cryptographic document storage (vs PDF folder)
+- GitHub + secure archive + cryptographic document storage (vs PDF folder)
 - SHA-256 + Merkle tree integrity proof (vs trust me)
 - Cryptographic ledger timestamp (vs email date)
 - Automated + mathematical verification (vs manual)

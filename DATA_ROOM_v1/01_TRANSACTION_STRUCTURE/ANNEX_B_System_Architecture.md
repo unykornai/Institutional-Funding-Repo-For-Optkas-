@@ -46,7 +46,7 @@
 │    │   • Periodic snapshots                                  │           │
 │    │   • Immutable audit trail                               │           │
 │    │                                                          │           │
-│    │   IPFS Document Storage                                  │           │
+│    │   Secure Document Storage                                  │           │
 │    │   • Permanent content addressing                        │           │
 │    │   • Cross-referenced with cryptographic                          │           │
 │    │                                                          │           │
@@ -108,7 +108,7 @@
 | System | Purpose | Status |
 |:-------|:--------|:-------|
 | **XRP Ledger** | Attestation hashes | Operational |
-| **IPFS** | Document permanence | Configured |
+| **secure archive** | Document permanence | Configured |
 | **Internal DB** | Position tracking | Operational |
 
 ---
@@ -136,7 +136,7 @@ Step 4: Transaction Validation (4-5 sec)
         ▼
 Step 5: Confirmation Storage
         │
-        ├──► IPFS Pin
+        ├──► secure archive Pin
         └──► Internal Audit Log
 ```
 
@@ -149,7 +149,7 @@ Lender Query: "What is current collateral status?"
 Step 1: Retrieve latest cryptographic attestation
         │
         ▼
-Step 2: Verify hash against IPFS document
+Step 2: Verify hash against secure archive document
         │
         ▼
 Step 3: Return verified position data
@@ -168,7 +168,7 @@ Step 3: Return verified position data
 
 | Parameter | Value |
 |:----------|:------|
-| **Address** | rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV |
+| **Address** | [Attestation Account] |
 | **Purpose** | Read-only evidence anchor |
 | **Custody** | None (evidence only) |
 
@@ -198,7 +198,7 @@ Step 3: Return verified position data
 
 ---
 
-## 5. IPFS Configuration
+## 5. secure archive Configuration
 
 ### 5.1 Node Setup
 
@@ -221,7 +221,7 @@ Step 3: Return verified position data
 │   ├── stc_statement.pdf
 │   └── insurance_invoice.pdf
 └── attestations/
-    └── xrpl_tx_index.json
+    └── attestation_index.json
 ```
 
 ---
@@ -241,8 +241,8 @@ Step 3: Return verified position data
 
 | Key Type | Storage | Backup |
 |:---------|:--------|:-------|
-| cryptographic Signing Key | Encrypted wallet | Hardware backup |
-| IPFS Node Key | Server-side | Redundant nodes |
+| cryptographic Signing Key | Encrypted account | Hardware backup |
+| Document Archive Key | Server-side | Redundant nodes |
 | Database Encryption | Cloud HSM | Key escrow |
 
 ### 6.3 Audit Trail
@@ -262,7 +262,7 @@ Step 3: Return verified position data
 |:-------|:-----------------|:--------|
 | STC Portal | API/Manual | Position verification |
 | cryptographic | Direct RPC | Attestation anchoring |
-| IPFS | Local/Pinata | Document storage |
+| secure archive | Local/Pinata | Document storage |
 | Lender Portal | Read API | Status dashboards |
 
 ### 7.2 Reporting Outputs
@@ -282,14 +282,14 @@ Step 3: Return verified position data
 
 | Component | Backup Frequency | Recovery Time |
 |:----------|:-----------------|:--------------|
-| Documents | Continuous (IPFS) | Immediate |
+| Documents | Continuous (secure archive) | Immediate |
 | Attestations | Continuous (cryptographic) | Immediate |
 | Database | Daily | < 4 hours |
 | Keys | Monthly verification | < 24 hours |
 
 ### 8.2 Redundancy
 
-- IPFS: Multiple pinning services
+- secure archive: Multiple pinning services
 - cryptographic: Network-distributed (no single point of failure)
 - Database: Multi-region cloud deployment
 
@@ -299,7 +299,7 @@ Step 3: Return verified position data
 
 | Requirement | Architecture Component |
 |:------------|:-----------------------|
-| Audit trail | cryptographic + IPFS |
+| Audit trail | cryptographic + secure archive |
 | Access control | Role-based permissions |
 | Data integrity | SHA-256 hashing |
 | Availability | Distributed systems |

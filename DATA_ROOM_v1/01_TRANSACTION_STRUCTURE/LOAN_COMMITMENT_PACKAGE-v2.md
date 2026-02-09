@@ -210,7 +210,7 @@ Borrower confirms SBLC will be:
 
 Lender receives step-by-step instructions to independently verify:
 1. Snapshot hash matches cryptographic attestation
-2. Ed25519 signatures meet quorum (2-of-3)
+2. Ed25519 signatures meet quorum (dual)
 3. Document hashes match referenced PDFs
 4. Capacity calculation is accurate
 

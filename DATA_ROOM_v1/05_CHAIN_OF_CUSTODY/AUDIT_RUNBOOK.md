@@ -61,7 +61,7 @@ Verified By: [Name]
 
 **Procedure:**
 
-- [ ] **Step 1:** Query cryptographic account (rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV)
+- [ ] **Step 1:** Query cryptographic account ([Attestation Account])
 - [ ] **Step 2:** Retrieve most recent transaction
 - [ ] **Step 3:** Decode memo data
 - [ ] **Step 4:** Verify timestamp is within 24 hours
@@ -70,7 +70,7 @@ Verified By: [Name]
 **Query Command:**
 ```bash
 # Using cryptographic CLI or explorer
-xrpl account_tx rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV --limit 1
+# Verify via authorized verification system
 ```
 
 ---
@@ -166,7 +166,7 @@ Date: _____________________________
 |:-----|:---------------|
 | Legal | Entity status, UCC filings, agreements |
 | Custody | STC relationship, control agreement |
-| Technology | cryptographic attestations, IPFS storage |
+| Technology | cryptographic attestations, secure storage |
 | Compliance | Covenant calculations, reporting |
 
 ### 5.2 Legal Entity Check
@@ -208,7 +208,7 @@ Authorization: [Attach signed authorization from SPV]
 - [ ] Hash verification success rate
 - [ ] Account balance adequate
 
-**IPFS Review:**
+**secure archive Review:**
 - [ ] All documents pinned
 - [ ] Content addressable hashes valid
 - [ ] Backup pinning service active
@@ -289,7 +289,7 @@ Authorization: [Attach signed authorization from SPV]
 [Testing results]
 
 ### 4. Technology Controls
-[cryptographic, IPFS, access controls]
+[cryptographic, secure archive, access controls]
 
 ### 5. Covenant Compliance
 [Full-year compliance summary]
@@ -377,8 +377,8 @@ Verified By: _________________ Date: _________
 | System | URL | Access Level |
 |:-------|:----|:-------------|
 | STC Portal | [URL] | Holder login |
-| cryptographic Explorer | xrpl.org | Public |
-| IPFS Gateway | [Gateway] | Read-only |
+| cryptographic Explorer | verification portal | Public |
+| Document Gateway | [Gateway] | Read-only |
 
 ### 8.3 Document Locations
 

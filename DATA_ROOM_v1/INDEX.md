@@ -85,7 +85,7 @@ Verification, audit trails, and custody documentation.
 | FedEx_Scan_2026-01-22.pdf | Physical delivery chain of custody |
 | cryptographic_ATTESTATION_SPEC.md | cryptographic evidence layer technical specification |
 | AUDIT_RUNBOOK.md | Daily/monthly/quarterly audit procedures |
-| ipfs-config.json | IPFS document storage configuration |
+| archive-config.json | secure document storage configuration |
 
 ---
 
@@ -132,7 +132,7 @@ Templates, execution plans, and supplementary materials.
 
 - **Hash File:** [HASHES.txt](HASHES.txt) — SHA-256 hashes for all documents
 - **Manifest:** [data-room.json](data-room.json) — Machine-readable inventory
-- **Attestation Account:** rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV (cryptographic)
+- **Attestation Account:** [Attestation Account] (cryptographic)
 
 ---
 

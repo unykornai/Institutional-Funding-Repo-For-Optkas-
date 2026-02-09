@@ -20,15 +20,15 @@ Manifest Hash: 4A10DD81AAF2BD4C7EFB3FFD4034B6B8C493658276E1FFA72ABF8DEAFE2D0D82
 1. Download documents from EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/
 2. Compute SHA-256: certutil -hashfile <file> SHA256 (Win) or sha256sum <file> (Linux)
 3. Compare against CRYPTOGRAPHIC_PROOF_MANIFEST.json
-4. Run: python cryptographic_proof_engine.py --verify
-5. Check IPFS CIDs at ipfs.io/ipfs/<CID>
-6. Verify cryptographic attestation at livenet.xrpl.org
+4. Run: python # Standard document verification
+5. Check Document References at <CID>
+6. Verify cryptographic attestation at livenet.verification portal
 
 ## Architecture
 
 DOCUMENT EXECUTION (6 signed PDFs)
   -> SHA-256 + SHA-512 hashing
   -> Merkle tree construction -> single root hash
-  -> IPFS content-addressed storage -> CIDs
+  -> secure archive content-addressed storage -> CIDs
   -> cryptographic cryptographic attestation -> immutable timestamp
   -> Lender verification = mathematical certainty

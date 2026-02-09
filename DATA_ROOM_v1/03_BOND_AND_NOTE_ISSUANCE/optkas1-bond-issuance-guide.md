@@ -77,7 +77,7 @@ Per PPM page 14:
 All executed agreements are SHA-256 hashed and independently verifiable.
 
 ```bash
-python cryptographic_proof_engine.py --verify
+python # Standard document verification
 ```
 
 ## Source Documents

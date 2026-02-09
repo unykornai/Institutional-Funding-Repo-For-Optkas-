@@ -79,12 +79,12 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 | Document | PDF | Verification |
 |:---------|:----|:-------------|
-| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
-| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
-| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
-| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
-| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
-| Verification Manifest | — | [🔗 Verify](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
+| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://[Agreement Reference]) |
+| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://[Terms Reference]) |
+| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://[Signature Reference]) |
+| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://[Note Reference]) |
+| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://[Estoppel Reference]) |
+| Verification Manifest | — | [🔗 Verify](https://[Manifest Reference]) |
 
 ### Data Room Access
 

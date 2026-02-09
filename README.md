@@ -159,14 +159,14 @@ All agreements were executed on **February 9, 2026** and are filed with cryptogr
 
 | # | Document | PDF | Verification |
 |:--|:---------|:----|:-------------|
-| 1 | Strategic Infrastructure Agreement | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
-| 2 | Exhibit A — Economic Participation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
-| 3 | Signature Page | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
-| 4 | Sponsor Consideration Note | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
-| 5 | Sponsor Note Estoppel | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
-| 6 | Joint Signature Attestation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/sigs%207777%20optkas%20.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM) |
+| 1 | Strategic Infrastructure Agreement | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://[Agreement Reference]) |
+| 2 | Exhibit A — Economic Participation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://[Terms Reference]) |
+| 3 | Signature Page | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://[Signature Reference]) |
+| 4 | Sponsor Consideration Note | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://[Note Reference]) |
+| 5 | Sponsor Note Estoppel | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://[Estoppel Reference]) |
+| 6 | Joint Signature Attestation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/sigs%207777%20optkas%20.pdf) | [🔗 Verify](https://[Package Reference]) |
 
-**Cryptographic Manifest:** [🔗 IPFS](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) | **SHA-256 Hash File:** [🔗 IPFS](https://ipfs.io/ipfs/QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm)
+**Cryptographic Manifest:** [🔗 secure archive](https://[Manifest Reference]) | **SHA-256 Hash File:** [🔗 secure archive](https://[Hash Reference])
 
 ---
 
@@ -195,10 +195,10 @@ Every executed document has been **SHA-256 hashed** and **permanently archived**
 
 ```bash
 # Clone this repo and run:
-python cryptographic_proof_engine.py --verify
+python # Standard document verification
 
 # Or verify any individual document:
-# Download PDF from IPFS gateway → compute SHA-256 → compare to table above
+# Download PDF from secure archive gateway → compute SHA-256 → compare to table above
 ```
 
 **Full Proof System:** [LENDER_LEVERAGE_PROOF_SYSTEM.md](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/LENDER_LEVERAGE_PROOF_SYSTEM.md)

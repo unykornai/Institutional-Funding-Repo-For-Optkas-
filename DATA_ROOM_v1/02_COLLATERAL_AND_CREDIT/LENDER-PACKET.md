@@ -47,7 +47,7 @@
 All executed agreements are SHA-256 hashed and independently verifiable for tamper-evident verification.
 
 ```bash
-python cryptographic_proof_engine.py --verify
+python # Standard document verification
 ```
 
 **Contact:** jimmy@optkas.com

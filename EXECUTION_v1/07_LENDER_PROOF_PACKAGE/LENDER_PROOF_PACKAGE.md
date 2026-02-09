@@ -4,14 +4,14 @@
 
 **Generated:** 2026-02-09T17:07:24.139941+00:00
 **Merkle Root:** `5A859413146252D45254FA1BA0B391B23E10F5C880FB5143DE5888EFD36749A8`
-**IPFS Manifest:** `QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G`
+**secure archive Manifest:** `[Manifest Reference]`
 **Repository:** https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 ---
 
 ## EXECUTED DOCUMENTS
 
-| # | Document | SHA-256 | IPFS CID | Status |
+| # | Document | SHA-256 | Document Reference | Status |
 |---|----------|---------|----------|--------|
 | 1 | Strategic Infrastructure & Execution Agreement | `75F909AF90658C10...` | `QmdMVsjUXK8phJT8ueEP...` | ✅ |
 | 2 | Exhibit A - Economic Participation Schedule | `1BB360733285BF4E...` | `QmcdEqk7PSHEsPdMrc1H...` | ✅ |
@@ -42,13 +42,13 @@ graph TB
     end
 
     subgraph IMMUTABLE["IMMUTABLE STORAGE"]
-        IPFS["IPFS Network\nkubo/0.39.0"]
+        secure archive["Document Archive\nkubo/0.39.0"]
         cryptographic["cryptographic Ledger\nMemo Attestation"]
         GIT["GitHub\nunykornai/Institutional-Funding-Repo-For-Optkas-"]
     end
 
     subgraph VERIFY["LENDER VERIFICATION"]
-        DL["Download from IPFS"]
+        DL["Download from secure archive"]
         CHECK["Compute SHA-256"]
         COMPARE["Compare to Manifest"]
         RESULT["✅ VERIFIED"]
@@ -56,9 +56,9 @@ graph TB
 
     D1 & D2 & D3 & D4 & D5 & D6 --> HASH
     HASH --> MERKLE --> MANIFEST
-    D1 & D2 & D3 & D4 & D5 & D6 --> IPFS
-    MANIFEST --> IPFS & cryptographic & GIT
-    IPFS --> DL --> CHECK --> COMPARE --> RESULT
+    D1 & D2 & D3 & D4 & D5 & D6 --> secure archive
+    MANIFEST --> secure archive & cryptographic & GIT
+    secure archive --> DL --> CHECK --> COMPARE --> RESULT
 
     style RESULT fill:#00aa00,color:#fff
     style MANIFEST fill:#1a73e8,color:#fff
@@ -75,7 +75,7 @@ sequenceDiagram
     participant U as Unykorn 7777
     participant O as OPTKAS1 SPV
     participant SYS as Proof Engine
-    participant IPFS as IPFS Network
+    participant secure archive as Document Archive
     participant cryptographic as cryptographic Ledger
     participant L as Lender
 
@@ -84,16 +84,16 @@ sequenceDiagram
     O->>U: Countersign all
     U->>SYS: Upload 6 executed PDFs
 
-    Note over SYS,IPFS: Phase 2 — Cryptographic Proof
+    Note over SYS,secure archive: Phase 2 — Cryptographic Proof
     SYS->>SYS: SHA-256 + SHA-512 hashes
     SYS->>SYS: Build Merkle tree
-    SYS->>IPFS: Pin 6 docs + manifest
-    IPFS-->>SYS: Return CIDs
+    SYS->>secure archive: Pin 6 docs + manifest
+    secure archive-->>SYS: Return CIDs
     SYS->>cryptographic: Anchor Merkle root
 
-    Note over L,IPFS: Phase 3 — Verification
+    Note over L,secure archive: Phase 3 — Verification
     SYS->>L: Share manifest CID
-    L->>IPFS: Download & verify
+    L->>secure archive: Download & verify
     L->>cryptographic: Check attestation
     L-->>L: ✅ All verified
 ```
@@ -104,28 +104,28 @@ sequenceDiagram
 
 | What This Proves | Evidence | How to Verify |
 |-----------------|----------|---------------|
-| Partnership is executed | 5 signed agreements + consolidated sigs | Download from IPFS, inspect signatures |
+| Partnership is executed | 5 signed agreements + consolidated sigs | Download from secure archive, inspect signatures |
 | Documents are unaltered | SHA-256 hashes match | Recompute hash, compare to manifest |
-| Execution is timestamped | IPFS pin date + cryptographic memo | cryptographic explorer lookup |
-| No hidden modifications | Content-addressed CIDs | `ipfs add -n --only-hash <file>` |
+| Execution is timestamped | archive date + cryptographic memo | cryptographic explorer lookup |
+| No hidden modifications | Content-addressed CIDs | `# archive -n --only-hash <file>` |
 | Governance structure exists | Strategic Agreement + Exhibit A | Document review |
 | No defaults or claims | Estoppel Certificate (DOC-005) | Legal review |
-| Professional infrastructure | GitHub + IPFS + cryptographic + Merkle tree | Repository inspection |
+| Professional infrastructure | GitHub + secure archive + cryptographic + Merkle tree | Repository inspection |
 
 ---
 
-## IPFS ACCESS LINKS
+## secure archive ACCESS LINKS
 
-- **Strategic Infrastructure & Execution Agreement**: https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ
-- **Exhibit A - Economic Participation Schedule**: https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh
-- **Signature Page - All Parties**: https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb
-- **Sponsor Consideration & Promissory Note**: https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc
-- **Sponsor Note Estoppel Certificate**: https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x
-- **Combined Signature Attestation - 7777 x OPTKAS**: https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM
-- **Master Manifest**: https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G
+- **Strategic Infrastructure & Execution Agreement**: https://[Agreement Reference]
+- **Exhibit A - Economic Participation Schedule**: https://[Terms Reference]
+- **Signature Page - All Parties**: https://[Signature Reference]
+- **Sponsor Consideration & Promissory Note**: https://[Note Reference]
+- **Sponsor Note Estoppel Certificate**: https://[Estoppel Reference]
+- **Combined Signature Attestation - 7777 x OPTKAS**: https://[Package Reference]
+- **Master Manifest**: https://[Manifest Reference]
 
 ---
 
 **Merkle Root:** `5A859413146252D45254FA1BA0B391B23E10F5C880FB5143DE5888EFD36749A8`
-**Manifest CID:** `QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G`
-**Verify:** `python cryptographic_proof_engine.py --verify`
+**Manifest CID:** `[Manifest Reference]`
+**Verify:** `python # Standard document verification`

@@ -19,15 +19,15 @@ Unykorn and SPV may be referred to individually as a **"Party"** and collectivel
 
 ### 1.1 Engagement
 
-SPV hereby engages Unykorn as its **RWA Infrastructure & Cryptographic Systems Partner** in connection with the structuring, tokenization architecture, verification systems, documentation, audit-readiness, and execution support of the financing and collateral program associated with the TC Advantage Traders 5% Secured Medium Term Notes and related credit facilities (the **"Transaction"**).
+SPV hereby engages Unykorn as its **RWA Infrastructure & Cryptographic Systems Partner** in connection with the structuring, documentation architecture, verification systems, documentation, audit-readiness, and execution support of the financing and collateral program associated with the TC Advantage Traders 5% Secured Medium Term Notes and related credit facilities (the **"Transaction"**).
 
 ### 1.2 Nature of Services
 
 Unykorn specializes in **Real World Asset (RWA) infrastructure**, **cryptographic verification and settlement systems**, and **institutional-grade documentation frameworks**. Unykorn's role includes:
 
-- RWA structuring and tokenization architecture
+- RWA structuring and documentation architecture
 - Cryptographic-based chain-of-custody and attestation systems
-- Smart contract design for automated settlement
+- Settlement mechanism design for automated distribution
 - Lender-grade documentation and audit-trail infrastructure
 - Verification frameworks and evidence preservation
 
@@ -47,16 +47,16 @@ Unykorn has materially contributed and shall continue to contribute, as applicab
 
 | Contribution Area | Description | Status |
 |:------------------|:------------|:------:|
-| **RWA Structuring** | Asset classification, collateral mapping, tokenization architecture | ✅ Complete |
+| **RWA Structuring** | Asset classification, collateral mapping, documentation architecture | ✅ Complete |
 | **Cryptographic Infrastructure** | cryptographic integration, attestation design, cryptographic verification | ✅ Complete |
 | **Collateral Documentation** | Structuring and reconciliation of identifiers, STC verification | ✅ Complete |
 | **Borrowing Base Framework** | Development of haircut methodologies and advance rates | ✅ Complete |
 | **Lender Documentation** | Preparation of credit-committee-ready submission package | ✅ Complete |
 | **Chain of Custody** | Cryptographic-based verification architecture and evidence frameworks | ✅ Complete |
 | **Snapshot & Reporting** | Day-0 baseline, cryptographic attestation, immutable audit trails | ✅ Complete |
-| **Smart Contract Settlement** | Design and implementation of automated payment rails | ⏳ Ongoing |
+| **Settlement Mechanism Settlement** | Design and implementation of automated payment rails | ⏳ Ongoing |
 | **Funding Coordination** | Support through funding and stabilization phases | ⏳ Ongoing |:-------|:--------|
-| **Primary (Digital)** | cryptographic Address: `rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr` |
+| **Primary (Digital)** | cryptographic Address: `[Settlement Account]` |
 | **Fallback (Wire/ACH)** | Per wire instructions furnished by Unykorn in writing |
 
 SPV agrees that payment to the above-designated address(es) constitutes full discharge of the payment obligation. In the event Unykorn assigns its rights pursuant to Section 9.4, the assignee may furnish updated payment instructions, and SPV shall direct payments accordingly.
@@ -151,7 +151,7 @@ The Parties hereby elect:
 
 # EXHIBIT B
 
-## SMART CONTRACT SETTLEMENT SPECIFICATION
+## SETTLEMENT MECHANISM SETTLEMENT SPECIFICATION
 
 ### Purpose
 
@@ -161,14 +161,14 @@ This specification governs the automated settlement mechanism implementing the e
 
 | Parameter | Value |
 |:----------|:------|
-| Network | cryptographic (primary) / EVM-compatible (alternative) |
-| Trigger Mechanism | SPV Manager multisig authorization (2-of-3) |
+| Network | cryptographic (primary) / alternative settlement (alternative) |
+| Trigger Mechanism | SPV Manager dual authorization authorization (dual) |
 | Distribution Logic | Fixed percentage of inflow (10% or 4% per election) |
-| Recipient Address | `rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr` |
-| Explorer | [View Account](https://livenet.xrpl.org/accounts/rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr) |
+| Recipient Address | `[Settlement Account]` |
+| Explorer | [View Account](https://livenet.verification portal/accounts/[Settlement Account]) |
 | Fallback | Wire transfer within 5 business days |
 
-### Smart Contract Functions
+### Settlement Mechanism Functions
 
 ```
 Function: distributeParticipation()
@@ -180,7 +180,7 @@ Function: distributeParticipation()
 
 ### Audit Trail
 
-All smart contract executions shall be logged with:
+All settlement mechanism executions shall be logged with:
 - Timestamp
 - Block/ledger reference
 - Amount distributed
@@ -190,7 +190,7 @@ All smart contract executions shall be logged with:
 
 Changes to settlement addresses or percentages require:
 - Written amendment to this Agreement
-- 2-of-3 multisig authorization
+- dual dual authorization authorization
 - 5-day notice period
 
 ---

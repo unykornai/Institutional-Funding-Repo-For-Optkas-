@@ -16,13 +16,13 @@ This document provides lenders with a **complete, independently verifiable proof
 
 1. **All partnership agreements are fully executed** with authorized signatures
 2. **Every document is cryptographically fingerprinted** (SHA-256)
-3. **Every document is pinned to IPFS** (content-addressed, immutable storage)
+3. **Every document is archived and verified** (content-addressed, immutable storage)
 4. **A machine-readable manifest** links all artifacts for automated verification
 5. **The entire system is version-controlled** on GitHub with full audit trail
 
 **Manifest CID (single point of verification):**
 ```
-QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G
+[Manifest Reference]
 ```
 
 ---
@@ -31,7 +31,7 @@ QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G
 
 ### Complete Agreement Package
 
-| # | Document | Purpose | IPFS CID | Verified |
+| # | Document | Purpose | Document Reference | Verified |
 |---|----------|---------|----------|----------|
 | 1 | **Strategic Infrastructure Agreement** | Master partnership terms, governance, scope | `QmdMVsjU...RMnBEQ` | ✅ |
 | 2 | **Exhibit A — Economic Participation** | Option A/B economic terms, fee structure | `QmcdEqk7...HPx9dGh` | ✅ |
@@ -71,9 +71,9 @@ graph TB
         MANIFEST["CRYPTOGRAPHIC_MANIFEST.json<br/>CID: QmTNwdZu...WV6G"]
     end
 
-    subgraph "IPFS PINNING LAYER"
-        IPFS["IPFS Node<br/>kubo/0.39.0"]
-        GW["Public Gateway<br/>ipfs.io/ipfs/"]
+    subgraph "secure archive PINNING LAYER"
+        secure archive["Document Archive<br/>kubo/0.39.0"]
+        GW["Public Gateway<br/>"]
     end
 
     subgraph "CRYPTOGRAPHIC ANCHOR"
@@ -81,7 +81,7 @@ graph TB
     end
 
     subgraph "LENDER VERIFICATION"
-        LV["Lender Downloads<br/>from IPFS"]
+        LV["Lender Downloads<br/>from secure archive"]
         LH["Lender Computes<br/>SHA-256"]
         LC["Lender Compares<br/>to Manifest"]
         LPASS["✅ VERIFIED"]
@@ -89,9 +89,9 @@ graph TB
 
     D1 & D2 & D3 & D4 & D5 & D6 --> H
     H --> MANIFEST
-    D1 & D2 & D3 & D4 & D5 & D6 --> IPFS
-    MANIFEST --> IPFS
-    IPFS --> GW
+    D1 & D2 & D3 & D4 & D5 & D6 --> secure archive
+    MANIFEST --> secure archive
+    secure archive --> GW
     MANIFEST --> cryptographic
     GW --> LV
     LV --> LH
@@ -112,7 +112,7 @@ sequenceDiagram
     participant U as Unykorn 7777, Inc.
     participant O as OPTKAS1 LLC
     participant SYS as Funding System
-    participant IPFS as IPFS Network
+    participant secure archive as Document Archive
     participant cryptographic as cryptographic Ledger
     participant L as Lender
 
@@ -123,18 +123,18 @@ sequenceDiagram
     O->>U: Countersign all documents
     U->>SYS: Upload 6 executed PDFs
 
-    Note over SYS,IPFS: Phase 2 — Cryptographic Pinning
+    Note over SYS,secure archive: Phase 2 — Cryptographic Pinning
     SYS->>SYS: Generate SHA-256 hashes
-    SYS->>IPFS: Pin all 6 documents + manifest
-    IPFS-->>SYS: Return 6 CIDs + manifest CID
+    SYS->>secure archive: Pin all 6 documents + manifest
+    secure archive-->>SYS: Return 6 CIDs + manifest CID
     SYS->>SYS: Build CRYPTOGRAPHIC_MANIFEST.json
-    SYS->>IPFS: Pin manifest
+    SYS->>secure archive: Pin manifest
     SYS->>cryptographic: Anchor manifest CID (memo tx)
     cryptographic-->>SYS: TX hash confirmation
 
-    Note over L,IPFS: Phase 3 — Lender Verification
+    Note over L,secure archive: Phase 3 — Lender Verification
     SYS->>L: Share manifest CID + repo link
-    L->>IPFS: Download documents via CID
+    L->>secure archive: Download documents via CID
     L->>L: Compute SHA-256 of each document
     L->>L: Compare hashes to manifest
     L->>cryptographic: Verify cryptographic attestation timestamp
@@ -149,14 +149,14 @@ sequenceDiagram
 
 | Capability | Evidence | Verification Method |
 |-----------|---------|-------------------|
-| **Partnership is real** | 5 fully executed agreements + consolidated signatures | Download from IPFS, verify signatures visually |
+| **Partnership is real** | 5 fully executed agreements + consolidated signatures | Download from secure archive, verify signatures visually |
 | **Documents haven't been altered** | SHA-256 hashes match across all copies | Hash comparison (command line or any SHA-256 tool) |
-| **Timestamped execution** | IPFS pin date + cryptographic attestation | cryptographic explorer lookup |
-| **No hidden modifications** | Content-addressed storage (CID = hash of content) | `ipfs add -n --only-hash <file>` |
+| **Timestamped execution** | archive date + cryptographic attestation | cryptographic explorer lookup |
+| **No hidden modifications** | Content-addressed storage (CID = hash of content) | `# archive -n --only-hash <file>` |
 | **Governance structure exists** | Strategic Infrastructure Agreement + Economic Participation | Document review |
 | **Economic terms are clear** | Exhibit A — Option A (10%) or Option B (4%+2%) | Document review |
 | **No defaults or claims** | Estoppel Certificate (Document #5) | Legal review |
-| **Professional infrastructure** | GitHub repo + automated system + IPFS + cryptographic | Repository inspection |
+| **Professional infrastructure** | GitHub repo + automated system + secure archive + cryptographic | Repository inspection |
 
 ### Leverage Positioning for Credit Committee
 
@@ -171,7 +171,7 @@ sequenceDiagram
 │     ↓                                                               │
 │  3. GOVERNANCE ─────────── Executed partner agreements (THIS SYSTEM)│
 │     ↓                                                               │
-│  4. VERIFICATION ───────── IPFS + SHA-256 + cryptographic attestation       │
+│  4. VERIFICATION ───────── secure archive + SHA-256 + cryptographic attestation       │
 │     ↓                                                               │
 │  5. INSURANCE ──────────── Per PPM (page 14)  insurance wrap                  │
 │     ↓                                                               │
@@ -189,24 +189,24 @@ sequenceDiagram
 ### Option 1: Web Browser (Simplest)
 
 Access any document directly:
-- **Master Manifest:** https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G
-- **Agreement:** https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ
-- **Economic Terms:** https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh
-- **Signatures:** https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb
-- **Consideration Note:** https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc
-- **Estoppel:** https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x
-- **Full Signature Package:** https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM
+- **Master Manifest:** https://[Manifest Reference]
+- **Agreement:** https://[Agreement Reference]
+- **Economic Terms:** https://[Terms Reference]
+- **Signatures:** https://[Signature Reference]
+- **Consideration Note:** https://[Note Reference]
+- **Estoppel:** https://[Estoppel Reference]
+- **Full Signature Package:** https://[Package Reference]
 
 ### Option 2: Command Line (Technical Verification)
 
 ```bash
 # Download and verify any document
-curl -o agreement.pdf https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ
+curl -o agreement.pdf https://[Agreement Reference]
 sha256sum agreement.pdf
 # Expected: 75f909af90658c1099871511290e0580bc424a3ba13971ff331ee0e5defd12f8
 
 # Verify manifest
-curl -o manifest.json https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G
+curl -o manifest.json https://[Manifest Reference]
 cat manifest.json | python -m json.tool
 ```
 
@@ -220,18 +220,18 @@ Contains: All executed PDFs + hashes + manifest
 
 ---
 
-## VI. IPFS CID REFERENCE TABLE
+## VI. Document Reference REFERENCE TABLE
 
-| Artifact | Full IPFS CID | Gateway URL |
+| Artifact | Full Document Reference | Gateway URL |
 |----------|---------------|-------------|
-| Strategic Infrastructure Agreement | `QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ` | [View](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
-| Exhibit A — Economic Participation | `QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh` | [View](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
-| Signature Page | `QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb` | [View](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
-| Sponsor Consideration Note | `QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc` | [View](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
-| Sponsor Note Estoppel | `QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x` | [View](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
-| Consolidated Signatures | `QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM` | [View](https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM) |
-| SHA-256 Hash File | `QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm` | [View](https://ipfs.io/ipfs/QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm) |
-| **MASTER MANIFEST** | `QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G` | [View](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
+| Strategic Infrastructure Agreement | `[Agreement Reference]` | [View](https://[Agreement Reference]) |
+| Exhibit A — Economic Participation | `[Terms Reference]` | [View](https://[Terms Reference]) |
+| Signature Page | `[Signature Reference]` | [View](https://[Signature Reference]) |
+| Sponsor Consideration Note | `[Note Reference]` | [View](https://[Note Reference]) |
+| Sponsor Note Estoppel | `[Estoppel Reference]` | [View](https://[Estoppel Reference]) |
+| Consolidated Signatures | `[Package Reference]` | [View](https://[Package Reference]) |
+| SHA-256 Hash File | `[Hash Reference]` | [View](https://[Hash Reference]) |
+| **MASTER MANIFEST** | `[Manifest Reference]` | [View](https://[Manifest Reference]) |
 
 ---
 
@@ -243,7 +243,7 @@ EXECUTION STATUS:
 ├── ✅ All parties signed (Unykorn 7777 + OPTKAS1)
 ├── ✅ Consolidated signature package created
 ├── ✅ SHA-256 hashes generated for all documents
-├── ✅ All documents pinned to IPFS (6 PDFs + hashes + manifest)
+├── ✅ All documents archived and verified (6 PDFs + hashes + manifest)
 ├── ✅ Cryptographic manifest created and pinned
 ├── ✅ System organized in EXECUTION_v1/02_SIGNED_AGREEMENTS/
 ├── ⏳ cryptographic cryptographic attestation (ready to execute)
@@ -261,6 +261,6 @@ LENDER READINESS:
 
 **Document Status:** LENDER-READY  
 **Cryptographic Proof:** COMPLETE  
-**IPFS Pinning:** COMPLETE  
+**secure archive Pinning:** COMPLETE  
 **Last Updated:** February 9, 2026  
 **Owner:** OPTKAS1 LLC + Unykorn 7777, Inc.
