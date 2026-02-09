@@ -17,7 +17,7 @@
 | **ISIN (144A)** | US87225HAB42 | STC Verified ✓ |
 | **ISIN (Reg S)** | BSP9000TAA83 | Subscription Agreement |
 | **Security ID** | ST409-BD3 | STC Security List |
-| **Serial Number** | TCAT-10M-2030-001 | Physical Certificate |
+| **Serial Number** | Book-entry (STC custody) | Physical Certificate |
 
 ### 1.2 Cross-Reference Matrix
 
@@ -25,7 +25,7 @@
 |:---------|:------|:-----|:---------|:-------|
 | Subscription Agreement | 87225HAB4 | US87225HAB42 | — | ✓ Match |
 | STC Position Statement | 87225HAB4 | US87225HAB42 | — | ✓ Match |
-| Physical Certificate | — | — | TCAT-10M-2030-001 | ✓ Verified |
+| Physical Certificate | — | — | Book-entry (STC custody) | ✓ Verified |
 | Insurance Invoice | — | — | — | ✓ Coverage confirmed |
 
 ---
@@ -41,7 +41,7 @@
 | **Instrument Type** | Secured Medium Term Note |
 | **Face Value per Note** | $10,000,000 USD |
 | **Coupon Rate** | 5.00% per annum |
-| **Coupon Frequency** | Semi-annual |
+| **Coupon Frequency** | Annual |
 | **Issue Date** | May 29, 2020 |
 | **Maturity Date** | May 31, 2030 |
 | **Term** | 10 years |
@@ -86,8 +86,8 @@
 
 | Parameter | Value |
 |:----------|:------|
-| **Insurer** | C.J. Coleman & Company, London |
-| **Coverage Amount** | $675,000,000 |
+| **Insurer** | per PPM & Company, London |
+| **Coverage Amount** | (premium per policy) |
 | **Premium Period** | January 2024 – January 2029 |
 | **Coverage Type** | Insurance wrapper |
 | **Documentation** | Premium invoice on file |
@@ -141,7 +141,7 @@
 
 The undersigned certifies that the information in this Annex A is true, complete, and accurate as of the date hereof.
 
-**OPTKAS1-MAIN SPV**
+**OPTKAS1 LLC**
 
 By: _______________________________
 

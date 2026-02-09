@@ -1,4 +1,4 @@
-﻿# REAL ESTATE COLLATERAL ANALYSIS
+# REAL ESTATE COLLATERAL ANALYSIS
 ## Track C: Illiquid Development Property (Evidence Only)
 
 **Status:** EVIDENCE_DOCUMENTED | ZERO_ISSUANCE_WEIGHT  
@@ -27,7 +27,7 @@ This document analyzes **real estate holdings** as potential collateral under th
 - **POLICY OVERRIDE:** **$0 issuable** (illiquid RWA exclusion)
 
 **Institutional Narrative:**
-Property adds **creditworthiness context**, not active issuance capability. Combined with Track A (XRPL liquid proofs), it demonstrates comprehensive asset base while maintaining conservative issuance discipline.
+Property adds **creditworthiness context**, not active issuance capability. Combined with Track A (cryptographic liquid proofs), it demonstrates comprehensive asset base while maintaining conservative issuance discipline.
 
 ---
 
@@ -385,7 +385,7 @@ Banks think this way:
 
 ## COMPARATIVE ANALYSIS: TRACK A vs TRACK C
 
-| Criterion | Track A (digital reserves) | Track C (Real Estate) |
+| Criterion | Track A (cryptographic USDT) | Track C (Real Estate) |
 |-----------|---------------------|------------------------|
 | **Verification** | On-ledger cryptographic | Off-ledger document-based |
 | **Liquidity** | High (DEX + CEX) | Extremely low (180+ days) |
@@ -396,7 +396,7 @@ Banks think this way:
 | **Institutional Precedent** | Strong (stablecoins accepted) | Weak (RWA still experimental) |
 | **Safety for Issuance** | ✅ YES (liquid, verifiable) | ❌ NO (illiquid, jurisdiction-dependent) |
 
-**Winner:** Track A (digital reserves) for ALL issuance purposes.
+**Winner:** Track A (cryptographic USDT) for ALL issuance purposes.
 
 **Track C Purpose:** Balance sheet context, creditworthiness demonstration, strategic narrative.
 
@@ -406,7 +406,7 @@ Banks think this way:
 
 ### What Banks See
 
-**Track A (digital reserves):**
+**Track A (cryptographic USDT):**
 - $74M verified on-ledger
 - Cryptographically provable
 - Highly liquid
@@ -436,9 +436,9 @@ Banks think this way:
 
 ### ✅ What DOES Work
 
-#### Path 1: Track A (XRPL) → Aave (ALREADY WORKING)
+#### Path 1: Track A (cryptographic) → Aave (ALREADY WORKING)
 ```
-1. digital reserves (liquid)
+1. cryptographic USDT (liquid)
 2. → Exchange → EVM USDC
 3. → Deposit to Aave
 4. → Borrow at 50% LTV
@@ -448,7 +448,7 @@ Banks think this way:
 
 #### Path 2: Structured Credit (OTC / Private Lenders)
 ```
-1. XRPL PoF (liquid proof)
+1. cryptographic PoF (liquid proof)
 2. + Real Estate TEV (hard asset context)
 3. + UNY risk discipline
 4. → Private credit / family office / balance-sheet lender
@@ -490,7 +490,7 @@ Think:
 ### Phase 2: Track A Active (CONCURRENT)
 
 **Actions:**
-1. Use digital reserves for active issuance
+1. Use cryptographic USDT for active issuance
 2. Convert to EVM USDC via regulated exchange
 3. Deposit to Aave
 4. Borrow at conservative LTV
@@ -556,7 +556,7 @@ But TODAY: Zero contribution.
 ### Q4: Can property help with private credit?
 
 **A:** YES. Private lenders look at:
-- Total asset base (XRPL + property)
+- Total asset base (cryptographic + property)
 - Risk discipline
 - Transparency
 
@@ -681,7 +681,7 @@ This analysis demonstrates that UNY:
 - Uses institutional-grade risk frameworks
 - Prioritizes transparency over marketing claims
 
-**Track A (digital reserves):** Drives economics  
+**Track A (cryptographic USDT):** Drives economics  
 **Track B (Gemstones):** Evidence only  
 **Track C (Real Estate):** Evidence only  
 

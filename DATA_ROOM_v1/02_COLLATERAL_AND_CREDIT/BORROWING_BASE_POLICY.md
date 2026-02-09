@@ -1,5 +1,5 @@
 # BORROWING BASE POLICY
-## OPTKAS1-MAIN SPV — Credit Facility Collateral Valuation
+## OPTKAS1 LLC — Credit Facility Collateral Valuation
 
 **Effective Date:** February 2, 2026  
 **Contact:** jimmy@optkas.com
@@ -46,7 +46,7 @@ This policy establishes the methodology for calculating the Borrowing Base, dete
 |:-------|:-----------|:----------|
 | **Base Haircut** | 50% | Private placement, limited secondary market |
 | **Maturity Adjustment** | −5% | >4 years remaining reduces rollover risk |
-| **Insurance Adjustment** | −5% | C.J. Coleman coverage reduces loss severity |
+| **Insurance Adjustment** | −5% | per PPM coverage reduces loss severity |
 | **Total Haircut** | **40%** | Conservative, lender-friendly |
 
 ### 3.3 Advance Rate
@@ -128,7 +128,7 @@ Each BBC shall include:
 | Method | Frequency | Responsible Party |
 |:-------|:----------|:------------------|
 | STC Position Confirmation | Quarterly | Borrower |
-| XRPL Attestation | Weekly | Borrower |
+| cryptographic Attestation | Weekly | Borrower |
 | Lender Audit Right | Annual | Lender |
 
 ### 7.2 Trigger Events

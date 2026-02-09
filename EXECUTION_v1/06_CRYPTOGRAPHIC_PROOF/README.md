@@ -1,6 +1,6 @@
 ﻿# CRYPTOGRAPHIC PROOF SYSTEM
 
-OPTKAS1-MAIN SPV x Unykorn 7777, Inc.
+OPTKAS1 LLC x Unykorn 7777, Inc.
 Execution Date: February 9, 2026
 Status: ALL AGREEMENTS EXECUTED AND CRYPTOGRAPHICALLY ATTESTED
 
@@ -30,5 +30,5 @@ DOCUMENT EXECUTION (6 signed PDFs)
   -> SHA-256 + SHA-512 hashing
   -> Merkle tree construction -> single root hash
   -> IPFS content-addressed storage -> CIDs
-  -> XRPL blockchain attestation -> immutable timestamp
+  -> cryptographic blockchain attestation -> immutable timestamp
   -> Lender verification = mathematical certainty

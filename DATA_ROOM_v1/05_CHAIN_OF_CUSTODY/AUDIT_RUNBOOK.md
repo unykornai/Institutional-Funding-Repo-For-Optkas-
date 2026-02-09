@@ -1,9 +1,9 @@
-﻿# AUDIT RUNBOOK
+# AUDIT RUNBOOK
 ## OPTKAS1 Collateral & System Verification Procedures
 
 **Version:** 1.0  
 **Date:** February 2, 2026  
-**Owner:** OPTKAS1-MAIN SPV  
+**Owner:** OPTKAS1 LLC  
 **Contact:** jimmy@optkas.com
 
 ---
@@ -55,13 +55,13 @@ CUSIP: 87225HAB4
 Verified By: [Name]
 ```
 
-### 3.2 XRPL Attestation Check
+### 3.2 cryptographic Attestation Check
 
 **Objective:** Confirm latest attestation is current
 
 **Procedure:**
 
-- [ ] **Step 1:** Query XRPL account (rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV)
+- [ ] **Step 1:** Query cryptographic account (rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV)
 - [ ] **Step 2:** Retrieve most recent transaction
 - [ ] **Step 3:** Decode memo data
 - [ ] **Step 4:** Verify timestamp is within 24 hours
@@ -69,7 +69,7 @@ Verified By: [Name]
 
 **Query Command:**
 ```bash
-# Using XRPL CLI or explorer
+# Using cryptographic CLI or explorer
 xrpl account_tx rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV --limit 1
 ```
 
@@ -82,7 +82,7 @@ xrpl account_tx rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV --limit 1
 - [ ] Current STC position statement (dated within 30 days)
 - [ ] Latest Borrowing Base Certificate
 - [ ] Previous month's BBC for comparison
-- [ ] Access to XRPL explorer
+- [ ] Access to cryptographic explorer
 - [ ] Calculator / spreadsheet
 
 ### 4.2 Collateral Verification
@@ -119,7 +119,7 @@ Status:                       [COMPLIANT/DEFICIENT]
   ```bash
   certutil -hashfile STC_Statement.pdf SHA256
   ```
-- [ ] **Step 3:** Query XRPL for matching attestation
+- [ ] **Step 3:** Query cryptographic for matching attestation
 - [ ] **Step 4:** Confirm hash matches
 - [ ] **Step 5:** Document verification result
 
@@ -202,7 +202,7 @@ Authorization: [Attach signed authorization from SPV]
 
 ### 5.4 Technology Audit
 
-**XRPL Review:**
+**cryptographic Review:**
 - [ ] Total attestations created
 - [ ] Any gaps in attestation schedule
 - [ ] Hash verification success rate
@@ -289,7 +289,7 @@ Authorization: [Attach signed authorization from SPV]
 [Testing results]
 
 ### 4. Technology Controls
-[XRPL, IPFS, access controls]
+[cryptographic, IPFS, access controls]
 
 ### 5. Covenant Compliance
 [Full-year compliance summary]
@@ -369,7 +369,7 @@ Verified By: _________________ Date: _________
 |:-----|:-----|:------|:------|
 | SPV Manager | — | jimmy@optkas.com | — |
 | Transfer Agent | STC | — | — |
-| Insurance | C.J. Coleman | — | — |
+| Insurance | per PPM | — | — |
 | Legal Counsel | — | — | — |
 
 ### 8.2 System Access
@@ -377,7 +377,7 @@ Verified By: _________________ Date: _________
 | System | URL | Access Level |
 |:-------|:----|:-------------|
 | STC Portal | [URL] | Holder login |
-| XRPL Explorer | xrpl.org | Public |
+| cryptographic Explorer | xrpl.org | Public |
 | IPFS Gateway | [Gateway] | Read-only |
 
 ### 8.3 Document Locations
@@ -391,4 +391,4 @@ Verified By: _________________ Date: _________
 
 ---
 
-*This Runbook is maintained by OPTKAS1-MAIN SPV and updated as procedures change.*
+*This Runbook is maintained by OPTKAS1 LLC and updated as procedures change.*

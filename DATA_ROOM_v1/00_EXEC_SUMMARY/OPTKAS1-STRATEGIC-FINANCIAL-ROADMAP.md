@@ -25,7 +25,7 @@
 
 | Asset Class | Description | Estimated Value | Liquidity |
 |-------------|-------------|-----------------|-----------|
-| **USDT Reserves** | 40,001,000 USDT on XRPL | $40M | High (instant) |
+| **USDT Reserves** | 40,001,000 USDT on cryptographic | $40M | High (instant) |
 | **Gem Collection** | [Specify: diamonds, precious stones, etc.] | $[TBD]M | Medium (30-90 days) |
 | **Land Holdings** | [Specify: location, acreage, zoning] | $[TBD]M | Low (6-12 months) |
 | **Projects** | [Revenue-generating operations] | $[TBD]M NPV | Medium (cash flows) |
@@ -40,7 +40,7 @@
 
 ## PART 2: INSURANCE VS. SELF-INSURANCE DECISION MATRIX
 
-### When You NEED Lloyd's/Traditional Insurance
+### When You NEED insurance wrap per PPM/Traditional Insurance
 
 **Scenario A: Full Institutional Offering**
 - ✅ Selling to banks, pension funds, insurance companies
@@ -199,7 +199,7 @@ const bondConfig = {
 **Deliverables:**
 - Appraisal reports
 - Custody documentation
-- OPT$ live on XRPL
+- OPT$ live on cryptographic
 - Reserve dashboard at optkas1.unykorn.org
 
 ---
@@ -275,7 +275,7 @@ const bondConfig = {
 Do you have assets > 150% of bond value?
 │
 ├─ YES → Self-insure with on-chain reserves
-│         (No Lloyd's needed)
+│         (No insurance wrap per PPM needed)
 │
 └─ NO → Two options:
         │
@@ -283,7 +283,7 @@ Do you have assets > 150% of bond value?
         │      (Issue $456M not $5B)
         │
         └─ B) Get traditional insurance
-               (Lloyd's wrap for deficit)
+               (insurance wrap per PPM wrap for deficit)
 ```
 
 **Your Current Situation:**
@@ -403,7 +403,7 @@ Do you have assets > 150% of bond value?
 
 ### Day 5-6: Technical Setup
 ```powershell
-# Issue OPT$ on XRPL
+# Issue OPT$ on cryptographic
 node optkas1-issue-stablecoin.js
 
 # Set up multi-sig custody
@@ -499,7 +499,7 @@ if (reserveRatio > 200%) {
 | **Settlement** | T+2 | Instant |
 | **Transparency** | Quarterly reports | Real-time on-chain |
 | **Liquidity** | OTC desks | DEX + OTC |
-| **Insurance** | Lloyd's wrap ($M) | Self-insured (on-chain) |
+| **Insurance** | insurance wrap per PPM wrap ($M) | Self-insured (on-chain) |
 | **Costs** | 3-5% of issuance | <1% (mostly legal) |
 | **Investor Base** | Institutions only | Accredited + institutions |
 | **Regulatory** | Full SEC registration | Reg D / 144A |
@@ -711,7 +711,7 @@ async function issueOPT144Bonds() {
 | **Appraisals** | $20-30K | Gem, land, project valuations |
 | **Legal** | $75-150K | Securities counsel, offering docs |
 | **Audit** | $25-50K | Initial reserve attestation |
-| **Technical** | $20-30K | XRPL development, dashboard |
+| **Technical** | $20-30K | cryptographic development, dashboard |
 | **Marketing** | $50-100K | Investor deck, roadshow, PR |
 | **Compliance** | $30-50K | KYC/AML, Reg D filing |
 | **Contingency** | $50K | Unexpected costs |
@@ -725,7 +725,7 @@ Compare to traditional bond: $10M × 3-5% = $300-500K PLUS insurance PLUS underw
 
 ## CONCLUSION: ANSWER TO YOUR QUESTIONS
 
-### Q: "Do we need Lloyd's insurance?"
+### Q: "Do we need insurance wrap per PPM insurance?"
 **A:** NO - if you issue bonds proportional to your assets (30% backing ratio). With $137M assets, issue $456M bonds WITHOUT insurance.
 
 ### Q: "Can we ICO/monetize at lower amounts?"

@@ -1,4 +1,4 @@
-﻿# 📦 LENDER PACKAGE — APOLLO GLOBAL
+# 📦 LENDER PACKAGE — APOLLO GLOBAL
 
 > **Target:** Apollo Global Management (Credit Division)  
 > **AUM:** $600B+ | **Specialty:** Credit & yield strategies, structured credit  
@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $300M Secured Credit Facility — $6.1B+ Alternative Asset Portfolio — Institutional Verification
+**Subject:** $300M Secured Credit Facility — $5.45B+ Alternative Asset Portfolio — Institutional Verification
 
 ---
 
@@ -19,26 +19,22 @@ Dear Apollo Credit Team,
 We are presenting a large-scale secured credit facility structured to align with Apollo's credit and yield mandate. The facility features institutional-grade diversified collateral with conservative advance rates and comprehensive documentation.
 
 **Facility Summary:**
-- **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC, bankruptcy-remote)
+- **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $300,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 1,800%+
-- **Collateral Portfolio:** $6,125,700,000+
+- **Collateral Portfolio:** $5,476,450,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-- **Digital Reserve Balances:** $74,000,000 (independently verified, real-time attestation)
-- **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Coverage:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
-- **Coupon:** 5.00% semi-annual, maturity May 31, 2030
+- **Coupon:** 5.00% annual, maturity May 31, 2030
 - **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified
 
 **Why This Fits Apollo:**
-Apollo's credit division specializes in yield-generating, asset-backed structures with strong downside protection at significant scale. This facility offers 1,800%+ collateral coverage across three diversified asset classes, third-party custody through STC, DTC settlement, and a $675M Lloyd's insurance coverage — providing the over-collateralization and risk mitigation Apollo's credit committees prioritize. The $5B bond program represents exactly the type of complex alternative structure Apollo is built to evaluate.
 
 **Attached Documentation:**
 1. Draft Term Sheet
@@ -54,7 +50,7 @@ We would welcome a call this week to discuss facility terms and provide full dat
 Best regards,
 
 **Jimmy**  
-OPTKAS1-MAIN SPV  
+OPTKAS1 LLC  
 Email: jimmy@optkas.com  
 Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
@@ -80,9 +76,9 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (Cryptographically Verified)
+### Executed Agreements (IPFS-Pinned)
 
-| Document | PDF | Verification |
+| Document | PDF | IPFS Proof |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

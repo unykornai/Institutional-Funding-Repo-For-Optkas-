@@ -1,9 +1,9 @@
-﻿# OPTKAS1 LOAN COMMITMENT PACKAGE
+# OPTKAS1 LOAN COMMITMENT PACKAGE
 ## Pre-Formatted Response to Lender Requirements
 
 **Date:** January 26, 2026  
 **Facility Type:** Secured Credit Facility — Conditional Commitment with SBLC Collateral  
-**Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC)  
+**Borrower:** OPTKAS1 LLC  
 **Contact:** OPTKAS1 Management | jimmy@optkas.com
 
 ---
@@ -23,8 +23,8 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 
 | Field | Response |
 |:------|:---------|
-| **Borrower Legal Name** | OPTKAS1-MAIN SPV |
-| **Entity Type** | Wyoming Series LLC |
+| **Borrower Legal Name** | OPTKAS1 LLC |
+| **Entity Type** | OPTKAS1 LLC |
 | **State of Formation** | Wyoming |
 | **Good Standing** | ✅ Current (Certificate attached) |
 | **Principal Address** | [Insert registered address] |
@@ -61,11 +61,11 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 | **Maturity** | May 31, 2030 | Subscription Agreement |
 | **Coupon** | 5.00% per annum | Subscription Agreement |
 | **Program Size** | $5,000,000,000 | Subscription Agreement |
-| **Serial Number** | TCAT-10M-2030-001 | Certificate |
+| **Serial Number** | Book-entry (STC custody) | Certificate |
 | **Transfer Agent** | Securities Transfer Corporation, Plano TX | STC Statement ✅ |
 | **Settlement** | DTC/DWAC FAST system | Subscription Agreement |
 | **Chairman** | Larry Corona | Subscription Agreement |
-| **Insurance Coverage** | C.J. Coleman & Co., London ($675M coverage / $25.75M premium, 2024-2029) | Invoice attached |
+| **Insurance Wrapper** | per PPM & Co., London ((per PPM) premium, 2024-2029) | Invoice attached |
 
 ### 2.2 Collateral Valuation
 
@@ -154,9 +154,9 @@ Borrower confirms SBLC will be:
 | Document | Status | Location |
 |:---------|:-------|:---------|
 | Private Placement Memorandum (47 pages) | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_2.md |
-| Insurance Coverage Invoice | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_6.md |
+| Insurance Wrapper Invoice | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_6.md |
 | **STC Position Statement** | ✅ **RECEIVED** | data_room/02_Asset/STC_Statement.pdf |
-| **Corporate Bond Certificate** | ✅ **RECEIVED** | data_room/02_Asset/TCAT-10M-2030-001_Certificate.pdf |
+| **Corporate Bond Certificate** | ✅ **RECEIVED** | data_room/02_Asset/Book-entry (STC custody)_Certificate.pdf |
 | **FedEx Delivery Confirmation** | ✅ **SCANNED 2026-01-22** | data_room/02_Asset/FedEx_Scan_2026-01-22.pdf |
 | Legal Opinion (Ownership + Enforceability) | ✅ Ready | data_room/04_Offering/OPTKAST_Opinion_Letter_EXTRACTED.md |
 | Annex A: Tranche Details | ✅ Ready | data_room/04_Offering/ANNEX_A_Tranche_Details_Schedule.md |
@@ -191,17 +191,17 @@ Borrower confirms SBLC will be:
 
 | Capability | Description | How Lender Verifies |
 |:-----------|:------------|:--------------------|
-| XRPL Attestations | Weekly on-chain snapshots with document hashes | Query public XRPL ledger |
+| cryptographic Attestations | Weekly on-chain snapshots with document hashes | Query public cryptographic ledger |
 | Capacity Calculation | Reproducible formula (Face × Haircut × Rate) | Excel tool provided |
 | Document Hash Verification | SHA-256 hashes of all legal docs | Compute locally, compare to on-chain |
-| Covenant Monitoring | Automated breach detection | Alerts via XRPL memo |
+| Covenant Monitoring | Automated breach detection | Alerts via cryptographic memo |
 
 ### 5.2 Reporting Cadence
 
 | Report | Frequency | Delivery Method |
 |:-------|:----------|:----------------|
 | Borrowing Base Certificate | Monthly | PDF + snapshot bundle |
-| XRPL Attestation | Weekly | On-chain (tx hash provided) |
+| cryptographic Attestation | Weekly | On-chain (tx hash provided) |
 | Collateral Valuation | Monthly | Snapshot bundle |
 | Covenant Compliance | Monthly | BBC + exception log |
 | Annual Audit | Yearly | CPA opinion |
@@ -221,9 +221,9 @@ Lender receives step-by-step instructions to independently verify:
 
 ## SECTION 6: LEGAL POSTURE (Critical for Lender Comfort)
 
-### 6.1 What XRPL Is and Is Not
+### 6.1 What cryptographic Is and Is Not
 
-| XRPL IS | XRPL IS NOT |
+| cryptographic IS | cryptographic IS NOT |
 |:--------|:------------|
 | Evidence layer | Custody system |
 | Audit trail | Settlement mechanism |
@@ -235,11 +235,11 @@ Lender receives step-by-step instructions to independently verify:
 If Borrower defaults:
 1. **Traditional enforcement** — UCC foreclosure, account control
 2. **Transfer agent action** — STC transfers collateral per Security Agreement
-3. **XRPL role** — Provides evidence trail (optional, not required)
+3. **cryptographic role** — Provides evidence trail (optional, not required)
 
 ### 6.3 Failure Mode Statement
 
-> "The XRPL evidence layer is provided for lender convenience and transparency. Failure of the XRPL system, network, or attestation process does not affect the validity, enforceability, or perfection of the security interest. All enforcement rights exist independently of the XRPL system."
+> "The cryptographic evidence layer is provided for lender convenience and transparency. Failure of the cryptographic system, network, or attestation process does not affect the validity, enforceability, or perfection of the security interest. All enforcement rights exist independently of the cryptographic system."
 
 ---
 
@@ -299,7 +299,7 @@ If Borrower defaults:
 | # | Document | Format | Pages |
 |:--|:---------|:-------|:------|
 | 12 | TC Advantage PPM | PDF | 47 |
-| 13 | Insurance Coverage Invoice | PDF | 2 |
+| 13 | Insurance Wrapper Invoice | PDF | 2 |
 | 14 | Corporate Formation Docs | PDF | ~10 |
 | 15 | KYC/AML Package | PDF | ~15 |
 

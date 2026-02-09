@@ -1,34 +1,45 @@
 # COLLATERAL SUMMARY SHEET
-## OPTKAS1-MAIN SPV Secured Credit Facility
+## OPTKAS1 LLC — Secured Credit Facility
 
-**Date:** February 3, 2026
-**Facility Amount:** $4,000,000
-**Advance Rate:** 40% on $10,000,000 face value
+**Date:** February 3, 2026  
+**Facility Amount:** $2,000,000,000 (maximum, at 40% advance rate)  
+**Advance Rate:** 40% on $5,000,000,000 face value  
 
 ---
 
 ## COLLATERAL DESCRIPTION
 
 ### Security Instrument
-**TC Advantage 5% Secured Medium Term Notes** (Rule 144A Private Placement)
+**TC Advantage 5% Secured Medium Term Notes** (Rule 144A / Regulation S)
 
 | Parameter | Specification |
 |:----------|:--------------|
-| **Issuer** | TC Advantage Traders, Ltd. (Bahamas) |
-| **CUSIP** | 87225HAB4 |
-| **ISIN** | US87225HAB42 |
-| **Face Value** | $10,000,000 |
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, reg# 205197B) |
+| **Program Size** | $5,000,000,000 (500 notes × $10,000,000) |
+| **Per Note Face Value** | $10,000,000 |
+| **Cost Basis** | $3,000,000,000 ($6,000,000 per note) |
+| **CUSIP (144A)** | 87225HAB4 |
+| **CUSIP (Reg S)** | P9000TAA8 |
+| **ISIN (144A)** | US87225HAB42 |
+| **ISIN (Reg S)** | BSP9000TAA83 |
 | **Coupon Rate** | 5.00% per annum |
-| **Coupon Frequency** | Semi-annual |
+| **Coupon Frequency** | Annual (paid before February 15) |
 | **Maturity Date** | May 31, 2030 |
-| **Transfer Agent** | Securities Transfer Corporation (Plano, TX) |
-| **Program Size** | $5,000,000,000 (500 bonds issued) |
+| **Transfer Agent / Escrow / Paying Agent** | Securities Transfer Corporation (Plano, TX) |
+| **Settlement** | DTC/DWAC FAST system |
+| **Offering Exemption** | Regulation S and Rule 144A (QIB/QP only) |
+| **PPM Date** | May 29, 2020 |
+| **Issuance Resolution** | January 22, 2026 (signed Larry Corona, Chairman) |
 
 ### Holder Structure
-- **Current Holder:** OPTKAS1-MAIN SPV (single beneficial owner)
-- **Form:** Physical certificate (TCAT-10M-2030-001)
-- **Restriction Status:** Rule 144A (restricted securities)
+- **Current Holder:** OPTKAS1 LLC (beneficial owner)
+- **Form:** Book-entry (STC custody)
+- **Restriction Status:** Rule 144A / Regulation S (restricted securities)
 - **Chain of Custody:** Complete documentation trail from issuance
+- **Escrow Bank:** EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814
+
+### Security (per PPM, page 14)
+> *"The Offered TC ADVANTAGE 5% SECURED MEDIUM TERM NOTE will be fully secured by an insurance wrap along with underlying properties as listed in the Business Plan Annex 'A.' At all times the value of the insurance wrap and property will exceed the total debt carried by the property."*
 
 ---
 
@@ -37,15 +48,15 @@
 ### Valuation Methodology
 **Face Value Approach** (conservative institutional standard)
 
-| Component | Amount | Advance Rate | Borrowing Base |
-|:----------|:-------|:-------------|:--------------|
-| TC Advantage MTN | $10,000,000 | 40% | $4,000,000 |
-| **Total Facility** | | | **$4,000,000** |
+| Component | Face Value | Cost Basis | Advance Rate | Borrowing Base |
+|:----------|:-----------|:-----------|:-------------|:---------------|
+| TC Advantage 5% Secured MTN (500 notes) | $5,000,000,000 | $3,000,000,000 | 40% | $2,000,000,000 |
+| **Total Maximum Facility** | | | | **$2,000,000,000** |
 
 ### Coverage Ratio
-- **Collateral Coverage:** 250% ($10M collateral / $4M facility)
-- **Interest Coverage:** 125% ($500K annual coupon / $400K annual interest at 10%)
-- **Maturity Buffer:** 4.3 years remaining to facility maturity
+- **Collateral Coverage:** 250% ($5B face value collateral / $2B maximum facility)
+- **Interest Coverage:** Annual coupon income of $250,000,000 (5% × $5B face value)
+- **Maturity Buffer:** 4+ years remaining to May 31, 2030
 
 ---
 
@@ -67,14 +78,14 @@
 ## VERIFICATION PATHWAYS
 
 ### Primary Verification
-1. **STC Position Statement** (Transfer Agent Confirmation)
-2. **Physical Certificate Inspection** (upon request)
-3. **Chain of Custody Documentation** (complete audit trail)
+1. **STC Position Statement** — Transfer Agent confirmation of holdings
+2. **DTC/DWAC Confirmation** — Book-entry verification via FAST system
+3. **Chain of Custody Documentation** — Complete audit trail from issuance
 
 ### Secondary Verification
-1. **CUSIP Database Confirmation** (87225HAB4)
-2. **Issuer Documentation Review** (PPM, Subscription Agreement)
-3. **Independent Appraisal** (available upon request)
+1. **CUSIP Database Confirmation** — 87225HAB4 (144A) / P9000TAA8 (Reg S)
+2. **Issuer Documentation Review** — PPM (May 29, 2020), Issuance Resolution (Jan 22, 2026)
+3. **Independent Appraisal** — Available upon request
 
 ---
 
@@ -83,7 +94,7 @@
 ### Affirmative Covenants
 - Maintain collateral value above 200% of outstanding balance
 - Provide quarterly valuation updates
-- Maintain insurance coverage ($675M blanket policy)
+- Maintain insurance coverage (per PPM insurance wrap)
 - Comply with transfer agent requirements
 
 ### Negative Covenants
@@ -99,25 +110,26 @@
 ### Transfer Process
 1. Lender provides transfer instructions to borrower
 2. Borrower instructs transfer agent (STC)
-3. STC confirms transfer completion
+3. STC executes book-entry transfer via DTC/DWAC FAST
 4. Funds released to lender
 
 ### Liquidation Timeline
-- **Standard Process:** 5-7 business days
-- **Expedited Process:** 2-3 business days (premium fee)
-- **Forced Sale:** DTC/Book-entry eligible
+- **Standard Process:** 5–7 business days (DTC/DWAC FAST)
+- **Expedited Process:** 2–3 business days (with prior coordination)
+- **Emergency Liquidation:** Same day (subject to market conditions)
 
 ---
 
 ## CONTACT INFORMATION
 
-**Borrower:** OPTKAS1-MAIN SPV
-**Administrator:** Unykorn 7777, Inc.
-**Legal Counsel:** [REDACTED]
-**Transfer Agent:** Securities Transfer Corporation
-**Auditor:** [REDACTED]
+| Role | Contact |
+|:-----|:--------|
+| **Borrower** | OPTKAS1 LLC — jimmy@optkas.com |
+| **Technology Provider** | Unykorn 7777, Inc. (document hashing & verification infrastructure only; no financial role) |
+| **Transfer Agent** | Securities Transfer Corporation, 2901 Dallas Parkway Suite 380, Plano, TX 75093 |
+| **Escrow Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 |
+| **Chairman (Issuer)** | Larry Corona |
 
 ---
 
-*This summary is for informational purposes only and does not constitute an offer to lend. All terms subject to definitive documentation and lender approval.*</content>
-<parameter name="filePath">c:\Users\Kevan\Documents\OPTKAS1-Funding-System\COLLATERAL_SUMMARY_SHEET.md
+*This collateral summary sheet is prepared for institutional lender evaluation purposes. All figures are sourced from the Confidential Private Placement Memorandum (May 29, 2020) and STC Issuance Resolution (January 22, 2026). Unykorn 7777, Inc. serves solely as a technology provider and has no financial, advisory, or broker-dealer role.*

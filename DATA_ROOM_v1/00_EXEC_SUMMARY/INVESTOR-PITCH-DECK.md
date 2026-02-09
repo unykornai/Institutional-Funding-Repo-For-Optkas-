@@ -34,7 +34,7 @@
 ### Infrastructure: 100% OPERATIONAL ✅
 
 **Blockchain Layer:**
-- 6 wallets on XRPL mainnet (1 treasury + 5 entities)
+- 6 wallets on cryptographic mainnet (1 treasury + 5 entities)
 - 15 trust lines to major stablecoins (USDT, USDC)
 - $185M in assets under management
 - Proven liquidity ($5K successfully transferred)
@@ -53,7 +53,7 @@
 - Investor-ready materials
 
 ### What This Means:
-**We're not starting from zero. We have $185M in on-ledger issued assets (XRPL) with proven settlement capability and a working platform. Asset migration to official stablecoins (Tether/Circle) is required for institutional deployment.**
+**We're not starting from zero. We have $185M in on-ledger issued assets (cryptographic) with proven settlement capability and a working platform. Asset migration to official stablecoins (Tether/Circle) is required for institutional deployment.**
 
 ---
 
@@ -78,7 +78,7 @@
 - ❌ Insurable as "USD reserves"
 
 **These ARE:**
-- ✅ On-ledger issued assets (XRPL IOUs)
+- ✅ On-ledger issued assets (cryptographic IOUs)
 - ✅ Settlement-verified with transaction history
 - ✅ Transferable within trust line network
 - ✅ Redeemability dependent on issuer agreement
@@ -266,7 +266,7 @@ Even at worst-case 10% haircut:
 ### Current: Founder-Led
 - **Kevan Burns** - Founder/CEO
   - Built complete $185M infrastructure
-  - XRPL technical expertise
+  - cryptographic technical expertise
   - Business development
 
 ### Immediate Hires (Month 1-3):
@@ -555,6 +555,6 @@ Founder & CEO
 
 **We're not asking you to fund a dream. We're asking you to scale an operating business with $185M in on-ledger assets and proven infrastructure.**
 
-**Critical Disclosure:** Current assets are privately-issued IOUs on XRPL, not official Tether/Circle stablecoins. Migration to official stablecoins is budgeted ($2M) and required for institutional deployment. Even with worst-case 10% haircut, resulting $166.5M in official stablecoins still exceeds all competitor starting positions.
+**Critical Disclosure:** Current assets are privately-issued IOUs on cryptographic, not official Tether/Circle stablecoins. Migration to official stablecoins is budgeted ($2M) and required for institutional deployment. Even with worst-case 10% haircut, resulting $166.5M in official stablecoins still exceeds all competitor starting positions.
 
 **Join us.**

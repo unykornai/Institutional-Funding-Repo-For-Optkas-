@@ -1,4 +1,4 @@
-﻿# XRPL ATTESTATION SPECIFICATION
+# cryptographic ATTESTATION SPECIFICATION
 ## OPTKAS1 Evidence Layer Technical Documentation
 
 **Version:** 1.0  
@@ -17,7 +17,7 @@ The cryptographic attestation system provides an immutable, publicly verifiable 
 
 | Principle | Implementation |
 |:----------|:---------------|
-| **Immutability** | XRPL transaction finality (4-5 seconds) |
+| **Immutability** | cryptographic transaction finality (4-5 seconds) |
 | **Transparency** | Public ledger, anyone can verify |
 | **Non-custody** | Evidence only, no assets on-chain |
 | **Simplicity** | Memo-based attestations |
@@ -45,7 +45,7 @@ This system **DOES**:
 | Parameter | Value |
 |:----------|:------|
 | **Address** | rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV |
-| **Network** | XRPL Mainnet |
+| **Network** | cryptographic Mainnet |
 | **Reserve** | 10 XRP minimum |
 | **Purpose** | Attestation anchor only |
 
@@ -242,7 +242,7 @@ def hash_json(data: dict) -> str:
 ```python
 snapshot = {
     "timestamp": "2026-02-01T00:00:00Z",
-    "facility_id": "OPTKAS1-MAIN",
+    "facility_id": "OPTKAS1 LLC",
     "collateral": {
         "cusip": "87225HAB4",
         "face_value": "10000000.00",
@@ -309,7 +309,7 @@ def verify_document(file_path: str, expected_hash: str) -> bool:
 ### 6.4 Verification Report
 
 ```markdown
-## XRPL Attestation Verification Report
+## cryptographic Attestation Verification Report
 
 **Document:** STC_Position_Statement_2026-02-01.pdf
 **Expected Hash:** sha256:abc123...
@@ -443,7 +443,7 @@ async function verifyHash(
 
 | Key Type | Protection |
 |:---------|:-----------|
-| XRPL secret | Encrypted storage, HSM backup |
+| cryptographic secret | Encrypted storage, HSM backup |
 | API keys | Rotate quarterly |
 | Signing keys | Multi-signature for high-value |
 
@@ -470,7 +470,7 @@ async function verifyHash(
 | "text/optkas1" | 746578742F6F70746B617331 |
 | "application/json" | 6170706C69636174696F6E2F6A736F6E |
 
-### 10.2 XRPL Resources
+### 10.2 cryptographic Resources
 
 - Mainnet WebSocket: wss://s1.ripple.com
 - Testnet WebSocket: wss://s.altnet.rippletest.net:51233

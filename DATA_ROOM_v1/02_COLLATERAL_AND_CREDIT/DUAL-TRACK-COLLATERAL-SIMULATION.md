@@ -1,4 +1,4 @@
-﻿# DUAL-TRACK COLLATERAL ARCHITECTURE
+# DUAL-TRACK COLLATERAL ARCHITECTURE
 ## Simulation Using Actual Assets
 
 **Document Type:** Technical Simulation & Architecture Example  
@@ -12,20 +12,19 @@
 
 This simulation demonstrates Uny's **dual-track collateral architecture** using actual assets:
 
-- **Track A (Liquid):** 74,000,000 digital reserves IOUs → Drives issuance
-- **Track B (Illiquid):** $376.7M appraised gemstones → Evidence only, zero issuance weight
+- **Track A (Liquid):** 74,000,000 cryptographic USDT IOUs → Drives issuance
 
 **Critical Principle:** The system maintains institutional credibility by applying extreme conservatism to illiquid assets, ensuring only verifiable, liquid proofs drive economic activity.
 
 ---
 
-## TRACK A: digital reserves PROOF (PRIMARY ISSUANCE BASE)
+## TRACK A: cryptographic USDT PROOF (PRIMARY ISSUANCE BASE)
 
 ### Asset Characteristics
 
 | Property | Value |
 |----------|-------|
-| **Asset Type** | XRPL Issued Asset (IOU) |
+| **Asset Type** | cryptographic Issued Asset (IOU) |
 | **Issuer** | rE85pdvr4icCPh9cpPr1HrSCVJCUhZ1Dqm |
 | **Holder** | rpP12ND2K7ZRzXZBEUnQM2i18tMGytXnW1 |
 | **Amount** | 74,000,000 USDT |
@@ -37,7 +36,7 @@ This simulation demonstrates Uny's **dual-track collateral architecture** using 
 
 ```json
 {
-  "proof_type": "XRPL_IOU",
+  "proof_type": "cryptographic_IOU",
   "validation_status": "PASS",
   "checks_performed": [
     {
@@ -294,7 +293,7 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 ## COMPARATIVE ANALYSIS: WHY TRACK A DRIVES SYSTEM, TRACK B DOES NOT
 
-| Criterion | Track A (digital reserves) | Track B (Gems) | Winner |
+| Criterion | Track A (cryptographic USDT) | Track B (Gems) | Winner |
 |-----------|---------------------|----------------|---------|
 | **Verification** | On-ledger, cryptographic | Document-based, off-ledger | Track A |
 | **Liquidity** | High (DEX, redemption, OTC) | Extremely low (no market) | Track A |
@@ -311,15 +310,15 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 ## VAULT ARCHITECTURE: DUAL-TRACK IMPLEMENTATION
 
-### Vault A: XRPL Proof Vault (Active Issuance)
+### Vault A: cryptographic Proof Vault (Active Issuance)
 
 ```json
 {
-  "vault_id": "VAULT-XRPL-001",
+  "vault_id": "VAULT-cryptographic-001",
   "vault_type": "LIQUID_CRYPTO_PROOF",
   "state": "LOCKED",
   "collateral": {
-    "asset_class": "XRPL_IOU",
+    "asset_class": "cryptographic_IOU",
     "asset_id": "USDT_rE85pd_to_rpP12N",
     "amount": 74000000,
     "currency": "USDT",
@@ -383,7 +382,7 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 ### Track A TAR Chain (Issuance-Enabling)
 
 ```
-1. XRPL_TX_DISCOVERED
+1. cryptographic_TX_DISCOVERED
    → Transaction hash: 9E880D...
    → Amount: 37,000,000 USDT
    → Ledger: 100167666
@@ -403,7 +402,7 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
    → Max Issuable: 42,180,000 UNY-REF
 
 5. VAULT_LOCKED
-   → Vault ID: VAULT-XRPL-001
+   → Vault ID: VAULT-cryptographic-001
    → Issuance capability: ACTIVE
 ```
 
@@ -443,7 +442,7 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 ### What Banks See
 
-**Track A (XRPL):**
+**Track A (cryptographic):**
 > "Verified, liquid proof that can be independently replicated. Conservative haircuts applied. This drives issuance."
 
 **Track B (Gems):**
@@ -469,15 +468,15 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 ## LIQUIDITY PATHWAY: TRACK A → AAVE EXAMPLE
 
-### Scenario: Converting XRPL Proof into DeFi Borrowing Capacity
+### Scenario: Converting cryptographic Proof into DeFi Borrowing Capacity
 
 **Objective:** Use Track A collateral to access Aave liquidity
 
-#### Step 1: digital reserves → Exchange → EVM USDC
+#### Step 1: cryptographic USDT → Exchange → EVM USDC
 
 ```
-Input:           5,000,000 digital reserves (tranche 1 of 74M)
-Route:           XRPL → Regulated Exchange → Arbitrum USDC
+Input:           5,000,000 cryptographic USDT (tranche 1 of 74M)
+Route:           cryptographic → Regulated Exchange → Arbitrum USDC
 Output:          5,000,000 USDC (Arbitrum)
 Time:            2-4 hours
 Risk Controls:   Tranche discipline, multi-venue option
@@ -594,12 +593,12 @@ Liquidation Risk: Very low (stable/stable pair)
 
 ---
 
-### Phase 2: Activate Track A (XRPL) for Issuance
+### Phase 2: Activate Track A (cryptographic) for Issuance
 
 **Actions:**
-1. Confirm XRPL proof verification (already done)
+1. Confirm cryptographic proof verification (already done)
 2. Apply conservative risk parameters
-3. Lock into VAULT-XRPL-001 with `issuance_weight = 1.0`
+3. Lock into VAULT-cryptographic-001 with `issuance_weight = 1.0`
 4. Calculate max issuable (42.18M UNY-REF)
 5. Execute initial conservative issuance (e.g., 5M UNY-REF, leaving 37M capacity)
 
@@ -615,7 +614,7 @@ Liquidation Risk: Very low (stable/stable pair)
 ### Phase 3: Optional - Bridge to DeFi (Track A Only)
 
 **Actions (Tranche 1):**
-1. Convert 5M digital reserves → Arbitrum USDC
+1. Convert 5M cryptographic USDT → Arbitrum USDC
 2. Deposit to Aave v3
 3. Borrow 2.5M USDC (conservative 50% LTV)
 4. Monitor health factor (target >2.0)
@@ -734,7 +733,7 @@ interface CollateralTrack {
 
 interface TrackA extends CollateralTrack {
   track_id: "A";
-  asset_class: "XRPL_IOU";
+  asset_class: "cryptographic_IOU";
   liquidity_tier: "HIGH";
   verification_method: "ON_LEDGER";
   issuance_weight: 1.0;
@@ -760,7 +759,7 @@ interface TrackB extends CollateralTrack {
 
 ```toml
 [track_a_xrpl_iou]
-asset_class = "XRPL_IOU"
+asset_class = "cryptographic_IOU"
 base_haircut = 0.10
 liquidity_factor = 0.95
 enforceability_factor = 1.00
@@ -784,11 +783,10 @@ policy_reason = "ILLIQUID_NO_MARKET_DEPTH"
 This simulation demonstrates how Uny's dual-track architecture:
 
 1. **Drives Economics with Liquid Proofs** (Track A)
-   - 74M digital reserves → 42.18M UNY-REF issuance capacity
+   - 74M cryptographic USDT → 42.18M UNY-REF issuance capacity
    - Verifiable, replayable, institution-grade
 
 2. **Discloses Illiquid Assets Honestly** (Track B)
-   - $376.7M appraised gems → $0 issuance contribution
    - Evidence anchored, transparently excluded from economics
 
 3. **Maintains Institutional Credibility**

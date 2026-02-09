@@ -1,6 +1,6 @@
 # LENDER PROOF PACKAGE
 
-## OPTKAS1-MAIN SPV — Cryptographic Document Verification
+## OPTKAS1 LLC — Cryptographic Document Verification
 
 **Generated:** 2026-02-09T17:07:24.139941+00:00
 **Merkle Root:** `5A859413146252D45254FA1BA0B391B23E10F5C880FB5143DE5888EFD36749A8`
@@ -43,7 +43,7 @@ graph TB
 
     subgraph IMMUTABLE["IMMUTABLE STORAGE"]
         IPFS["IPFS Network\nkubo/0.39.0"]
-        XRPL["XRPL Ledger\nMemo Attestation"]
+        cryptographic["cryptographic Ledger\nMemo Attestation"]
         GIT["GitHub\nunykornai/Institutional-Funding-Repo-For-Optkas-"]
     end
 
@@ -57,12 +57,12 @@ graph TB
     D1 & D2 & D3 & D4 & D5 & D6 --> HASH
     HASH --> MERKLE --> MANIFEST
     D1 & D2 & D3 & D4 & D5 & D6 --> IPFS
-    MANIFEST --> IPFS & XRPL & GIT
+    MANIFEST --> IPFS & cryptographic & GIT
     IPFS --> DL --> CHECK --> COMPARE --> RESULT
 
     style RESULT fill:#00aa00,color:#fff
     style MANIFEST fill:#1a73e8,color:#fff
-    style XRPL fill:#ff9500,color:#fff
+    style cryptographic fill:#ff9500,color:#fff
     style MERKLE fill:#7c4dff,color:#fff
 ```
 
@@ -76,7 +76,7 @@ sequenceDiagram
     participant O as OPTKAS1 SPV
     participant SYS as Proof Engine
     participant IPFS as IPFS Network
-    participant XRPL as XRPL Ledger
+    participant cryptographic as cryptographic Ledger
     participant L as Lender
 
     Note over U,O: Phase 1 — Execution
@@ -89,12 +89,12 @@ sequenceDiagram
     SYS->>SYS: Build Merkle tree
     SYS->>IPFS: Pin 6 docs + manifest
     IPFS-->>SYS: Return CIDs
-    SYS->>XRPL: Anchor Merkle root
+    SYS->>cryptographic: Anchor Merkle root
 
     Note over L,IPFS: Phase 3 — Verification
     SYS->>L: Share manifest CID
     L->>IPFS: Download & verify
-    L->>XRPL: Check attestation
+    L->>cryptographic: Check attestation
     L-->>L: ✅ All verified
 ```
 
@@ -106,11 +106,11 @@ sequenceDiagram
 |-----------------|----------|---------------|
 | Partnership is executed | 5 signed agreements + consolidated sigs | Download from IPFS, inspect signatures |
 | Documents are unaltered | SHA-256 hashes match | Recompute hash, compare to manifest |
-| Execution is timestamped | IPFS pin date + XRPL memo | XRPL explorer lookup |
+| Execution is timestamped | IPFS pin date + cryptographic memo | cryptographic explorer lookup |
 | No hidden modifications | Content-addressed CIDs | `ipfs add -n --only-hash <file>` |
 | Governance structure exists | Strategic Agreement + Exhibit A | Document review |
 | No defaults or claims | Estoppel Certificate (DOC-005) | Legal review |
-| Professional infrastructure | GitHub + IPFS + XRPL + Merkle tree | Repository inspection |
+| Professional infrastructure | GitHub + IPFS + cryptographic + Merkle tree | Repository inspection |
 
 ---
 

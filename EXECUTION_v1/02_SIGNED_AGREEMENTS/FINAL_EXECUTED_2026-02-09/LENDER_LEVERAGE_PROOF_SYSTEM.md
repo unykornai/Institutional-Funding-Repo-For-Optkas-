@@ -1,9 +1,9 @@
-﻿# LENDER LEVERAGE PROOF SYSTEM
+# LENDER LEVERAGE PROOF SYSTEM
 
 ## Cryptographic Document Verification & Leverage Architecture
 
-**Entity:** OPTKAS1-MAIN SPV  
-**Technology Provider:** Unykorn 7777, Inc. (infrastructure only; no financial role)  
+**Entity:** OPTKAS1 LLC  
+**Infrastructure Partner:** Unykorn 7777, Inc.  
 **System Version:** 1.0.0  
 **Execution Date:** February 9, 2026  
 **Verification Status:** ✅ ALL AGREEMENTS FULLY EXECUTED & CRYPTOGRAPHICALLY PINNED
@@ -14,7 +14,7 @@
 
 This document provides lenders with a **complete, independently verifiable proof system** demonstrating:
 
-1. **All infrastructure agreements are fully executed** with authorized signatures
+1. **All partnership agreements are fully executed** with authorized signatures
 2. **Every document is cryptographically fingerprinted** (SHA-256)
 3. **Every document is pinned to IPFS** (content-addressed, immutable storage)
 4. **A machine-readable manifest** links all artifacts for automated verification
@@ -77,7 +77,7 @@ graph TB
     end
 
     subgraph "BLOCKCHAIN ANCHOR"
-        XRPL["XRPL Ledger<br/>Memo Attestation"]
+        cryptographic["cryptographic Ledger<br/>Memo Attestation"]
     end
 
     subgraph "LENDER VERIFICATION"
@@ -92,7 +92,7 @@ graph TB
     D1 & D2 & D3 & D4 & D5 & D6 --> IPFS
     MANIFEST --> IPFS
     IPFS --> GW
-    MANIFEST --> XRPL
+    MANIFEST --> cryptographic
     GW --> LV
     LV --> LH
     LH --> LC
@@ -100,7 +100,7 @@ graph TB
 
     style LPASS fill:#00aa00,color:#fff
     style MANIFEST fill:#1a73e8,color:#fff
-    style XRPL fill:#ff9500,color:#fff
+    style cryptographic fill:#ff9500,color:#fff
 ```
 
 ---
@@ -110,10 +110,10 @@ graph TB
 ```mermaid
 sequenceDiagram
     participant U as Unykorn 7777, Inc.
-    participant O as OPTKAS1-MAIN SPV
+    participant O as OPTKAS1 LLC
     participant SYS as Funding System
     participant IPFS as IPFS Network
-    participant XRPL as XRPL Ledger
+    participant cryptographic as cryptographic Ledger
     participant L as Lender
 
     Note over U,O: Phase 1 — Agreement Execution
@@ -129,15 +129,15 @@ sequenceDiagram
     IPFS-->>SYS: Return 6 CIDs + manifest CID
     SYS->>SYS: Build CRYPTOGRAPHIC_MANIFEST.json
     SYS->>IPFS: Pin manifest
-    SYS->>XRPL: Anchor manifest CID (memo tx)
-    XRPL-->>SYS: TX hash confirmation
+    SYS->>cryptographic: Anchor manifest CID (memo tx)
+    cryptographic-->>SYS: TX hash confirmation
 
     Note over L,IPFS: Phase 3 — Lender Verification
     SYS->>L: Share manifest CID + repo link
     L->>IPFS: Download documents via CID
     L->>L: Compute SHA-256 of each document
     L->>L: Compare hashes to manifest
-    L->>XRPL: Verify cryptographic attestation timestamp
+    L->>cryptographic: Verify cryptographic attestation timestamp
     L-->>L: ✅ All documents verified
 ```
 
@@ -151,12 +151,12 @@ sequenceDiagram
 |-----------|---------|-------------------|
 | **Partnership is real** | 5 fully executed agreements + consolidated signatures | Download from IPFS, verify signatures visually |
 | **Documents haven't been altered** | SHA-256 hashes match across all copies | Hash comparison (command line or any SHA-256 tool) |
-| **Timestamped execution** | IPFS pin date + cryptographic attestation | XRPL explorer lookup |
+| **Timestamped execution** | IPFS pin date + cryptographic attestation | cryptographic explorer lookup |
 | **No hidden modifications** | Content-addressed storage (CID = hash of content) | `ipfs add -n --only-hash <file>` |
 | **Governance structure exists** | Strategic Infrastructure Agreement + Economic Participation | Document review |
 | **Economic terms are clear** | Exhibit A — Option A (10%) or Option B (4%+2%) | Document review |
 | **No defaults or claims** | Estoppel Certificate (Document #5) | Legal review |
-| **Professional infrastructure** | GitHub repo + automated system + IPFS + XRPL | Repository inspection |
+| **Professional infrastructure** | GitHub repo + automated system + IPFS + cryptographic | Repository inspection |
 
 ### Leverage Positioning for Credit Committee
 
@@ -167,13 +167,13 @@ sequenceDiagram
 │                                                                     │
 │  1. COLLATERAL ─────────── Bond-backed (STC custody)               │
 │     ↓                                                               │
-│  2. STRUCTURE ──────────── Wyoming Series LLC, bankruptcy-remote    │
+│  2. STRUCTURE ──────────── OPTKAS1 LLC, bankruptcy-remote    │
 │     ↓                                                               │
 │  3. GOVERNANCE ─────────── Executed partner agreements (THIS SYSTEM)│
 │     ↓                                                               │
 │  4. VERIFICATION ───────── IPFS + SHA-256 + cryptographic attestation       │
 │     ↓                                                               │
-│  5. INSURANCE ──────────── $675M Lloyd's coverage                  │
+│  5. INSURANCE ──────────── (per PPM) insurance wrap per PPM wrapper                  │
 │     ↓                                                               │
 │  6. COMPLIANCE ─────────── KYC/AML + jurisdictional                 │
 │     ↓                                                               │
@@ -246,7 +246,7 @@ EXECUTION STATUS:
 ├── ✅ All documents pinned to IPFS (6 PDFs + hashes + manifest)
 ├── ✅ Cryptographic manifest created and pinned
 ├── ✅ System organized in EXECUTION_v1/02_SIGNED_AGREEMENTS/
-├── ⏳ XRPL on-chain attestation (ready to execute)
+├── ⏳ cryptographic on-chain attestation (ready to execute)
 └── ✅ READY FOR LENDER SUBMISSION
 
 LENDER READINESS:
@@ -263,4 +263,4 @@ LENDER READINESS:
 **Cryptographic Proof:** COMPLETE  
 **IPFS Pinning:** COMPLETE  
 **Last Updated:** February 9, 2026  
-**Owner:** OPTKAS1-MAIN SPV + Unykorn 7777, Inc.
+**Owner:** OPTKAS1 LLC + Unykorn 7777, Inc.

@@ -12,9 +12,9 @@
 
 Ladies and Gentlemen:
 
-**Re: OPTKAS1-MAIN SPV – Secured Revolving Credit Facility**
+**Re: OPTKAS1 LLC – Secured Revolving Credit Facility**
 
-We have acted as counsel to OPTKAS1-MAIN SPV, a Wyoming series limited liability company (the "Borrower"), in connection with the Facility Agreement dated as of [FACILITY_DATE] (the "Facility Agreement"), by and between the Borrower and [LENDER NAME] (the "Lender"). This opinion is delivered to you pursuant to Section [X] of the Facility Agreement.
+We have acted as counsel to OPTKAS1 LLC, a OPTKAS1 LLC (the "Borrower"), in connection with the Facility Agreement dated as of [FACILITY_DATE] (the "Facility Agreement"), by and between the Borrower and [LENDER NAME] (the "Lender"). This opinion is delivered to you pursuant to Section [X] of the Facility Agreement.
 
 ---
 
@@ -34,7 +34,7 @@ In connection with this opinion, we have reviewed the following documents (colle
 
 6. The Operating Agreement of the Borrower dated [DATE] (the "Operating Agreement");
 
-7. The Series Designation Certificate for OPTKAS1-MAIN dated [DATE];
+7. The Series Designation Certificate for OPTKAS1 LLC dated [DATE];
 
 8. Certificate of Good Standing for the Borrower issued by the Wyoming Secretary of State dated [DATE];
 

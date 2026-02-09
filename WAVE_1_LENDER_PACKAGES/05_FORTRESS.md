@@ -1,4 +1,4 @@
-﻿# 📦 LENDER PACKAGE — FORTRESS INVESTMENT GROUP
+# 📦 LENDER PACKAGE — FORTRESS INVESTMENT GROUP
 
 > **Target:** Fortress Investment Group (Credit & Real Assets)  
 > **AUM:** $45B+ | **Specialty:** Credit funds, real asset lending  
@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M Secured Credit Facility — $6.1B+ Multi-Asset Portfolio — Credit & Real Assets
+**Subject:** $150M Secured Credit Facility — $5.45B+ Multi-Asset Portfolio — Credit & Real Assets
 
 ---
 
@@ -19,26 +19,22 @@ Dear Fortress Credit & Real Assets Team,
 We are presenting a large-scale secured credit facility structured to align with Fortress's credit and real asset lending mandate, offering institutional-grade diversified collateral with conservative advance rates and comprehensive documentation.
 
 **Facility Summary:**
-- **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC, bankruptcy-remote)
+- **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $6,125,700,000+
+- **Collateral Portfolio:** $5,476,450,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-- **Digital Reserve Balances:** $74,000,000 (independently verified, real-time attestation)
-- **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Coverage:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
-- **Coupon:** 5.00% semi-annual, maturity May 31, 2030
+- **Coupon:** 5.00% annual, maturity May 31, 2030
 - **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits Fortress:**
-Fortress has deep experience in credit opportunities where strong collateral packages create asymmetric risk/reward profiles. This facility combines a $5B DTC-eligible bond program with $74M independently verified digital reserves and $376.7M in hard assets — the type of diversified, over-collateralized portfolio Fortress's credit funds are built to evaluate. The conservative 40% advance rate and $675M Lloyd's coverage provide significant downside protection.
 
 **Attached Documentation:**
 1. Draft Term Sheet
@@ -54,7 +50,7 @@ We welcome the opportunity to schedule a call this week to discuss the facility 
 Best regards,
 
 **Jimmy**  
-OPTKAS1-MAIN SPV  
+OPTKAS1 LLC  
 Email: jimmy@optkas.com  
 Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
@@ -80,9 +76,9 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (Cryptographically Verified)
+### Executed Agreements (IPFS-Pinned)
 
-| Document | PDF | Verification |
+| Document | PDF | IPFS Proof |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

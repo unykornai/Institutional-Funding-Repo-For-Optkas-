@@ -1,4 +1,4 @@
-﻿# OPTKAS1 EXECUTIVE SUMMARY
+# OPTKAS1 EXECUTIVE SUMMARY
 ## Secured Credit Facility Backed by Investment-Grade Notes
 
 **Prepared for:** Prospective Lenders  
@@ -9,7 +9,7 @@
 
 ## The Opportunity
 
-OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateralized by TC Advantage 5% Secured Medium Term Notes with **250%+ coverage ratio** and traditional UCC enforcement rights.
+OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by TC Advantage 5% Secured Medium Term Notes with **250%+ coverage ratio** and traditional UCC enforcement rights.
 
 ---
 
@@ -23,7 +23,7 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 | **Face Value** | $10,000,000+ | STC Position Statement |
 | **Maturity** | May 31, 2030 | Certificate |
 | **Coupon** | 5.00% per annum | Certificate |
-| **Insurance** | $675M C.J. Coleman wrapper | Premium invoice |
+| **Insurance** | (per PPM) per PPM wrapper | Premium invoice |
 | **Transfer Agent** | Securities Transfer Corporation | Industry standard |
 
 ---
@@ -69,7 +69,7 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 | **Verifiable** | STC position statement + cryptographic attestations |
 | **Enforceable** | Standard UCC foreclosure rights |
 | **Income-Producing** | 5% coupon supports debt service |
-| **Insured** | $675M C.J. Coleman coverage |
+| **Insured** | (per PPM) per PPM coverage |
 
 ### Risk Mitigants
 
@@ -96,9 +96,9 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 
 ## Borrower Profile
 
-| Entity | OPTKAS1-MAIN SPV |
+| Entity | OPTKAS1 LLC |
 |:-------|:-----------------|
-| **Structure** | Wyoming Series LLC |
+| **Structure** | OPTKAS1 LLC |
 | **Purpose** | Single-asset SPV for collateral management |
 | **Bankruptcy Remote** | Yes (series isolation) |
 | **Management** | Professional manager with signatory authority |

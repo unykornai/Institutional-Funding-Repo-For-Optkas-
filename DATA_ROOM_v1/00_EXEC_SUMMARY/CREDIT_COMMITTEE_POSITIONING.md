@@ -1,6 +1,6 @@
-﻿# CREDIT COMMITTEE POSITIONING BRIEF
+# CREDIT COMMITTEE POSITIONING BRIEF
 
-**Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC)
+**Borrower:** OPTKAS1 LLC
 **Facility Request:** $2,400,000 – $4,000,000 Secured Credit Facility
 **Date:** February 7, 2026
 **Classification:** CONFIDENTIAL — For Credit Committee Use Only
@@ -9,7 +9,7 @@
 
 ## TRANSACTION OVERVIEW
 
-OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-grade medium-term notes. The facility is structured as a standard borrowing-base loan with traditional UCC enforcement rights and independent custody verification.
+OPTKAS1 LLC seeks a secured credit facility collateralized by investment-grade medium-term notes. The facility is structured as a standard borrowing-base loan with traditional UCC enforcement rights and independent custody verification.
 
 ---
 
@@ -21,11 +21,11 @@ OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-gr
 | **CUSIP** | 87225HAB4 | STC Position Statement |
 | **ISIN** | US87225HAB42 | STC Verified |
 | **Face Value** | $10,000,000 | STC Position Statement |
-| **Coupon** | 5.00% per annum, semi-annual | Certificate |
+| **Coupon** | 5.00% per annum, annual | Certificate |
 | **Maturity** | May 31, 2030 (4.3 years remaining) | Certificate |
 | **Transfer Agent** | Securities Transfer Corporation (Plano, TX) | Industry standard |
-| **Insurance** | $675M blanket coverage (C.J. Coleman) | Premium invoice on file |
-| **Form** | Physical certificate TCAT-10M-2030-001 | Chain of custody complete |
+| **Insurance** | (per PPM) blanket coverage (per PPM) | Premium invoice on file |
+| **Form** | Physical certificate Book-entry (STC custody) | Chain of custody complete |
 
 ---
 
@@ -52,7 +52,7 @@ OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-gr
 
 - **STC-held** — Securities Transfer Corporation maintains position records
 - **Physically delivered** — Certificate received, FedEx chain of custody documented
-- **Insured** — $675M C.J. Coleman coverage exceeds facility size by 6x
+- **Insured** — (per PPM) per PPM coverage exceeds facility size by 6x
 - **CUSIP registered** — 87225HAB4 is a verifiable identifier
 - **Income-producing** — 5% coupon supports debt service at any advance rate up to 50%
 
@@ -66,12 +66,12 @@ OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-gr
 
 ### 3. The Borrower Infrastructure Exceeds Normal Standards
 
-Unlike typical borrowers presenting static documents, OPTKAS1-MAIN SPV operates an automated infrastructure platform that provides:
+Unlike typical borrowers presenting static documents, OPTKAS1 LLC operates an automated infrastructure platform that provides:
 
 | Capability | What It Means for the Lender |
 |:-----------|:----------------------------|
 | **Automated borrowing base certificates** | Monthly collateral reporting without manual preparation |
-| **Cryptographic ledger attestations** | Immutable, timestamped proof of collateral position |
+| **cryptographic blockchain attestations** | Immutable, timestamped proof of collateral position |
 | **Real-time compliance monitoring** | Covenant breaches detected automatically, not quarterly |
 | **Live operational dashboard** | 16-card institutional monitor accessible on demand |
 | **949 automated tests** | System integrity verified continuously, audit-grade evidence |

@@ -1,4 +1,4 @@
-﻿# STRATEGIC INFRASTRUCTURE & EXECUTION AGREEMENT
+# STRATEGIC INFRASTRUCTURE & EXECUTION AGREEMENT
 
 **Document Status:** ![Execution Ready](https://img.shields.io/badge/Status-EXECUTION%20READY-success) ![Version](https://img.shields.io/badge/Version-1.0-blue)
 
@@ -8,7 +8,7 @@ This Strategic Infrastructure & Execution Agreement (this **"Agreement"**) is en
 
 **Unykorn 7777, Inc.**, a Wyoming corporation (**"Unykorn"**), and
 
-**OPTKAS1-MAIN SPV**, a Wyoming Series LLC (**"SPV"**).  
+**OPTKAS1 LLC**, a OPTKAS1 LLC (**"SPV"**).  
 **Contact:** jimmy@optkas.com
 
 Unykorn and SPV may be referred to individually as a **"Party"** and collectively as the **"Parties."**
@@ -48,7 +48,7 @@ Unykorn has materially contributed and shall continue to contribute, as applicab
 | Contribution Area | Description | Status |
 |:------------------|:------------|:------:|
 | **RWA Structuring** | Asset classification, collateral mapping, tokenization architecture | ✅ Complete |
-| **Blockchain Infrastructure** | XRPL integration, attestation design, on-chain verification | ✅ Complete |
+| **Blockchain Infrastructure** | cryptographic integration, attestation design, on-chain verification | ✅ Complete |
 | **Collateral Documentation** | Structuring and reconciliation of identifiers, STC verification | ✅ Complete |
 | **Borrowing Base Framework** | Development of haircut methodologies and advance rates | ✅ Complete |
 | **Lender Documentation** | Preparation of credit-committee-ready submission package | ✅ Complete |
@@ -127,7 +127,7 @@ In the event any digital settlement rail is unavailable, delayed, impaired, or c
 │                         ▼                                        │
 │                                                                  │
 │   SETTLEMENT RAILS                                               │
-│   ├─ Primary: Smart Contract (EVM/XRPL) - USDT at par           │
+│   ├─ Primary: Smart Contract (EVM/cryptographic) - USDT at par           │
 │   ├─ Fallback: Wire/ACH within 5 business days                  │
 │   └─ Verification: Multisig (2-of-3)                            │
 │                                                                  │
@@ -203,7 +203,7 @@ SPV acknowledges that all payments due to Unykorn under this Agreement shall be 
 
 | Method | Details |
 |:-------|:--------|
-| **Primary (Digital)** | XRPL Address: `rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr` |
+| **Primary (Digital)** | cryptographic Address: `rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr` |
 | **Fallback (Wire/ACH)** | Per wire instructions furnished by Unykorn in writing |
 
 SPV agrees that payment to the above-designated address(es) constitutes full discharge of the payment obligation. In the event Unykorn assigns its rights pursuant to Section 9.4, the assignee may furnish updated payment instructions, and SPV shall direct payments accordingly.
@@ -219,7 +219,7 @@ IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective
 > 2. Initial the selected option
 > 3. Sign and date below
 > 4. Return executed copy to counterparty
-> 5. SHA-256 hash will be computed and anchored to XRPL post-execution
+> 5. SHA-256 hash will be computed and anchored to cryptographic post-execution
 
 ---
 
@@ -234,7 +234,7 @@ IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective
 
 ---
 
-**OPTKAS1-MAIN SPV**
+**OPTKAS1 LLC**
 
 | | |
 |:--|:--|
@@ -308,7 +308,7 @@ This specification governs the automated settlement mechanism implementing the e
 
 | Parameter | Value |
 |:----------|:------|
-| Network | XRPL (primary) / EVM-compatible (alternative) |
+| Network | cryptographic (primary) / EVM-compatible (alternative) |
 | Trigger Mechanism | SPV Manager multisig authorization (2-of-3) |
 | Distribution Logic | Fixed percentage of inflow (10% or 4% per election) |
 | Recipient Address | `rnAF6Ki5sbmPZ4dTNCVzH5iyb9ScdSqyNr` |
@@ -344,7 +344,7 @@ Changes to settlement addresses or percentages require:
 
 **Document Hash (SHA-256):** _To be computed at execution_
 
-**XRPL Attestation TX:** _To be anchored post-execution_
+**cryptographic Attestation TX:** _To be anchored post-execution_
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Credit Suisse Legacy / UBS Structured Products Desks — Secured Credit Facility Package
+# Credit Suisse Legacy / UBS Structured Products Desks — Secured Credit Facility Package
 
 > **Target:** Credit Suisse Legacy / UBS Structured Products Desks  
 > **Specialty:** Structured products, note-backed lending, capital markets  
@@ -16,33 +16,30 @@
 
 Dear Credit Suisse Legacy / UBS Structured Products Team,
 
-We are presenting a $200,000,000 secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
+We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
 
 **Facility Summary:**
 
-- **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC, bankruptcy-remote)
+- **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $6,125,700,000+
+- **Collateral Portfolio:** $5,476,450,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
-- **Digital Reserve Balances:** $74,000,000 — independently verified, independent attestation
-- **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
+- **insurance wrap per PPM Insurance:** (premium per policy) — per PPM & Co., London
 
 **Key Infrastructure:**
 
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
-- **Coupon:** 5.00% semi-annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic document attestation
+- **Coupon:** 5.00% annual, maturity May 31, 2030
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
 
 **Why This Fits CS Legacy / UBS Structured Products:**
 
-Your structured products expertise means you understand DTC-eligible note collateral, CUSIP-identified securities, and STC-custodied positions. This facility is built on exactly those rails — a $5B program (500 bonds × $10M, CUSIP 87225HAB4) with standard DTC/DWAC settlement infrastructure, supplemented by $74M independently verified USDT and $376.7M hard assets. The $675M Lloyd's insurance coverage and cryptographic verification infrastructure (SHA-256 + IPFS) add layers of audit trail and credit enhancement that structured desks increasingly value.
 
 **Attached Documentation:**
 
@@ -59,7 +56,7 @@ All documents are cryptographically hashed (SHA-256) and pinned to IPFS. The ful
 Best regards,
 
 **Jimmy**  
-OPTKAS1-MAIN SPV  
+OPTKAS1 LLC  
 📧 jimmy@optkas.com  
 🔗 https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
@@ -85,9 +82,9 @@ OPTKAS1-MAIN SPV
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (Cryptographically Verified)
+### Executed Agreements (IPFS-Pinned)
 
-| Document | PDF | Verification |
+| Document | PDF | IPFS Proof |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

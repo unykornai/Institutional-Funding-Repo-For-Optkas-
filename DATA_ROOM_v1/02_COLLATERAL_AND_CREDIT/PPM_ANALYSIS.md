@@ -36,7 +36,7 @@
 | **Total Offering** | $5,000,000,000 (500 notes × $10,000,000) |
 | **Note Type** | 5% Secured Medium Term Notes |
 | **Security Backing** | Insurance wrap + underlying real property |
-| **Insurance Coverage** | $675,000,000 (C.J. Coleman & Company, Ltd.) |
+| **Insurance Coverage** | (premium per policy) (per PPM) |
 | **Escrow/Paying Agent** | Securities Transfer Corporation |
 | **Custodial Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 |
 | **Bank SWIFT** | EAGEUS33 |
@@ -55,7 +55,7 @@ This PPM is the **source offering document** for the TC Advantage 5% Secured Med
 
 1. **Validates Collateral Instrument** — Confirms the TC Advantage MTN is a real, structured offering with a $5B total program
 2. **Confirms CUSIP Chain** — The CUSIP 87225HAB4 in the PPM matches every reference in the OPTKAS1 system
-3. **Establishes Insurance Backing** — Documents the $675M insurance wrap (C.J. Coleman) referenced elsewhere in the system
+3. **Establishes Insurance Backing** — Documents the (per PPM) insurance wrap (per PPM) referenced elsewhere in the system
 4. **Verifies Transfer Agent** — STC's role as transfer agent, escrow agent, and paying agent is defined in this PPM
 5. **Proves Institutional Quality** — QIB-only, Rule 144A/Reg S structure confirms institutional-grade securities
 6. **Documents Bank Infrastructure** — EagleBank custodial account and SWIFT code provide complete settlement chain

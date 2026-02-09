@@ -1,7 +1,7 @@
-﻿# OPTKAS1 Funding System
+# OPTKAS1 Funding System
 ## Institutional Credit Facility Documentation Package
 
-**Entity:** OPTKAS1-MAIN SPV (Wyoming Series LLC)  
+**Entity:** OPTKAS1 LLC  
 **Contact:** jimmy@optkas.com  
 **Last Updated:** February 2, 2026
 
@@ -22,7 +22,7 @@ This repository contains the complete lender-ready documentation package for the
 | **Maturity** | May 31, 2030 |
 | **Coupon** | 5.00% per annum |
 | **Transfer Agent** | Securities Transfer Corporation (STC), Plano TX |
-| **Insurance** | C.J. Coleman & Co., $25.75M (2024-2029) |
+| **Insurance** | per PPM & Co., $25.75M (2024-2029) |
 
 ### Facility Parameters
 
@@ -80,7 +80,7 @@ OPTKAS1-Funding-System/
 3. [Annex B: System Architecture](data_room/04_Offering/ANNEX_B_System_Architecture.md)
 
 ### For Technical Due Diligence
-1. [XRPL Attestation Spec](data_room/06_Technical/XRPL_ATTESTATION_SPEC.md)
+1. [cryptographic Attestation Spec](data_room/06_Technical/cryptographic_ATTESTATION_SPEC.md)
 2. [Audit Runbook](data_room/06_Technical/AUDIT_RUNBOOK.md)
 3. [Day-0 Snapshot Template](data_room/templates/day0_snapshot_template.json)
 
@@ -91,7 +91,7 @@ OPTKAS1-Funding-System/
 All documents in this package can be independently verified:
 
 1. **STC Position** - Contact Securities Transfer Corporation directly
-2. **XRPL Attestations** - Query public XRPL ledger (no login required)
+2. **cryptographic Attestations** - Query public cryptographic ledger (no login required)
 3. **Document Hashes** - SHA-256 hashes anchored on-chain
 
 ---
@@ -106,4 +106,4 @@ All documents in this package can be independently verified:
 
 ---
 
-© 2026 OPTKAS1-MAIN SPV. Confidential — For Institutional Use Only.
+© 2026 OPTKAS1 LLC. Confidential — For Institutional Use Only.

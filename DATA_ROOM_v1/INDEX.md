@@ -1,5 +1,5 @@
 # DATA_ROOM_v1 INDEX
-## OPTKAS1-MAIN SPV Institutional Funding Package
+## OPTKAS1 LLC Institutional Funding Package
 
 **Version:** 1.0  
 **Generated:** February 2, 2026  
@@ -90,7 +90,7 @@ Verification, audit trails, and custody documentation.
 | File | Description |
 |:-----|:------------|
 | FedEx_Scan_2026-01-22.pdf | Physical delivery chain of custody |
-| XRPL_ATTESTATION_SPEC.md | XRPL evidence layer technical specification |
+| cryptographic_ATTESTATION_SPEC.md | cryptographic evidence layer technical specification |
 | AUDIT_RUNBOOK.md | Daily/monthly/quarterly audit procedures |
 | ipfs-config.json | IPFS document storage configuration |
 
@@ -130,7 +130,7 @@ Templates, execution plans, and supplementary materials.
 |:---------|:---------|:-------|
 | Certificate of Formation | Entity | Obtain from Wyoming SOS |
 | Operating Agreement | Entity | Execute and upload |
-| Insurance Policy Document | Compliance | Request from C.J. Coleman |
+| Insurance Policy Document | Compliance | Request from per PPM |
 | Executed Legal Opinion | Compliance | Obtain at closing |
 
 ---
@@ -139,7 +139,7 @@ Templates, execution plans, and supplementary materials.
 
 - **Hash File:** [HASHES.txt](HASHES.txt) — SHA-256 hashes for all documents
 - **Manifest:** [data-room.json](data-room.json) — Machine-readable inventory
-- **Attestation Account:** rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV (XRPL)
+- **Attestation Account:** rEYYpZJ7KNqj5dqHExM9VCQWNG6j7j1GLV (cryptographic)
 
 ---
 
@@ -169,7 +169,7 @@ Templates, execution plans, and supplementary materials.
 
 ### Technical Due Diligence
 1. 01_TRANSACTION_STRUCTURE/ANNEX_B_System_Architecture.md
-2. 05_CHAIN_OF_CUSTODY/XRPL_ATTESTATION_SPEC.md
+2. 05_CHAIN_OF_CUSTODY/cryptographic_ATTESTATION_SPEC.md
 3. 05_CHAIN_OF_CUSTODY/AUDIT_RUNBOOK.md
 4. 99_APPENDIX/day0_snapshot_template.json
 
@@ -187,4 +187,4 @@ Templates, execution plans, and supplementary materials.
 
 ---
 
-*This data room is maintained by OPTKAS1-MAIN SPV. For access or questions: jimmy@optkas.com*
+*This data room is maintained by OPTKAS1 LLC. For access or questions: jimmy@optkas.com*

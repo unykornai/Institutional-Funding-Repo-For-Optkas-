@@ -1,4 +1,4 @@
-﻿# Deutsche Bank SBLC Monetization / Structured Trade Finance — Secured Credit Facility Package
+# Deutsche Bank SBLC Monetization / Structured Trade Finance — Secured Credit Facility Package
 
 > **Target:** Deutsche Bank SBLC Monetization / Structured Trade Finance  
 > **Specialty:** SBLC monetization, trade finance, bank guarantee structures  
@@ -16,29 +16,27 @@
 
 Dear Deutsche Bank SBLC Monetization / Structured Trade Finance Team,
 
-We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
+We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
 
 **Facility Summary:**
 
-- **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC, bankruptcy-remote)
+- **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $6,125,700,000+
+- **Collateral Portfolio:** $5,476,450,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
-- **Digital Reserve Balances:** $74,000,000 — independently verified, independent attestation
-- **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
+- **insurance wrap per PPM Insurance:** (premium per policy) — per PPM & Co., London
 
 **Key Infrastructure:**
 
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
-- **Coupon:** 5.00% semi-annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic document attestation
+- **Coupon:** 5.00% annual, maturity May 31, 2030
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
 
 **SBLC Capability:**
 
@@ -50,7 +48,7 @@ We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by
 
 **Why This Fits Deutsche Bank SBLC / Trade Finance:**
 
-Deutsche Bank's SBLC monetization capabilities are well-suited to evaluate collateral backed by a $5B STC-custodied, DTC-eligible bond program with $675M Lloyd's insurance enhancement. The SBLC structure can be layered on top of the primary bond collateral to create the dual-collateral structure DB's trade finance team is experienced in evaluating at this scale.
+Deutsche Bank's SBLC monetization capabilities are well-suited to evaluate collateral backed by a $5B STC-custodied, DTC-eligible bond program with (per PPM) insurance wrap per PPM insurance enhancement. The SBLC structure can be layered on top of the primary bond collateral to create the dual-collateral structure DB's trade finance team is experienced in evaluating at this scale.
 
 **Attached Documentation:**
 
@@ -67,7 +65,7 @@ All documents are cryptographically hashed (SHA-256) and pinned to IPFS. The ful
 Best regards,
 
 **Jimmy**  
-OPTKAS1-MAIN SPV  
+OPTKAS1 LLC  
 📧 jimmy@optkas.com  
 🔗 https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
@@ -93,9 +91,9 @@ OPTKAS1-MAIN SPV
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (Cryptographically Verified)
+### Executed Agreements (IPFS-Pinned)
 
-| Document | PDF | Verification |
+| Document | PDF | IPFS Proof |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

@@ -1,24 +1,27 @@
-﻿# OPTKAS1-MAIN SPV — Institutional Secured Credit Facility
+# OPTKAS1 LLC — Institutional Secured Credit Facility
 
 [![Status](https://img.shields.io/badge/Status-OPEN%20FOR%20REVIEW-success?style=for-the-badge)](#overview)
 [![Bond](https://img.shields.io/badge/Bond%20Program-$5B-gold?style=for-the-badge)](#bond-program)
-[![Portfolio](https://img.shields.io/badge/Total%20Portfolio-$6.1B+-blue?style=for-the-badge)](#collateral-portfolio)
-[![Insurance](https://img.shields.io/badge/Insurance-$675M%20Lloyds-purple?style=for-the-badge)](#insurance)
-[![Verified](https://img.shields.io/badge/Docs-IPFS%20Pinned%20✓-teal?style=for-the-badge)](#cryptographic-verification)
+[![Collateral](https://img.shields.io/badge/Collateral-$5B%20Notes-blue?style=for-the-badge)](#collateral-portfolio)
+[![Verified](https://img.shields.io/badge/Docs-Cryptographically%20Verified%20%E2%9C%93-teal?style=for-the-badge)](#cryptographic-verification)
 
 ---
 
 ## Overview
 
-**OPTKAS1-MAIN SPV** (Wyoming Series LLC, bankruptcy-remote) is presenting a secured credit facility backed by a diversified collateral portfolio totaling **$6.1 billion+**, including:
+**OPTKAS1 LLC** is presenting a secured credit facility backed by a **$5,000,000,000 note program** — 500 × $10M TC Advantage 5% Secured Notes (CUSIP 87225HAB4), issued pursuant to a Confidential Private Placement Memorandum dated May 29, 2020, and authorized by STC Issuance Resolution dated January 22, 2026.
 
-- **$5 billion** in Secured Medium-Term Notes (CUSIP 87225HAB4, STC custody, DTC/DWAC)
-- **$74 million** in independently verifiable digital reserve balances
-- **$376.7 million** in professionally appraised gemstones
-- **$675 million** in Lloyd's of London insurance coverage
+**Provable Collateral (per PPM & Issuance Resolution):**
+- **$5,000,000,000** face value — TC Advantage 5% Secured Notes (500 × $10M)
+- **Cost Basis:** $3,000,000,000 ($6,000,000 per note)
+- **Custody:** Securities Transfer Corporation (Plano, TX), book-entry, DTC/DWAC FAST
+- **Security:** Notes are secured by an insurance wrap and underlying properties (per PPM page 14)
+- **Coupon:** 5% per annum, paid annually (before February 15)
+- **Maturity:** May 31, 2030
 
-All executed agreements are cryptographically hashed (SHA-256) and archived for tamper-evident verification.
-Cryptographic tools are used **solely for transparency and auditability** — not as part of any digital asset offering.
+All executed agreements are cryptographically hashed (SHA-256) and archived for tamper-evident verification. Cryptographic tools are used **solely for transparency and auditability** — not as part of any digital asset offering.
+
+The facility targets institutional secured credit at a conservative **40% advance rate** against the $5B face value, providing **250%+ collateral coverage**.
 
 **Technology Infrastructure:**
 Document hashing, verification tooling, and evidence-chain automation were developed by **Unykorn 7777, Inc.**, acting solely as a **technology provider**. Unykorn 7777, Inc. performs **no broker-dealer, advisory, or financial services** and has **no role in issuance, collateral, or facility structure**.
@@ -32,7 +35,6 @@ Document hashing, verification tooling, and evidence-chain automation were devel
 - [Overview](#overview)
 - [Bond Program](#bond-program)
 - [Collateral Portfolio](#collateral-portfolio)
-- [Insurance](#insurance)
 - [Facility Structure](#facility-structure)
 - [Wave 1 — Lender Packages](#wave-1--lender-packages)
 - [Data Room](#data-room)
@@ -46,48 +48,45 @@ Document hashing, verification tooling, and evidence-chain automation were devel
 
 ## Bond Program
 
-### TC Advantage 5% Secured Medium Term Notes — Section 5(b)
+### TC Advantage 5% Secured Notes — per PPM (May 29, 2020)
 
 | Parameter | Value |
 |:----------|:------|
-| **Issuer** | TC Advantage Traders, Ltd. (Bahamas) |
-| **Program Size** | $5,000,000,000 (500 bonds × $10,000,000) |
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, reg# 205197B) |
+| **Program Size** | $5,000,000,000 (500 notes × $10,000,000) |
+| **Per Note Face Value** | $10,000,000 |
+| **Cost Basis** | $3,000,000,000 ($6,000,000 per note) |
+| **Form** | Book-entry (STC custody) |
 | **CUSIP (144A)** | 87225HAB4 |
 | **CUSIP (Reg S)** | P9000TAA8 |
 | **ISIN (144A)** | US87225HAB42 |
 | **ISIN (Reg S)** | BSP9000TAA83 |
-| **Coupon** | 5.00% per annum, semi-annual |
+| **Coupon** | 5.00% per annum, paid annually (before February 15) |
 | **Maturity** | May 31, 2030 |
-| **Transfer Agent** | Securities Transfer Corporation (Plano, TX) |
+| **Transfer Agent / Escrow / Paying Agent** | Securities Transfer Corporation (Plano, TX) |
 | **Settlement** | DTC/DWAC FAST system |
 | **Chairman** | Larry Corona |
-| **Certificate Serial** | TCAT-10M-2030-001 |
+| **Issuance Resolution** | Signed January 22, 2026 (Larry Corona, Chairman) |
+| **PPM Date** | May 29, 2020 |
+| **Offering Exemption** | Regulation S and Rule 144A (QIB/QP only) |
+| **Escrow Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 |
 
 **PPM & Offering Details:** [TC_Advantage_PPM_Series_B.pdf](DATA_ROOM_v1/02_COLLATERAL_AND_CREDIT/TC_Advantage_PPM_Series_B.pdf) | [Tranche Details (Annex A)](DATA_ROOM_v1/01_TRANSACTION_STRUCTURE/ANNEX_A_Tranche_Details.md)
+
+### Security (per PPM, page 14)
+
+> *"The Offered TC ADVANTAGE 5% SECURED MEDIUM TERM NOTE will be fully secured by an insurance wrap along with underlying properties as listed in the Business Plan Annex 'A.' At all times the value of the insurance wrap and property will exceed the total debt carried by the property."*
 
 ---
 
 ## Collateral Portfolio
 
-| Asset Class | Value | Verification Method |
-|:------------|:------|:--------------------|
-| **TC Advantage 5% Secured MTN** | $5,000,000,000 | STC custody, DTC/DWAC, CUSIP 87225HAB4 |
-| **Digital Reserve Balances** | $74,000,000 | Independently verifiable, live attestation |
-| **Gemstone Portfolio** | $376,700,000 | Professional appraisal |
-| **Lloyd's Insurance Coverage** | $675,000,000 | C.J. Coleman & Co., London |
-| **Total Collateral** | **$6,125,700,000+** | **Multi-source, independently verifiable** |
-
----
-
-## Insurance
-
-| Parameter | Value |
-|:----------|:------|
-| **Broker** | C.J. Coleman & Co., London |
-| **Coverage** | $675,000,000 |
-| **Underwriter** | Lloyd's of London syndicate |
-| **Policy Period** | 2024–2029 |
-| **Type** | Blanket coverage on collateral instruments |
+| Asset Class | Value | Verification |
+|:------------|:------|:-------------|
+| **TC Advantage 5% Secured Notes** | $5,000,000,000 (500 notes × $10M) | STC custody, DTC/DWAC, CUSIP 87225HAB4 |
+| **Cost Basis** | $3,000,000,000 ($6M per note) | Per STC Issuance Resolution (Jan 22, 2026) |
+| **Insurance Wrap** | Per PPM — secures the notes | PPM page 14 |
+| **Total Face Value Collateral** | **$5,000,000,000** | **PPM + Issuance Resolution** |
 
 ---
 
@@ -95,13 +94,13 @@ Document hashing, verification tooling, and evidence-chain automation were devel
 
 | Metric | Value |
 |:-------|:------|
-| **Total Collateral** | $6,125,700,000+ |
+| **Total Collateral (Face Value)** | $5,000,000,000 |
 | **Advance Rate** | 40% LTV (conservative) |
-| **Maximum Facility** | $2,190,000,000 |
-| **Target Facility** | $75M–$300M per institution |
-| **Borrower** | OPTKAS1-MAIN SPV (Wyoming Series LLC) |
-| **Structure** | Bankruptcy-remote SPV |
-| **Borrowing Base** | Multi-asset, independently verified |
+| **Maximum Facility** | $2,000,000,000 |
+| **Target Facility** | $75M–$200M per institution |
+| **Coverage Ratio** | 250% (at 40% advance rate) |
+| **Borrower** | OPTKAS1 LLC |
+| **Borrowing Base** | Bond-backed, independently verified |
 
 ---
 
@@ -143,12 +142,12 @@ The institutional data room is frozen, hashed, and ready for lender review.
 
 | Section | Contents | Path |
 |:--------|:---------|:-----|
-| **00 — Executive Summary** | Deal overview, lender evidence summary, investor pitch | [00_EXEC_SUMMARY/](DATA_ROOM_v1/00_EXEC_SUMMARY/) |
-| **01 — Transaction Structure** | SPV structure, tranche details, loan commitment | [01_TRANSACTION_STRUCTURE/](DATA_ROOM_v1/01_TRANSACTION_STRUCTURE/) |
-| **02 — Collateral & Credit** | PPM, STC statement, borrowing base, valuations | [02_COLLATERAL_AND_CREDIT/](DATA_ROOM_v1/02_COLLATERAL_AND_CREDIT/) |
-| **03 — Bond & Note Issuance** | Bond workflow, issuance guide, CAT bond blueprint | [03_BOND_AND_NOTE_ISSUANCE/](DATA_ROOM_v1/03_BOND_AND_NOTE_ISSUANCE/) |
+| **00 — Executive Summary** | Deal overview, lender evidence summary | [00_EXEC_SUMMARY/](DATA_ROOM_v1/00_EXEC_SUMMARY/) |
+| **01 — Transaction Structure** | Loan commitment, tranche details | [01_TRANSACTION_STRUCTURE/](DATA_ROOM_v1/01_TRANSACTION_STRUCTURE/) |
+| **02 — Collateral & Credit** | PPM, STC statement, borrowing base | [02_COLLATERAL_AND_CREDIT/](DATA_ROOM_v1/02_COLLATERAL_AND_CREDIT/) |
+| **03 — Bond & Note Issuance** | Bond workflow, issuance guide | [03_BOND_AND_NOTE_ISSUANCE/](DATA_ROOM_v1/03_BOND_AND_NOTE_ISSUANCE/) |
 | **04 — Compliance & Risk** | KYC/AML, insurance underwriting, legal opinion | [04_COMPLIANCE_AND_RISK/](DATA_ROOM_v1/04_COMPLIANCE_AND_RISK/) |
-| **05 — Chain of Custody** | Audit runbook, FedEx scan, document attestation spec | [05_CHAIN_OF_CUSTODY/](DATA_ROOM_v1/05_CHAIN_OF_CUSTODY/) |
+| **05 — Chain of Custody** | Audit runbook, document attestation spec | [05_CHAIN_OF_CUSTODY/](DATA_ROOM_v1/05_CHAIN_OF_CUSTODY/) |
 
 **Machine Manifest:** [data-room.json](DATA_ROOM_v1/data-room.json) | **Data Room Index:** [INDEX.md](DATA_ROOM_v1/INDEX.md)
 
@@ -159,7 +158,7 @@ The institutional data room is frozen, hashed, and ready for lender review.
 All agreements were executed on **February 9, 2026** and are filed with cryptographic proof.
 
 | # | Document | PDF | Verification |
-|:--|:---------|:----|:------------------|
+|:--|:---------|:----|:-------------|
 | 1 | Strategic Infrastructure Agreement | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | 2 | Exhibit A — Economic Participation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
 | 3 | Signature Page | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
@@ -237,7 +236,7 @@ Ready-to-review PDF documents for institutional due diligence:
 2. **Your package** → Find your institution in [Wave 1 Packages](#wave-1--lender-packages) and click to open
 3. **Review deal docs** → Each package has clickable links to every PDF
 4. **Browse data room** → [DATA_ROOM_v1/](DATA_ROOM_v1/) contains the frozen institutional data room
-5. **Verify documents** → Click any IPFS link above to independently verify document integrity
+5. **Verify documents** → Click any verification link above to independently verify document integrity
 6. **Request a call** → Contact jimmy@optkas.com
 
 ### For Internal Team
@@ -287,7 +286,7 @@ Institutional-Funding-Repo-For-Optkas-/
 
 | | |
 |:-----|:-------|
-| **Entity** | OPTKAS1-MAIN SPV (Wyoming Series LLC) |
+| **Entity** | OPTKAS1 LLC |
 | **Technology Provider** | Unykorn 7777, Inc. (infrastructure only; no financial role) |
 | **Contact** | jimmy@optkas.com |
 | **Response Time** | Same business day |
@@ -295,8 +294,8 @@ Institutional-Funding-Repo-For-Optkas-/
 
 ---
 
-*OPTKAS1-MAIN SPV — Institutional Secured Credit Facility*  
-*$5B Bond Program · $6.1B+ Collateral Portfolio · All Documents Cryptographically Verified*  
-*© 2026 OPTKAS1-MAIN SPV. All rights reserved.*
+*OPTKAS1 LLC — Institutional Secured Credit Facility*  
+*$5B Bond Program · $5B Collateral (Face Value) · All Documents Cryptographically Verified*  
+*© 2026 OPTKAS1 LLC. All rights reserved.*
 
-**Disclaimer:** Unykorn 7777, Inc. serves solely as a technology provider for document hashing, verification tooling, and evidence-chain infrastructure. Unykorn 7777, Inc. performs no broker-dealer, investment advisory, underwriting, or financial services of any kind and has no role in the issuance, collateral, borrowing base, or facility structure described herein. All financial obligations are solely those of OPTKAS1-MAIN SPV.
+**Disclaimer:** Unykorn 7777, Inc. serves solely as a technology provider for document hashing, verification tooling, and evidence-chain infrastructure. Unykorn 7777, Inc. performs no broker-dealer, investment advisory, underwriting, or financial services of any kind and has no role in the issuance, collateral, borrowing base, or facility structure described herein. All financial obligations are solely those of OPTKAS1 LLC.

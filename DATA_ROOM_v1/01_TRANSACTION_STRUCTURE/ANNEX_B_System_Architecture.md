@@ -1,4 +1,4 @@
-﻿# ANNEX B: SYSTEM ARCHITECTURE
+# ANNEX B: SYSTEM ARCHITECTURE
 ## OPTKAS1 Collateral Management & Verification Infrastructure
 
 **Reference:** OPTKAS1 Loan Commitment Package  
@@ -17,8 +17,8 @@
 │    ┌──────────────────────┐         ┌──────────────────────┐              │
 │    │   LEGAL OWNERSHIP    │         │   PHYSICAL CUSTODY   │              │
 │    │                      │         │                      │              │
-│    │  OPTKAS1-MAIN SPV    │◄───────►│  Securities Transfer │              │
-│    │  (Wyoming Series)    │         │  Corporation (STC)   │              │
+│    │  OPTKAS1 LLC    │◄───────►│  Securities Transfer │              │
+│    │  (OPTKAS1 LLC)    │         │  Corporation (STC)   │              │
 │    │                      │         │                      │              │
 │    │  • Title Holder      │         │  • DTC/DWAC FAST    │              │
 │    │  • UCC Filing Owner  │         │  • Physical Vault    │              │
@@ -48,7 +48,7 @@
 │    │                                                          │           │
 │    │   IPFS Document Storage                                  │           │
 │    │   • Permanent content addressing                        │           │
-│    │   • Cross-referenced with XRPL                          │           │
+│    │   • Cross-referenced with cryptographic                          │           │
 │    │                                                          │           │
 │    └──────────────────────────────────────────────────────────┘           │
 │                                                                             │
@@ -63,8 +63,8 @@
 
 | Component | Details |
 |:----------|:--------|
-| **SPV Name** | OPTKAS1-MAIN |
-| **Entity Type** | Wyoming Series LLC |
+| **SPV Name** | OPTKAS1 LLC |
+| **Entity Type** | OPTKAS1 LLC |
 | **Purpose** | Single-asset bankruptcy-remote vehicle |
 | **Registered Agent** | Wyoming Registered Agents LLC |
 | **Manager** | Per Operating Agreement |
@@ -124,7 +124,7 @@ Step 1: Document Creation/Update
 Step 2: SHA-256 Hash Generation
         │
         ▼
-Step 3: XRPL AccountSet Memo
+Step 3: cryptographic AccountSet Memo
         │
         ├──► Field: LOAN_COMMITMENT
         ├──► Field: COLLATERAL_VALUE
@@ -162,7 +162,7 @@ Step 3: Return verified position data
 
 ---
 
-## 4. XRPL Integration
+## 4. cryptographic Integration
 
 ### 4.1 Attestation Account
 
@@ -241,7 +241,7 @@ Step 3: Return verified position data
 
 | Key Type | Storage | Backup |
 |:---------|:--------|:-------|
-| XRPL Signing Key | Encrypted wallet | Hardware backup |
+| cryptographic Signing Key | Encrypted wallet | Hardware backup |
 | IPFS Node Key | Server-side | Redundant nodes |
 | Database Encryption | Cloud HSM | Key escrow |
 
@@ -249,7 +249,7 @@ Step 3: Return verified position data
 
 - All actions logged with timestamp
 - Immutable once written
-- XRPL provides external validation
+- cryptographic provides external validation
 - Monthly audit reports generated
 
 ---
@@ -261,7 +261,7 @@ Step 3: Return verified position data
 | System | Integration Type | Purpose |
 |:-------|:-----------------|:--------|
 | STC Portal | API/Manual | Position verification |
-| XRPL | Direct RPC | Attestation anchoring |
+| cryptographic | Direct RPC | Attestation anchoring |
 | IPFS | Local/Pinata | Document storage |
 | Lender Portal | Read API | Status dashboards |
 
@@ -272,7 +272,7 @@ Step 3: Return verified position data
 | Borrowing Base Certificate | Monthly | Email + Portal |
 | Position Statement | On demand | STC direct |
 | Audit Summary | Quarterly | PDF |
-| XRPL Attestation Log | Real-time | API |
+| cryptographic Attestation Log | Real-time | API |
 
 ---
 
@@ -283,14 +283,14 @@ Step 3: Return verified position data
 | Component | Backup Frequency | Recovery Time |
 |:----------|:-----------------|:--------------|
 | Documents | Continuous (IPFS) | Immediate |
-| Attestations | Continuous (XRPL) | Immediate |
+| Attestations | Continuous (cryptographic) | Immediate |
 | Database | Daily | < 4 hours |
 | Keys | Monthly verification | < 24 hours |
 
 ### 8.2 Redundancy
 
 - IPFS: Multiple pinning services
-- XRPL: Network-distributed (no single point of failure)
+- cryptographic: Network-distributed (no single point of failure)
 - Database: Multi-region cloud deployment
 
 ---
@@ -299,7 +299,7 @@ Step 3: Return verified position data
 
 | Requirement | Architecture Component |
 |:------------|:-----------------------|
-| Audit trail | XRPL + IPFS |
+| Audit trail | cryptographic + IPFS |
 | Access control | Role-based permissions |
 | Data integrity | SHA-256 hashing |
 | Availability | Distributed systems |

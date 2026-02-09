@@ -1,4 +1,4 @@
-﻿# 📦 LENDER PACKAGE — BENEFIT STREET PARTNERS
+# 📦 LENDER PACKAGE — BENEFIT STREET PARTNERS
 
 > **Target:** Benefit Street Partners (Franklin Templeton)  
 > **Specialty:** Credit-focused alternatives, direct lending  
@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $100M Secured Credit Facility — $6.1B+ Collateral Portfolio — Credit-Focused Alternative
+**Subject:** $100M Secured Credit Facility — $5.45B+ Collateral Portfolio — Credit-Focused Alternative
 
 ---
 
@@ -19,26 +19,23 @@ Dear Benefit Street Partners Credit Team,
 We are presenting a large-scale secured credit facility structured to align with Benefit Street's credit-focused alternatives mandate and direct lending expertise within the Franklin Templeton platform.
 
 **Facility Summary:**
-- **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC, bankruptcy-remote)
+- **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $100,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 5,476%+
-- **Collateral Portfolio:** $6,125,700,000+
+- **Collateral Portfolio:** $5,476,450,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-- **Digital Reserve Balances:** $74,000,000 (independently verified, real-time attestation)
-- **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Coverage:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
-- **Coupon:** 5.00% semi-annual, maturity May 31, 2030
+- **Coupon:** 5.00% annual, maturity May 31, 2030
 - **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits Benefit Street:**
-As a leading credit alternatives manager within the Franklin Templeton platform, Benefit Street focuses on opportunities where credit quality and structural protections create compelling risk-adjusted returns. This $6.1B+ diversified portfolio backing a $100M facility provides extraordinary coverage. The $5B STC-custodied bond program, Lloyd's insurance enhancement, and cryptographic verification infrastructure deliver the structural protection your credit committees evaluate favorably.
+As a leading credit alternatives manager within the Franklin Templeton platform, Benefit Street focuses on opportunities where credit quality and structural protections create compelling risk-adjusted returns. This $5.45B+ diversified portfolio backing a $100M facility provides extraordinary coverage. The $5B STC-custodied bond program, insurance wrap per PPM insurance enhancement, and cryptographic verification infrastructure deliver the structural protection your credit committees evaluate favorably.
 
 **Attached Documentation:**
 1. Draft Term Sheet
@@ -54,7 +51,7 @@ We welcome the opportunity to schedule a call this week to discuss the facility 
 Best regards,
 
 **Jimmy**  
-OPTKAS1-MAIN SPV  
+OPTKAS1 LLC  
 Email: jimmy@optkas.com  
 Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
@@ -80,9 +77,9 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (Cryptographically Verified)
+### Executed Agreements (IPFS-Pinned)
 
-| Document | PDF | Verification |
+| Document | PDF | IPFS Proof |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

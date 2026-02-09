@@ -10,7 +10,7 @@
 
 | Field | Value |
 |:------|:------|
-| **Issuer** | OPTKAS1-MAIN SPV (Wyoming SPV) |
+| **Issuer** | OPTKAS1 LLC (Wyoming SPV) |
 | **Payee** | Unykorn 7777, Inc. ("Sponsor") |
 | **Principal** | USD $[●] |
 | **Issue Date** | [●] |
@@ -94,7 +94,7 @@ When a lender evaluates this Note, they will observe:
 ## Document Integrity
 
 - **SHA-256:** [Computed at execution]
-- **XRPL Attestation:** [Memo attached at execution]
+- **cryptographic Attestation:** [Memo attached at execution]
 - **Stellar ManageData:** [Key written at execution]
 
 ---

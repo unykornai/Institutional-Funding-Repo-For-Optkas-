@@ -11,17 +11,17 @@
 
 ## Executive Summary
 
-Convert traditional $5B MTN into XRPL-native tokenized debt instrument backed by 185M USDT reserves.
+Convert traditional $5B MTN into cryptographic-native tokenized debt instrument backed by 185M USDT reserves.
 
 **Structure:**
 - Traditional MTN remains (Euroclear/DTC)
-- Parallel digital note issued on XRPL
+- Parallel digital note issued on cryptographic
 - USDT reserves held in multi-sig escrow
 - Full on-chain transparency
 
 ---
 
-## Phase 1: XRPL Token Issuance Setup
+## Phase 1: cryptographic Token Issuance Setup
 
 ### 1.1 Create Issuer Wallet
 
@@ -109,7 +109,7 @@ async function setupIssuerAccount() {
 
 ---
 
-### 2.2 Create Token on XRPL
+### 2.2 Create Token on cryptographic
 
 ```javascript
 async function issueOPT144Token() {
@@ -431,7 +431,7 @@ async function payCoupon(investors, couponRate) {
 ## Technical Support
 
 For implementation assistance:
-- XRPL integration: support@unykorn.org
+- cryptographic integration: support@unykorn.org
 - Legal structure: (securities counsel required)
 - Trustee services: (institutional trustee required)
 

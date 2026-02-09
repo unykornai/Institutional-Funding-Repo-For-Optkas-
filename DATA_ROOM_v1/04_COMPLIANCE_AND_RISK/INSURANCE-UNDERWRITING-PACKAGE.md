@@ -2,7 +2,7 @@
 
 **Portal:** https://legalreview.unykorn.org  
 **Date:** December 29, 2025  
-**Asset Type:** Digital Assets (USDT on XRPL)  
+**Asset Type:** Digital Assets (USDT on cryptographic)  
 **Insured Value:** 74,000,000 USDT (~$74,000,000 USD)
 
 ---
@@ -14,7 +14,7 @@ This Insurance Underwriting Package provides comprehensive risk assessment data 
 **Coverage Request Summary:**
 - 💰 **Coverage Amount:** $74,000,000
 - 🔐 **Asset Type:** USDT Stablecoin
-- ⛓️ **Blockchain:** XRPL Mainnet
+- ⛓️ **Blockchain:** cryptographic Mainnet
 - 🏦 **Custody Type:** Self-Custodial
 - 🎯 **Coverage Type:** Theft, Loss, Hack
 - ⏰ **Term:** [To be determined]
@@ -35,7 +35,7 @@ This Insurance Underwriting Package provides comprehensive risk assessment data 
 ### Custody Wallet
 
 **Wallet Address:** rpP12ND2K7ZRzXZBEUnQM2i18tMGytXnW1  
-**Blockchain:** XRP Ledger (XRPL) Mainnet  
+**Blockchain:** XRP Ledger (cryptographic) Mainnet  
 **Custody Type:** Self-Custodial (private key control)  
 **Balance:** 74,000,000+ USDT  
 **Status:** Active ✅
@@ -61,7 +61,7 @@ This Insurance Underwriting Package provides comprehensive risk assessment data 
 - ✅ Accidental destruction
 
 **Secondary Coverage (Optional):**
-- ⚠️ Smart contract failure (N/A - native XRPL payments)
+- ⚠️ Smart contract failure (N/A - native cryptographic payments)
 - ⚠️ Exchange failure (N/A - self-custodial)
 - ⚠️ Blockchain protocol failure
 - ⚠️ Stablecoin depeg event
@@ -186,7 +186,7 @@ Term: 12 months
 - Historical: Generally stable vs other crypto
 - Issuer Risk: Tether scrutiny but operational
 
-**XRPL Security:**
+**cryptographic Security:**
 - No major protocol-level breaches
 - Individual wallet compromises (user error)
 - 10+ year track record
@@ -268,7 +268,7 @@ Term: 12 months
 | Custody Type | Self | Self | Neutral |
 | Security Score | 40/100 | 90/100 | -50% |
 | Asset Stability | High | High | -20% |
-| Blockchain | XRPL | XRPL | -10% |
+| Blockchain | cryptographic | cryptographic | -10% |
 | Amount | $74M | $74M | +10% |
 | Term | 12mo | 12mo | Neutral |
 
@@ -301,7 +301,7 @@ Potential Savings: $1,500,000 (62%)
 **Secondary Sources:**
 - Binance USDT/USD
 - Coinbase USDT/USD
-- XRPL DEX market price
+- cryptographic DEX market price
 
 **Current Valuation:**
 ```
