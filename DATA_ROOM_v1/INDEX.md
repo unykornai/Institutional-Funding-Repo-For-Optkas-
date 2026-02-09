@@ -27,8 +27,6 @@ Executive-level overviews for credit committee and senior decision-makers.
 | README.md | Repository overview and navigation |
 | EXECUTIVE_SUMMARY.md | 2-page lender overview with deal structure |
 | LENDER_EVIDENCE_SUMMARY.md | **NEW** — One-page collateral chain: PPM → Notes → Facility → Custody → Hashes |
-| INVESTOR-PITCH-DECK.md | Investment thesis and opportunity summary |
-| OPTKAS1-STRATEGIC-FINANCIAL-ROADMAP.md | Long-term financial strategy |
 | CREDIT_COMMITTEE_POSITIONING.md | Credit committee brief with risk assessment and recommended terms |
 
 ---
@@ -56,9 +54,6 @@ Collateral documentation and credit analysis.
 | TC_Advantage_PPM_Series_B.pdf | **CRITICAL** - TC Advantage Traders Confidential Private Placement Memorandum (Series B) |
 | PPM_ANALYSIS.md | **NEW** - PPM cross-reference analysis and verification (11/11 identifiers match) |
 | BORROWING_BASE_POLICY.md | Haircut methodology and valuation policy |
-| LENDER-PACKET.md | Consolidated lender information package |
-| DUAL-TRACK-COLLATERAL-SIMULATION.md | Collateral scenario analysis |
-| REAL-ESTATE-COLLATERAL-ANALYSIS.md | Supplementary real estate analysis |
 
 ---
 
@@ -78,8 +73,6 @@ Regulatory compliance and risk management.
 
 | File | Description |
 |:-----|:------------|
-| KYC-AML-COMPLIANCE-PACKAGE.md | Know Your Customer / Anti-Money Laundering framework |
-| INSURANCE-UNDERWRITING-PACKAGE.md | Insurance coverage and underwriting |
 | LEGAL_OPINION_TEMPLATE.md | Counsel opinion template |
 
 ---
@@ -128,7 +121,7 @@ Templates, execution plans, and supplementary materials.
 
 | Document | Category | Action |
 |:---------|:---------|:-------|
-| Certificate of Formation | Entity | Obtain from Wyoming SOS |
+| Certificate of Formation | Entity | Obtain from applicable jurisdiction |
 | Operating Agreement | Entity | Execute and upload |
 | Insurance Policy Document | Compliance | Request from per PPM |
 | Executed Legal Opinion | Compliance | Obtain at closing |
@@ -157,7 +150,6 @@ Templates, execution plans, and supplementary materials.
 1. 00_EXEC_SUMMARY/EXECUTIVE_SUMMARY.md
 2. 01_TRANSACTION_STRUCTURE/LOAN_COMMITMENT_PACKAGE-v2.md
 3. 02_COLLATERAL_AND_CREDIT/STC_Statement.pdf
-4. 04_COMPLIANCE_AND_RISK/KYC-AML-COMPLIANCE-PACKAGE.md
 5. 02_COLLATERAL_AND_CREDIT/BORROWING_BASE_POLICY.md
 6. 99_APPENDIX/FACILITY_AGREEMENT_TEMPLATE.md
 

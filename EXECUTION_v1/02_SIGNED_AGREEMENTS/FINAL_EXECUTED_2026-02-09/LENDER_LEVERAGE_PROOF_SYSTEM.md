@@ -76,7 +76,7 @@ graph TB
         GW["Public Gateway<br/>ipfs.io/ipfs/"]
     end
 
-    subgraph "BLOCKCHAIN ANCHOR"
+    subgraph "CRYPTOGRAPHIC ANCHOR"
         cryptographic["cryptographic Ledger<br/>Memo Attestation"]
     end
 
@@ -246,7 +246,7 @@ EXECUTION STATUS:
 ├── ✅ All documents pinned to IPFS (6 PDFs + hashes + manifest)
 ├── ✅ Cryptographic manifest created and pinned
 ├── ✅ System organized in EXECUTION_v1/02_SIGNED_AGREEMENTS/
-├── ⏳ cryptographic on-chain attestation (ready to execute)
+├── ⏳ cryptographic cryptographic attestation (ready to execute)
 └── ✅ READY FOR LENDER SUBMISSION
 
 LENDER READINESS:

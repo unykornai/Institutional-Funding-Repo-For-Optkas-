@@ -10,13 +10,13 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $125M Secured Credit Facility — $5.45B+ Structured Credit Portfolio — Multi-Asset Verification
+**Subject:** $125M Secured Credit Facility — $5B Structured Credit Portfolio — Bond-Backed Verification
 
 ---
 
 Dear BlueMountain / Assured Investment Management Team,
 
-We are presenting a $125,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your credit strategies and structured credit evaluation capabilities.
+We are presenting a $125,000,000 secured credit facility backed by a $5B bond portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your credit strategies and structured credit evaluation capabilities.
 
 **Facility Summary:**
 
@@ -24,7 +24,7 @@ We are presenting a $125,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $125,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 4,381%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 
@@ -36,11 +36,11 @@ We are presenting a $125,000,000 secured credit facility backed by a $5,476,450,
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic verified attestation
 
 **Why This Fits BlueMountain / Assured:**
 
-Your credit strategies platform evaluates structured opportunities where documentation quality and collateral verification reduce information asymmetry. This $5.45B+ diversified portfolio backing a $125M facility provides 4,381%+ coverage with a cryptographically verified data room, cryptographically archived executed agreements, and a frozen institutional data room — reducing the due diligence cycle while increasing confidence in collateral integrity across the $5B bond program and supplementary asset classes.
+Your credit strategies platform evaluates structured opportunities where documentation quality and collateral verification reduce information asymmetry. This $5B diversified portfolio backing a $125M facility provides 4,381%+ coverage with a cryptographically verified data room, cryptographically archived executed agreements, and a frozen institutional data room — reducing the due diligence cycle while increasing confidence in collateral integrity across the $5B bond program and supplementary asset classes.
 
 **Attached Documentation:**
 

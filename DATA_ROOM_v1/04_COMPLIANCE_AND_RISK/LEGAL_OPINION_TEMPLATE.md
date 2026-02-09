@@ -30,13 +30,13 @@ In connection with this opinion, we have reviewed the following documents (colle
 
 4. UCC-1 Financing Statement(s) to be filed in [JURISDICTION(S)];
 
-5. The Certificate of Formation of the Borrower filed with the Wyoming Secretary of State on [DATE];
+5. The Certificate of Formation of the Borrower filed with the applicable jurisdiction Secretary of State on [DATE];
 
 6. The Operating Agreement of the Borrower dated [DATE] (the "Operating Agreement");
 
 7. The Series Designation Certificate for OPTKAS1 LLC dated [DATE];
 
-8. Certificate of Good Standing for the Borrower issued by the Wyoming Secretary of State dated [DATE];
+8. Certificate of Good Standing for the Borrower issued by the applicable jurisdiction Secretary of State dated [DATE];
 
 9. [Manager's] Certificate of the Borrower dated [DATE] certifying resolutions and incumbency;
 
@@ -78,7 +78,7 @@ Based upon and subject to the foregoing, and subject to the qualifications and l
 
 ### A. Organization and Existence
 
-1. The Borrower is a series limited liability company duly organized, validly existing, and in good standing under the laws of the State of Wyoming.
+1. The Borrower is a series limited liability company duly organized, validly existing, and in good standing under applicable governing law.
 
 2. The Borrower has full limited liability company power and authority to own its properties and to conduct its business as currently conducted.
 
@@ -100,7 +100,7 @@ Based upon and subject to the foregoing, and subject to the qualifications and l
 
    (a) Violate the Certificate of Formation or Operating Agreement of the Borrower;
    
-   (b) Violate any law, rule, or regulation of the State of Wyoming or the United States applicable to the Borrower;
+   (b) Violate any law, rule, or regulation of the State of applicable jurisdiction or the United States applicable to the Borrower;
    
    (c) Result in a breach of or constitute a default under any material agreement to which the Borrower is a party of which we are aware; or
    
@@ -138,7 +138,7 @@ The foregoing opinions are subject to the following qualifications and limitatio
 
 3. **Choice of Law.** We express no opinion as to the enforceability of any choice of law provisions.
 
-4. **Governing Law.** Our opinions are limited to the laws of the State of Wyoming and the federal laws of the United States. We express no opinion as to the laws of any other jurisdiction.
+4. **Governing Law.** Our opinions are limited to the applicable governing law and the federal laws of the United States. We express no opinion as to the laws of any other jurisdiction.
 
 5. **UCC Filings.** Our opinions regarding perfection of security interests assume that all UCC-1 financing statements will be properly filed in the appropriate filing offices and that proper continuation statements will be timely filed.
 
@@ -176,7 +176,7 @@ The following items should be addressed prior to issuing this opinion:
 
 1. **Corporate Records Review**: Obtain and review all organizational documents, resolutions, and manager's certificates.
 
-2. **Good Standing**: Obtain current good standing certificate from Wyoming Secretary of State.
+2. **Good Standing**: Obtain current good standing certificate from applicable Secretary of State.
 
 3. **UCC Search**: Conduct UCC search in relevant jurisdictions to confirm no prior liens.
 

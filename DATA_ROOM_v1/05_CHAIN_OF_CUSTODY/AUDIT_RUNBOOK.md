@@ -171,7 +171,7 @@ Date: _____________________________
 
 ### 5.2 Legal Entity Check
 
-- [ ] Verify Wyoming LLC is in good standing
+- [ ] Verify entity is in good standing
   - Secretary of State online portal
 - [ ] Confirm registered agent is current
 - [ ] Review any amendments to operating agreement

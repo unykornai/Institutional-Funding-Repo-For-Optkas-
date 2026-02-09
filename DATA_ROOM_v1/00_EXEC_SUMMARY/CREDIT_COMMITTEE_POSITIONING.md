@@ -61,7 +61,7 @@ OPTKAS1 LLC seeks a secured credit facility collateralized by investment-grade m
 - UCC-1 Financing Statement — ready to file
 - Perfected security interest via STC Control Agreement
 - Standard foreclosure and liquidation rights
-- No blockchain dependency for enforcement
+- No cryptographic dependency for enforcement
 - Traditional legal remedies fully available
 
 ### 3. The Borrower Infrastructure Exceeds Normal Standards
@@ -71,7 +71,7 @@ Unlike typical borrowers presenting static documents, OPTKAS1 LLC operates an au
 | Capability | What It Means for the Lender |
 |:-----------|:----------------------------|
 | **Automated borrowing base certificates** | Monthly collateral reporting without manual preparation |
-| **cryptographic blockchain attestations** | Immutable, timestamped proof of collateral position |
+| **cryptographic cryptographic attestations** | Immutable, timestamped proof of collateral position |
 | **Real-time compliance monitoring** | Covenant breaches detected automatically, not quarterly |
 | **Live operational dashboard** | 16-card institutional monitor accessible on demand |
 | **949 automated tests** | System integrity verified continuously, audit-grade evidence |

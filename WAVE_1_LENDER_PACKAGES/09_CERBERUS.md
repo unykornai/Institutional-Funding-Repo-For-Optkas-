@@ -11,13 +11,13 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M Secured Credit Facility — $5.45B+ Operationally Verified Portfolio — Asset-Backed
+**Subject:** $150M Secured Credit Facility — $5B Operationally Verified Portfolio — Asset-Backed
 
 ---
 
 Dear Cerberus Capital Management Team,
 
-We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Cerberus's private credit and operationally intensive underwriting capabilities.
+We are presenting a $150,000,000 secured credit facility backed by a $5B bond portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Cerberus's private credit and operationally intensive underwriting capabilities.
 
 **Facility Summary:**
 
@@ -25,7 +25,7 @@ We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 
@@ -37,11 +37,11 @@ We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic verified attestation
 
 **Why This Fits Cerberus:**
 
-Cerberus combines financial acumen with operational expertise, often looking beneath the surface to understand collateral quality. This $5.45B+ portfolio — including a $5B STC-custodied bond program, $74M cryptographically verified USDT, and $376.7M hard assets — provides unprecedented transparency through SHA-256 hashing, IPFS pinning, and cryptographic attestation. The verification infrastructure provides the operational transparency Cerberus requires to move quickly and confidently on credit decisions at this scale.
+Cerberus combines financial acumen with operational expertise, often looking beneath the surface to understand collateral quality. This $5B portfolio — backed by 500 STC-custodied TC Advantage 5% Secured Notes (CUSIP 87225HAB4) with book-entry settlement via DTC/DWAC — provides institutional-grade transparency through SHA-256 hashing and cryptographic verification.7M hard assets — provides unprecedented transparency through SHA-256 hashing, IPFS pinning, and cryptographic attestation. The verification infrastructure provides the operational transparency Cerberus requires to move quickly and confidently on credit decisions at this scale.
 
 **Attached Documentation:**
 

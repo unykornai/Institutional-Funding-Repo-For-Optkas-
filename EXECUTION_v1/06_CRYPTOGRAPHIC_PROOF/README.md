@@ -30,5 +30,5 @@ DOCUMENT EXECUTION (6 signed PDFs)
   -> SHA-256 + SHA-512 hashing
   -> Merkle tree construction -> single root hash
   -> IPFS content-addressed storage -> CIDs
-  -> cryptographic blockchain attestation -> immutable timestamp
+  -> cryptographic cryptographic attestation -> immutable timestamp
   -> Lender verification = mathematical certainty

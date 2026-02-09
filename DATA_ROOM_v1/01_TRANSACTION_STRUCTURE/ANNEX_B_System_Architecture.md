@@ -30,7 +30,7 @@
 │    ┌──────────────────────────────────────────────────────────┐           │
 │    │                   PERFECTION LAYER                       │           │
 │    │                                                          │           │
-│    │   UCC-1 Financing Statement (Wyoming)                    │           │
+│    │   UCC-1 Financing Statement (applicable jurisdiction)                    │           │
 │    │   STC Control Agreement (Lender as Secured Party)        │           │
 │    │   Blocked Account (if cash proceeds)                     │           │
 │    │                                                          │           │
@@ -66,11 +66,11 @@
 | **SPV Name** | OPTKAS1 LLC |
 | **Entity Type** | OPTKAS1 LLC |
 | **Purpose** | Single-asset bankruptcy-remote vehicle |
-| **Registered Agent** | Wyoming Registered Agents LLC |
+| **Registered Agent** | Registered Agent (per applicable jurisdiction) |
 | **Manager** | Per Operating Agreement |
 
 **Key Documents:**
-- Certificate of Formation (Wyoming Secretary of State)
+- Certificate of Formation (applicable jurisdiction Secretary of State)
 - Operating Agreement (Bankruptcy Remote Provisions)
 - Series Designation Certificate
 
@@ -99,7 +99,7 @@
 
 **Filing Sequence:**
 1. Execute Facility Agreement
-2. File UCC-1 (Wyoming + Debtor states)
+2. File UCC-1 (per applicable jurisdiction)
 3. Execute STC Control Agreement
 4. Deliver Day-0 Snapshot
 

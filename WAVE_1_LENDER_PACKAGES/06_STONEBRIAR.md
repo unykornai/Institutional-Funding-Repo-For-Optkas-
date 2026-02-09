@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $75M Secured Credit Facility — $5.45B+ Bond-Backed Portfolio — STC-Custodied, insurance wrap per PPM-Insured
+**Subject:** $75M Secured Credit Facility — $5B Bond-Backed Portfolio — STC-Custodied, insurance wrap per PPM-Insured
 
 ---
 
@@ -23,7 +23,7 @@ We are presenting a secured credit facility structured to align with Stonebriar'
 - **Facility Request:** $75,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 7,300%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)

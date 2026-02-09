@@ -25,7 +25,7 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 |:------|:---------|
 | **Borrower Legal Name** | OPTKAS1 LLC |
 | **Entity Type** | OPTKAS1 LLC |
-| **State of Formation** | Wyoming |
+| **State of Formation** | Bahamas (per PPM) |
 | **Good Standing** | ✅ Current (Certificate attached) |
 | **Principal Address** | [Insert registered address] |
 | **Manager/Signatory** | [Insert authorized manager name] |
@@ -57,7 +57,7 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 | **ISIN (144A)** | US87225HAB42 | STC / Subscription Agreement |
 | **ISIN (Reg S)** | BSP9000TAA83 | STC / Subscription Agreement |
 | **Face Amount** | $10,000,000 (per note) | STC Position Statement ✅ |
-| **Quantity Pledged** | 1 bond | Certificate Serial # Book-entry (STC custody) |
+| **Quantity Pledged** | 1 bond | Form # Book-entry (STC custody) |
 | **Maturity** | May 31, 2030 | Subscription Agreement |
 | **Coupon** | 5.00% per annum | Subscription Agreement |
 | **Program Size** | $5,000,000,000 (500 bonds total) | Subscription Agreement |
@@ -191,9 +191,9 @@ Borrower confirms SBLC will be:
 
 | Capability | Description | How Lender Verifies |
 |:-----------|:------------|:--------------------|
-| cryptographic Attestations | Weekly on-chain snapshots with document hashes | Query public cryptographic ledger |
+| cryptographic Attestations | Weekly cryptographic snapshots with document hashes | Query public cryptographic ledger |
 | Capacity Calculation | Reproducible formula (Face × Haircut × Rate) | Excel tool provided |
-| Document Hash Verification | SHA-256 hashes of all legal docs | Compute locally, compare to on-chain |
+| Document Hash Verification | SHA-256 hashes of all legal docs | Compute locally, compare to cryptographic |
 | Covenant Monitoring | Automated breach detection | Alerts via cryptographic memo |
 
 ### 5.2 Reporting Cadence
@@ -209,7 +209,7 @@ Borrower confirms SBLC will be:
 ### 5.3 Audit Runbook (Attached)
 
 Lender receives step-by-step instructions to independently verify:
-1. Snapshot hash matches on-chain attestation
+1. Snapshot hash matches cryptographic attestation
 2. Ed25519 signatures meet quorum (2-of-3)
 3. Document hashes match referenced PDFs
 4. Capacity calculation is accurate

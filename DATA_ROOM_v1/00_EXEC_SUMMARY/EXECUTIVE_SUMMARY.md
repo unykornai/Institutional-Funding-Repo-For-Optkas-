@@ -78,7 +78,7 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 | Collateral authenticity | STC verification + physical certificates received |
 | Collateral decline | 40% haircut absorbs volatility |
 | Borrower default | First-lien security interest + control agreement |
-| Operational | Traditional enforcement path (no blockchain dependency) |
+| Operational | Traditional enforcement path (no cryptographic dependency) |
 
 ---
 

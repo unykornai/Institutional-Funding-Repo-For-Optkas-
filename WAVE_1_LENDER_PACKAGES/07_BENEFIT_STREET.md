@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $100M Secured Credit Facility — $5.45B+ Collateral Portfolio — Credit-Focused Alternative
+**Subject:** $100M Secured Credit Facility — $5B Collateral Portfolio — Credit-Focused Alternative
 
 ---
 
@@ -23,7 +23,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $100,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 5,476%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
@@ -35,7 +35,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits Benefit Street:**
-As a leading credit alternatives manager within the Franklin Templeton platform, Benefit Street focuses on opportunities where credit quality and structural protections create compelling risk-adjusted returns. This $5.45B+ diversified portfolio backing a $100M facility provides extraordinary coverage. The $5B STC-custodied bond program, insurance wrap per PPM insurance enhancement, and cryptographic verification infrastructure deliver the structural protection your credit committees evaluate favorably.
+As a leading credit alternatives manager within the Franklin Templeton platform, Benefit Street focuses on opportunities where credit quality and structural protections create compelling risk-adjusted returns. This $5B diversified portfolio backing a $100M facility provides extraordinary coverage. The $5B STC-custodied bond program, insurance wrap per PPM insurance enhancement, and cryptographic verification infrastructure deliver the structural protection your credit committees evaluate favorably.
 
 **Attached Documentation:**
 1. Draft Term Sheet

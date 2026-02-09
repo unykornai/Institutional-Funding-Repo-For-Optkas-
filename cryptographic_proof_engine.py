@@ -1,4 +1,4 @@
-import hashlib, json, datetime, os, sys, subprocess
+﻿import hashlib, json, datetime, os, sys, subprocess
 from pathlib import Path
 from typing import List, Optional, Dict
 
@@ -106,7 +106,7 @@ def main():
             },
             "verification_status": "VERIFIED"
         })
-        pin_icon = "??" if ipfs_pinned else "?"
+        pin_icon = "📌" if ipfs_pinned else "⏳"
         print(f"  {pin_icon} {dm['id']}: {dm['filename']}")
         print(f"     SHA-256: {s256}")
         if cid:
@@ -146,13 +146,13 @@ def main():
         "verification_instructions": {
             "step_1": "Download document from IPFS gateway URL or repository",
             "step_2": "Compute SHA-256: certutil -hashfile <file> SHA256 (Windows) or sha256sum <file> (Linux/Mac)",
-            "step_3": "Compare hash against manifest sha256 field � must match exactly",
+            "step_3": "Compare hash against manifest sha256 field — must match exactly",
             "step_4": "Verify Merkle root by recomputing from all document hashes",
-            "step_5": "Verify IPFS CID: ipfs add -n --only-hash <file> � must match manifest CID",
+            "step_5": "Verify IPFS CID: ipfs add -n --only-hash <file> — must match manifest CID",
             "step_6": "Check XRPL attestation for on-chain timestamp proof"
         },
         "repository": {
-            "url": "https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-",
+            "url": "https://github.com/unykornai/TC",
             "branch": "main",
             "execution_path": "EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/"
         }
@@ -200,13 +200,13 @@ def main():
             actual = sha256_file(fp)
             expected = d["cryptographic_hashes"]["sha256"]
             match = actual == expected
-            icon = "?" if match else "?"
+            icon = "✅" if match else "❌"
             print(f"  {icon} {d['filename']}")
             if not match:
                 ok = False
                 print(f"     Expected: {expected}")
                 print(f"     Actual:   {actual}")
-        print(f"\n  {'ALL VERIFIED ?' if ok else 'VERIFICATION FAILED ?'}")
+        print(f"\n  {'ALL VERIFIED ✅' if ok else 'VERIFICATION FAILED ❌'}")
 
     print("=" * 60)
     print("  COMPLETE")
@@ -233,12 +233,12 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
     lines = [
         "# LENDER PROOF PACKAGE",
         "",
-        "## OPTKAS1-MAIN SPV � Cryptographic Document Verification",
+        "## OPTKAS1-MAIN SPV — Cryptographic Document Verification",
         "",
         f"**Generated:** {timestamp}",
         f"**Merkle Root:** `{merkle_root_hash}`",
         f"**IPFS Manifest:** `{MANIFEST_CID}`",
-        f"**Repository:** https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-",
+        f"**Repository:** https://github.com/unykornai/TC",
         "",
         "---",
         "",
@@ -249,10 +249,10 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
     ]
 
     for d in docs:
-        cid = d["ipfs"]["cid"] or "�"
+        cid = d["ipfs"]["cid"] or "—"
         short_hash = d["cryptographic_hashes"]["sha256"][:16] + "..."
         short_cid = cid[:20] + "..." if len(cid) > 20 else cid
-        lines.append(f"| {d['document_id'][-1]} | {d['title']} | `{short_hash}` | `{short_cid}` | ? |")
+        lines.append(f"| {d['document_id'][-1]} | {d['title']} | `{short_hash}` | `{short_cid}` | ✅ |")
 
     lines += [
         "",
@@ -264,8 +264,8 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "graph TB",
         "    subgraph EXECUTED[\"FULLY EXECUTED AGREEMENTS\"]",
         "        D1[\"01 Strategic Infrastructure Agreement\"]",
-        "        D2[\"02 Exhibit A � Economic Participation\"]",
-        "        D3[\"03 Signature Page � All Parties\"]",
+        "        D2[\"02 Exhibit A — Economic Participation\"]",
+        "        D3[\"03 Signature Page — All Parties\"]",
         "        D4[\"04 Sponsor Consideration Note\"]",
         "        D5[\"05 Sponsor Note Estoppel\"]",
         "        D6[\"06 Consolidated Signatures\"]",
@@ -280,14 +280,14 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "    subgraph IMMUTABLE[\"IMMUTABLE STORAGE\"]",
         "        IPFS[\"IPFS Network\\nkubo/0.39.0\"]",
         "        XRPL[\"XRPL Ledger\\nMemo Attestation\"]",
-        "        GIT[\"GitHub\\nunykornai/Institutional-Funding-Repo-For-Optkas-\"]",
+        "        GIT[\"GitHub\\nunykornai/TC\"]",
         "    end",
         "",
         "    subgraph VERIFY[\"LENDER VERIFICATION\"]",
         "        DL[\"Download from IPFS\"]",
         "        CHECK[\"Compute SHA-256\"]",
         "        COMPARE[\"Compare to Manifest\"]",
-        "        RESULT[\"? VERIFIED\"]",
+        "        RESULT[\"✅ VERIFIED\"]",
         "    end",
         "",
         "    D1 & D2 & D3 & D4 & D5 & D6 --> HASH",
@@ -315,23 +315,23 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "    participant XRPL as XRPL Ledger",
         "    participant L as Lender",
         "",
-        "    Note over U,O: Phase 1 � Execution",
+        "    Note over U,O: Phase 1 — Execution",
         "    U->>O: Sign 5 agreements",
         "    O->>U: Countersign all",
         "    U->>SYS: Upload 6 executed PDFs",
         "",
-        "    Note over SYS,IPFS: Phase 2 � Cryptographic Proof",
+        "    Note over SYS,IPFS: Phase 2 — Cryptographic Proof",
         "    SYS->>SYS: SHA-256 + SHA-512 hashes",
         "    SYS->>SYS: Build Merkle tree",
         "    SYS->>IPFS: Pin 6 docs + manifest",
         "    IPFS-->>SYS: Return CIDs",
         "    SYS->>XRPL: Anchor Merkle root",
         "",
-        "    Note over L,IPFS: Phase 3 � Verification",
+        "    Note over L,IPFS: Phase 3 — Verification",
         "    SYS->>L: Share manifest CID",
         "    L->>IPFS: Download & verify",
         "    L->>XRPL: Check attestation",
-        "    L-->>L: ? All verified",
+        "    L-->>L: ✅ All verified",
         "```",
         "",
         "---",

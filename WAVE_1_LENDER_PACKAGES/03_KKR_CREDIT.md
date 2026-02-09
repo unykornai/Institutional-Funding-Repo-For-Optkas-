@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $250M Secured Credit Facility — $5.45B+ Multi-Asset Collateral Portfolio — DTC-Eligible
+**Subject:** $250M Secured Credit Facility — $5B Bond-Backed Collateral Portfolio — DTC-Eligible
 
 ---
 
@@ -23,7 +23,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $250,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 2,190%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)

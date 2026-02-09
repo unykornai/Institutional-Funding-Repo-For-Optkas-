@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M Secured Credit Facility — $5.45B+ Diversified Portfolio — Specialty Credit Opportunity
+**Subject:** $150M Secured Credit Facility — $5B Diversified Portfolio — Specialty Credit Opportunity
 
 ---
 
@@ -23,7 +23,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
@@ -35,7 +35,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits HPS:**
-HPS specializes in structures where traditional banks pull back but the credit quality is strong. This $5.45B+ collateral portfolio backing a $150M facility provides 3,650%+ coverage — the kind of asymmetric risk profile HPS's credit committees evaluate favorably. The frozen data room, cryptographic chain-of-custody, and insurance wrap per PPM insurance enhancement provide the operational transparency HPS values in specialty credit.
+HPS specializes in structures where traditional banks pull back but the credit quality is strong. This $5B collateral portfolio backing a $150M facility provides 3,650%+ coverage — the kind of asymmetric risk profile HPS's credit committees evaluate favorably. The frozen data room, cryptographic chain-of-custody, and insurance wrap per PPM insurance enhancement provide the operational transparency HPS values in specialty credit.
 
 **Attached Documentation:**
 1. Draft Term Sheet

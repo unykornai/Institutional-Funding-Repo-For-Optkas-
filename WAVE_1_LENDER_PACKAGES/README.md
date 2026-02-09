@@ -3,7 +3,7 @@
 > **Generated: February 9, 2026**  
 > **Status: READY TO SEND**  
 > **Bond Program: $5,000,000,000 (500 × $10M TC Advantage 5% Secured MTN)**  
-> **Total Portfolio: $5,476,450,000+ (bonds + cryptographic USDT + gemstones + insurance)**
+> **Total Portfolio: $5,000,000,000 (TC Advantage 5% Secured Notes, STC custody, DTC/DWAC)**
 
 Each package below contains a personalized outreach email, deal summary with correct portfolio-scale figures, clickable links to all PDF documents, data room access, and cryptographic verification references.
 
@@ -40,9 +40,9 @@ Each package below contains a personalized outreach email, deal summary with cor
 | Asset Class | Value | Verification |
 |:------------|:------|:-------------|
 | TC Advantage 5% Secured MTN | $5,000,000,000 | CUSIP 87225HAB4, STC custody, DTC/DWAC |
-| cryptographic USDT Reserves | $74,000,000 | Blockchain-verified, live attestation |
-| insurance wrap per PPM Insurance Wrapper | $25,750,000 | per PPM & Co., London |
-| **Total** | **$5,476,450,000+** | **Multi-source, independently verifiable** |
+| Cost Basis | $3,000,000,000 | $6,000,000 per note (Issuance Resolution) |
+| Insurance Wrap | Per PPM page 14 | Secured by insurance wrap + underlying properties |
+| **Total Collateral** | **$5,000,000,000** | **PPM & Issuance Resolution verified** |
 
 ---
 
@@ -62,4 +62,4 @@ Each package below contains a personalized outreach email, deal summary with cor
 ---
 
 **Wave 1 Total Facility Requests: ~$2.5B across 14 institutions**  
-**Advance Rate: 40% on $5.45B+ portfolio = $2.19B maximum capacity**
+**Advance Rate: 40% on $5B portfolio = $2B maximum capacity**

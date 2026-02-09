@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $200M Secured Credit Facility — $5.45B+ Portfolio — Conservative Structure, Institutional Verification
+**Subject:** $200M Secured Credit Facility — $5B Portfolio — Conservative Structure, Institutional Verification
 
 ---
 
@@ -23,7 +23,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)

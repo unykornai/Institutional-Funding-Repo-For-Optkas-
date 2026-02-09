@@ -16,7 +16,7 @@
 
 Dear Credit Suisse Legacy / UBS Structured Products Team,
 
-We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
+We are presenting a $200,000,000 secured credit facility backed by a $5B bond portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
 
 **Facility Summary:**
 
@@ -24,7 +24,7 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 
@@ -36,10 +36,9 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic verified attestation
 
 **Why This Fits CS Legacy / UBS Structured Products:**
-
 
 **Attached Documentation:**
 

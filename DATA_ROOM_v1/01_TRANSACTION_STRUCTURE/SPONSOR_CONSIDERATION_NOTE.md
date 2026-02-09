@@ -10,7 +10,7 @@
 
 | Field | Value |
 |:------|:------|
-| **Issuer** | OPTKAS1 LLC (Wyoming SPV) |
+| **Issuer** | OPTKAS1 LLC |
 | **Payee** | Unykorn 7777, Inc. ("Sponsor") |
 | **Principal** | USD $[●] |
 | **Issue Date** | [●] |
@@ -18,7 +18,7 @@
 | **Interest** | [●]% per annum (PIK permitted) |
 | **Subordination** | Senior to all unsecured except investor bonds |
 | **Assignment** | Fully assignable without consent |
-| **Governing Law** | State of Wyoming |
+| **Governing Law** | applicable governing law |
 
 ---
 

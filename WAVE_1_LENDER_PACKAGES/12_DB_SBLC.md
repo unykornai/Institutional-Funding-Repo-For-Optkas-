@@ -16,7 +16,7 @@
 
 Dear Deutsche Bank SBLC Monetization / Structured Trade Finance Team,
 
-We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
+We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $5B bond portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
 
 **Facility Summary:**
 
@@ -24,7 +24,7 @@ We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $5,000,000,000
 
 **Collateral Breakdown:**
 
@@ -36,7 +36,7 @@ We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic on-ledger attestation
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic verified attestation
 
 **SBLC Capability:**
 

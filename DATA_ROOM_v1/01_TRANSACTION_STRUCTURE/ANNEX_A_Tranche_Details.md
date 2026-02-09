@@ -98,7 +98,7 @@
 |:-------|:------|
 | **Seniority** | First-lien (upon perfection) |
 | **Perfection Method** | UCC-1 + Control Agreement |
-| **Filing Jurisdiction** | Wyoming |
+| **Filing Jurisdiction** | Bahamas (per PPM) |
 | **Control Agent** | Securities Transfer Corporation |
 
 ---

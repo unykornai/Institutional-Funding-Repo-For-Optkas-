@@ -92,7 +92,7 @@ All documents in this package can be independently verified:
 
 1. **STC Position** - Contact Securities Transfer Corporation directly
 2. **cryptographic Attestations** - Query public cryptographic ledger (no login required)
-3. **Document Hashes** - SHA-256 hashes anchored on-chain
+3. **Document Hashes** - SHA-256 hashes anchored cryptographic
 
 ---
 
