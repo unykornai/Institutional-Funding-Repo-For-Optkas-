@@ -52,7 +52,7 @@ Each package below contains a personalized outreach email, deal summary, clickab
 | **Transfer Agent** | Securities Transfer Corporation (Plano, TX) |
 | **Settlement** | DTC/DWAC FAST system |
 | **Offering** | Rule 144A / Regulation S (QIB/QP only) |
-| **Security** | Per PPM page 14: Insurance wrap + underlying properties |
+| **Security** | Insurance wrap (Lloyd's of London, $625M via C.J. Coleman, FCA No. 30820) + underlying properties per PPM page 14 |
 | **Max Advance Rate** | 40% LTV |
 | **Max Facility Capacity** | $2,000,000,000 (at 40% on $5B face) |
 | **Coverage Ratio** | 250%+ |

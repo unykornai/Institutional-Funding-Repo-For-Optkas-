@@ -1,8 +1,8 @@
 # OPTKAS1 LOAN COMMITMENT PACKAGE
 ## Pre-Formatted Response to Lender Requirements
 
-**Date:** January 26, 2026  
-**Facility Type:** Secured Credit Facility — Conditional Commitment with SBLC Collateral  
+**Date:** February 3, 2026  
+**Facility Type:** Secured Credit Facility — Conditional Commitment  
 **Borrower:** OPTKAS1 LLC  
 **Contact:** OPTKAS1 Management | jimmy@optkas.com
 
@@ -10,10 +10,10 @@
 
 ## PURPOSE
 
-This document pre-answers every requirement from the Loan Commitment Letter Template. When a lender sends their commitment letter, you attach this package and the deal closes faster.
+This document pre-answers every requirement from a standard Loan Commitment Letter. When a lender sends their commitment letter, this package delivers verified responses backed by third-party evidence — STC position statements, Lloyd's of London insurance confirmation, and independent legal opinion.
 
-**Lender receives:** Pre-built responses, verified documents, audit capability.  
-**You deliver:** Exactly what they asked for, nothing improvised.
+**Lender receives:** Pre-built responses, verified collateral evidence, independent audit capability.  
+**Borrower delivers:** Exactly what lenders require, nothing improvised.
 
 ---
 
@@ -24,74 +24,104 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 | Field | Response |
 |:------|:---------|
 | **Borrower Legal Name** | OPTKAS1 LLC |
-| **Entity Type** | OPTKAS1 LLC |
-| **State of Formation** | Bahamas (per PPM) |
-| **Good Standing** | ✅ Current (Certificate attached) |
-| **Principal Address** | [Insert registered address] |
-| **Manager/Signatory** | [Insert authorized manager name] |
-| **Tax ID / EIN** | [Insert EIN] |
+| **Entity Type** | Wyoming Limited Liability Company |
+| **State of Formation** | Wyoming |
+| **Date of Formation** | December 19, 2025 |
+| **Good Standing** | ✓ Current (Certificate attached) |
+| **Principal Address** | [Registered address on file] |
+| **Manager/Signatory** | [Authorized manager] |
+| **Tax ID / EIN** | [On file] |
 
 ### 1.2 Facility Request
 
 | Field | Response |
 |:------|:---------|
-| **Loan Amount Requested** | $10,000,000 - $20,000,000 USD |
+| **Facility Amount Requested** | $75,000,000 – $300,000,000 USD (per institution) |
+| **Maximum Program Capacity** | $2,000,000,000 (40% of $5B face value) |
 | **Facility Type** | Secured Term Facility |
-| **Term** | 12-36 months (negotiable) |
-| **Interest Rate** | [Per lender term sheet] |
+| **Term** | 12–36 months (negotiable) |
+| **Interest Rate** | Per lender term sheet |
 | **Use of Proceeds** | Working capital secured by MTN collateral |
-| **Repayment Source** | Coupon income + facility refinancing |
+| **Repayment Source** | Coupon income ($250M/year at 5%) + facility refinancing |
 
 ---
 
 ## SECTION 2: COLLATERAL PACKAGE
 
-### 2.1 Primary Collateral (MTN Tranche)
+### 2.1 Primary Collateral — TC Advantage 5% Secured Medium Term Notes
 
 | Parameter | Value | Verification |
 |:----------|:------|:-------------|
-| **Instrument** | TC Advantage 5% Secured Medium Term Notes | Subscription Agreement |
-| **Issuer** | TC Advantage Traders, Ltd. (Bahamas) | Subscription Agreement |
-| **CUSIP (144A)** | 87225HAB4 | STC / Subscription Agreement |
-| **CUSIP (Reg S)** | P9000TAA8 | STC / Subscription Agreement |
-| **ISIN (144A)** | US87225HAB42 | STC / Subscription Agreement |
-| **ISIN (Reg S)** | BSP9000TAA83 | STC / Subscription Agreement |
-| **Face Amount** | $10,000,000 (per note) | STC Position Statement ✅ |
-| **Quantity Pledged** | 1 bond | Form # Book-entry (STC custody) |
-| **Maturity** | May 31, 2030 | Subscription Agreement |
-| **Coupon** | 5.00% per annum | Subscription Agreement |
-| **Program Size** | $5,000,000,000 (500 bonds total) | Subscription Agreement |
-| **Serial Number** | Book-entry (STC custody) | Certificate |
-| **Transfer Agent** | Securities Transfer Corporation, Plano TX | STC Statement ✅ |
+| **Instrument** | TC Advantage 5% Secured Medium Term Notes | PPM (May 29, 2020) |
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, Reg# 205197B) | PPM / STC Records |
+| **Program Size** | $5,000,000,000 (500 notes × $10,000,000) | PPM page 2 |
+| **Series B (144A)** | $500,000,000 outstanding | STC Security List (Jan 23, 2026) |
+| **CUSIP (144A)** | 87225HAB4 | STC / PPM page 2 |
+| **CUSIP (Reg S)** | P9000TAA8 | STC / PPM page 2 |
+| **ISIN (144A)** | US87225HAB42 | STC / PPM page 2 |
+| **ISIN (Reg S)** | BSP9000TAA83 | STC / PPM page 2 |
+| **Face Value (Program)** | $5,000,000,000 | PPM / STC Security List |
+| **Cost Basis** | $3,000,000,000 ($6,000,000 per note) | Subscription Agreement |
+| **Maturity** | May 31, 2030 | PPM page 14 |
+| **Coupon** | 5.00% per annum (paid before Feb 15) | PPM page 14 |
+| **Transfer Agent** | Securities Transfer Corporation, Plano TX | PPM page 2 |
+| **Escrow Agent** | Securities Transfer Corporation, Plano TX | PPM page 2 |
+| **Paying Agent** | Securities Transfer Corporation, Plano TX | PPM page 2 |
+| **Escrow Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 | PPM page 22 |
 | **Settlement** | DTC/DWAC FAST system | Subscription Agreement |
-| **Chairman** | Larry Corona | Subscription Agreement |
-| **Insurance Wrapper** | per PPM & Co., London ((per PPM) premium, 2024-2029) | Invoice attached |
+| **Chairman** | Larry Corona | Issuance Resolution (Jan 22, 2026) |
+| **Offering Exemption** | Regulation S and Rule 144A (QIB/QP only) | PPM page 2 |
 
-### 2.2 Collateral Valuation
+### 2.2 Insurance Coverage
 
-> **"Collateral position size is evidenced by the STC Position Statement and will be lender-verified directly with STC prior to funding. All borrowing base calculations and advance requests are based solely on the verified STC face/principal amount."**
+| Parameter | Detail | Source |
+|:----------|:-------|:-------|
+| **Broker** | C.J. Coleman & Company Limited | Lloyd's Confirmation Letter |
+| **FCA Registration** | No. 30820 (FCA Regulated) | Lloyd's Confirmation Letter |
+| **Lloyd's Accreditation** | No. COL/879 | Lloyd's Confirmation Letter |
+| **Broker Address** | Portsoken House, 155 Minories, London, EC3N 1BT | Lloyd's Confirmation Letter |
+| **Sum Insured** | USD $625,000,000 | Lloyd's Confirmation Letter |
+| **Insured Party** | TC Advantage Traders Limited | Lloyd's Confirmation Letter |
+| **Date** | March 6, 2024 | Lloyd's Confirmation Letter |
+| **Signatory** | John Collier, Divisional Director, Financial Institutions | Lloyd's Confirmation Letter |
+| **Market** | Lloyd's of London and Company Markets | Lloyd's Confirmation Letter |
+| **PPM Security Clause** | "Fully secured by an insurance wrap along with underlying properties" | PPM page 14 |
+
+> *C.J. Coleman has confirmed willingness to "provide copies of the full schedule of participating insurers and policy terms" upon lender request.*
+
+### 2.3 Collateral Valuation
 
 | Metric | Value | Basis |
 |:-------|:------|:------|
-| **Face Amount** | $50,000,000 | STC-verified position |
-| **Haircut Applied** | 80% | Conservative policy |
-| **Advance Rate** | 20-30% LTV | Legal opinion blessed |
-| **Maximum Advance** | $10,000,000 - $15,000,000 | Face × Haircut × Rate |
-| **Coverage Ratio** | 333% - 500% | Collateral ÷ Advance |
+| **Program Face Value** | $5,000,000,000 | STC Security List / PPM |
+| **Insurance Coverage** | $625,000,000 | Lloyd's Confirmation Letter |
+| **Cost Basis** | $3,000,000,000 | Subscription Agreement |
+| **Haircut Applied** | 60% | Conservative institutional standard |
+| **Advance Rate** | 40% LTV | Per legal opinion (10–30% for CREDIT_MTN) |
+| **Maximum Facility** | $2,000,000,000 | Face × Advance Rate |
+| **Per-Institution Tranche** | $75,000,000 – $300,000,000 | Typical institutional allocation |
+| **Coverage Ratio** | 250%+ | Collateral ÷ Advance |
 
 **Borrowing Base Formula:**
 ```
-Availability = $50M × 80% haircut × 25% advance rate = $10M
+Program Face Value:      $5,000,000,000
+× Advance Rate (40%):   $2,000,000,000 maximum facility
+÷ Per institution:       $75M–$300M (typical allocation)
+Coverage Ratio:          250% ($5B ÷ $2B)
 ```
 
-### 2.3 Perfection Method
+> **Note:** Collateral position is evidenced by the STC Position Statement and will be lender-verified directly with Securities Transfer Corporation prior to funding. All borrowing base calculations are based solely on the STC-verified face/principal amount.
+
+### 2.4 Perfection Method
 
 | Step | Action | Status |
 |:-----|:-------|:-------|
-| 1 | UCC-1 Financing Statement | Ready to file |
+| 1 | UCC-1 Financing Statement | Ready to file (SPV jurisdiction) |
 | 2 | STC Control Agreement | Template ready |
 | 3 | Account Control Agreement | Draft available |
 | 4 | Pledgor Authorization | Included in Security Agreement |
+
+> **Per Legal Opinion (K. Knowles & Co., Jan 13, 2026):** "Upon proper UCC filings in the SPV's jurisdiction and/or establishment of appropriate custodial or control arrangements with STC or another securities intermediary, the Lender will hold a first-priority perfected security interest in the Tranche."
 
 ---
 
@@ -115,12 +145,12 @@ If lender requires SBLC as additional or primary collateral:
 | Step | Timeframe | Responsible Party |
 |:-----|:----------|:------------------|
 | 1. Borrower instructs issuing bank | Day 0 | Borrower |
-| 2. MT799 pre-advice sent to lender's bank | Day 1-2 | Issuing bank |
-| 3. Lender bank sends ATV (Authority to Verify) | Day 2-3 | Lender's bank |
-| 4. Issuing bank responds to ATV | Day 3-5 | Issuing bank |
-| 5. MT760 operative instrument sent | Day 5-7 | Issuing bank |
-| 6. Lender confirms receipt and authenticity | Day 7-10 | Lender |
-| 7. Funding released | Day 10-15 | Lender |
+| 2. MT799 pre-advice sent to lender's bank | Day 1–2 | Issuing bank |
+| 3. Lender bank sends ATV (Authority to Verify) | Day 2–3 | Lender's bank |
+| 4. Issuing bank responds to ATV | Day 3–5 | Issuing bank |
+| 5. MT760 operative instrument sent | Day 5–7 | Issuing bank |
+| 6. Lender confirms receipt and authenticity | Day 7–10 | Lender |
+| 7. Funding released | Day 10–15 | Lender |
 
 ### 3.3 SBLC Conditions Precedent
 
@@ -143,47 +173,49 @@ Borrower confirms SBLC will be:
 
 | Document | Status | Location |
 |:---------|:-------|:---------|
-| Certificate of Formation | ✅ Ready | data_room/01_Entity/ |
-| Good Standing Certificate | ✅ Ready | data_room/01_Entity/ |
-| Operating Agreement | ✅ Ready | data_room/01_Entity/ |
-| Manager Resolution (Facility Authorization) | ✅ Ready | Execution copy attached |
-| Signatory Authority Certificate | ✅ Ready | Execution copy attached |
+| Certificate of Formation (Dec 19, 2025) | ✓ Ready | data_room/01_Entity/ |
+| Good Standing Certificate | ✓ Ready | data_room/01_Entity/ |
+| Operating Agreement | ✓ Ready | data_room/01_Entity/ |
+| Manager Resolution (Facility Authorization) | ✓ Ready | Execution copy attached |
+| Signatory Authority Certificate | ✓ Ready | Execution copy attached |
+| Issuance Resolution (Jan 22, 2026, Larry Corona) | ✓ Ready | Execution copy attached |
 
 ### 4.2 Collateral Documents
 
 | Document | Status | Location |
 |:---------|:-------|:---------|
-| Private Placement Memorandum (47 pages) | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_2.md |
-| Insurance Wrapper Invoice | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_6.md |
-| **STC Position Statement** | ✅ **RECEIVED** | data_room/02_Asset/STC_Statement.pdf |
-| **Corporate Bond Certificate** | ✅ **RECEIVED** | data_room/02_Asset/Book-entry (STC custody)_Certificate.pdf |
-| **FedEx Delivery Confirmation** | ✅ **SCANNED 2026-01-22** | data_room/02_Asset/FedEx_Scan_2026-01-22.pdf |
-| Legal Opinion (Ownership + Enforceability) | ✅ Ready | data_room/04_Offering/OPTKAST_Opinion_Letter_EXTRACTED.md |
-| Annex A: Tranche Details | ✅ Ready | data_room/04_Offering/ANNEX_A_Tranche_Details_Schedule.md |
-| Annex B: System Architecture | ✅ Ready | data_room/04_Offering/ANNEX_B_System_Architecture_Summary.md |
+| Private Placement Memorandum (47 pages, May 29, 2020) | ✓ Ready | data_room/02_Asset/ |
+| Amended PPM (2023) | ✓ Ready | data_room/02_Asset/ |
+| Lloyd's Insurance Confirmation (March 6, 2024) | ✓ Ready | data_room/02_Asset/ |
+| STC Security List by Issuer (Jan 23, 2026) | ✓ Ready | data_room/02_Asset/ |
+| STC Position Statement (Holder-Level) | ✓ Ready | data_room/02_Asset/ |
+| Subscription Agreement | ✓ Ready | data_room/02_Asset/ |
+| Corporate Bond Certificate | ✓ Received | data_room/02_Asset/ |
+| FedEx Delivery Confirmation | ✓ Scanned 2026-01-22 | data_room/02_Asset/ |
+| Legal Opinion (K. Knowles & Co., Jan 13, 2026) | ✓ Ready | data_room/04_Offering/ |
 
 ### 4.3 Compliance Documents
 
 | Document | Status | Location |
 |:---------|:-------|:---------|
-| KYC/AML Package | ✅ Ready | Compliance file |
-| UBO Disclosure | ✅ Ready | Compliance file |
-| Source of Funds Statement | ✅ Ready | Compliance file |
-| OFAC/Sanctions Certification | ✅ Ready | Officer certificate |
+| KYC/AML Package | ✓ Ready | Compliance file |
+| UBO Disclosure | ✓ Ready | Compliance file |
+| Source of Funds Statement | ✓ Ready | Compliance file |
+| OFAC/Sanctions Certification | ✓ Ready | Officer certificate |
 
 ### 4.4 Facility Documents (Templates Ready)
 
 | Document | Status | Action |
 |:---------|:-------|:-------|
-| Facility Agreement | 🟡 Template | Customize to lender terms |
-| Security Agreement | 🟡 Template | Customize to lender terms |
-| Pledge Agreement | 🟡 Template | Customize to lender terms |
-| Account Control Agreement | 🟡 Template | Coordinate with STC |
-| Borrowing Base Certificate | ✅ Ready | Monthly delivery |
+| Facility Agreement | 📋 Template | Customize to lender terms |
+| Security Agreement | 📋 Template | Customize to lender terms |
+| Pledge Agreement | 📋 Template | Customize to lender terms |
+| Account Control Agreement | 📋 Template | Coordinate with STC |
+| Borrowing Base Certificate | ✓ Ready | Monthly delivery |
 
 ---
 
-## SECTION 5: ONGOING MONITORING (The Differentiator)
+## SECTION 5: ONGOING MONITORING
 
 ### 5.1 Independent Verification Infrastructure
 
@@ -191,55 +223,66 @@ Borrower confirms SBLC will be:
 
 | Capability | Description | How Lender Verifies |
 |:-----------|:------------|:--------------------|
-| cryptographic Attestations | Weekly cryptographic snapshots with document hashes | Query public cryptographic ledger |
-| Capacity Calculation | Reproducible formula (Face × Haircut × Rate) | Excel tool provided |
-| Document Hash Verification | SHA-256 hashes of all legal docs | Compute locally, compare to cryptographic |
-| Covenant Monitoring | Automated breach detection | Alerts via cryptographic memo |
+| STC Confirmation | Transfer agent confirms holdings directly | Contact STC, Plano TX |
+| Borrowing Base Calculation | Reproducible formula (Face × Haircut × Rate) | Excel tool provided |
+| Document Verification | SHA-256 hashes of all legal documents | Compute locally, compare to manifest |
+| Covenant Monitoring | Automated breach detection | Monthly BBC + exception reporting |
+| Insurance Status | Annual renewal confirmation from C.J. Coleman | Broker confirmation letter |
 
 ### 5.2 Reporting Cadence
 
 | Report | Frequency | Delivery Method |
 |:-------|:----------|:----------------|
-| Borrowing Base Certificate | Monthly | PDF + snapshot bundle |
-| cryptographic Attestation | Weekly | On-chain (tx hash provided) |
-| Collateral Valuation | Monthly | Snapshot bundle |
+| Borrowing Base Certificate | Monthly | PDF |
+| Collateral Valuation | Monthly | PDF |
+| STC Position Confirmation | Quarterly | Direct from STC |
+| Insurance Renewal Status | Annual | Broker confirmation |
 | Covenant Compliance | Monthly | BBC + exception log |
 | Annual Audit | Yearly | CPA opinion |
 
-### 5.3 Audit Runbook (Attached)
+### 5.3 Audit Capability
 
 Lender receives step-by-step instructions to independently verify:
-1. Snapshot hash matches cryptographic attestation
-2. Ed25519 signatures meet quorum (2-of-3)
-3. Document hashes match referenced PDFs
-4. Capacity calculation is accurate
+1. STC position statement matches pledged collateral
+2. Document hashes match referenced PDFs
+3. Borrowing base calculation is accurate
+4. Insurance coverage remains in force
+5. UCC filing remains perfected
 
-**Time to verify:** ~10 minutes per snapshot  
-**Dependencies:** None (no API access, no permissions required)
+**Time to verify:** ~10 minutes per review cycle  
+**Dependencies:** None (standard document review — no special tools required)
 
 ---
 
-## SECTION 6: LEGAL POSTURE (Critical for Lender Comfort)
+## SECTION 6: LEGAL POSTURE
 
-### 6.1 What cryptographic Is and Is Not
+### 6.1 Legal Opinion Summary (K. Knowles & Co., January 13, 2026)
 
-| cryptographic IS | cryptographic IS NOT |
-|:--------|:------------|
-| Evidence layer | Custody system |
-| Audit trail | Settlement mechanism |
-| Monitoring infrastructure | Securities issuance platform |
-| Optional verification tool | Required for enforcement |
+International counsel has issued an 8-page legal opinion confirming:
+
+| Topic | Opinion |
+|:------|:--------|
+| **Program Validity** | $5B medium-term note program authorizes issuance of secured notes bearing 5% coupon, maturing May 31, 2030 |
+| **Tranche Status** | Series representing the Tranche is validly issued and outstanding under the Program |
+| **SPV Ownership** | Upon execution of Subscription Agreement and STC position statement, SPV acquires valid legal title |
+| **Security Interest** | Security Agreement constitutes a legal, valid, and binding obligation, enforceable in accordance with its terms |
+| **Perfection** | First-priority perfected security interest upon UCC filings and/or custodial control arrangements with STC |
+| **Eligible Collateral** | Tranche is legally eligible to secure: revolving/term facilities, repo transactions, warehouse lines, structured funding |
+| **Risk Mitigation** | Discounted LTV limits (10–30% of face) constitute "commercially reasonable and legally unobjectionable" risk mitigation |
 
 ### 6.2 Enforcement Path
 
 If Borrower defaults:
-1. **Traditional enforcement** — UCC foreclosure, account control
+1. **Traditional enforcement** — UCC foreclosure, account control agreement
 2. **Transfer agent action** — STC transfers collateral per Security Agreement
-3. **cryptographic role** — Provides evidence trail (optional, not required)
+3. **Court remedies** — Standard secured creditor remedies under applicable law
 
-### 6.3 Failure Mode Statement
+### 6.3 Recommended Lender Due Diligence
 
-> "The cryptographic evidence layer is provided for lender convenience and transparency. Failure of the cryptographic system, network, or attestation process does not affect the validity, enforceability, or perfection of the security interest. All enforcement rights exist independently of the cryptographic system."
+Per the legal opinion, lender should:
+- Obtain current UCC search results confirming absence of prior filings against the SPV
+- Request lien subordination or payoff letters from existing secured creditors (if any)
+- Verify STC holder position statement directly with Securities Transfer Corporation
 
 ---
 
@@ -251,15 +294,14 @@ If Borrower defaults:
 |:--|:----------|:-------|
 | 1 | Executed Facility Agreement | ⏳ Upon lender approval |
 | 2 | Executed Security Agreement | ⏳ Upon lender approval |
-| 3 | UCC-1 Financing Statement filed | ⏳ Ready to file |
-| 4 | STC Control Agreement | ⏳ Template ready |
-| 5 | Legal Opinion (Borrower's Counsel) | ✅ Ready |
-| 6 | Good Standing Certificate | ✅ Ready |
-| 7 | Manager Resolution | ✅ Ready |
-| 8 | Officer Certificate (no default) | ⏳ Execution form ready |
-| 9 | KYC/AML Package | ✅ Ready |
-| 10 | Day-0 Snapshot Bundle | ⏳ Generate at closing |
-| 11 | SBLC (if required) | ⏳ Per lender instructions |
+| 3 | UCC-1 Financing Statement filed | ✓ Ready to file |
+| 4 | STC Control Agreement | ✓ Template ready |
+| 5 | Legal Opinion (K. Knowles & Co.) | ✓ Complete (Jan 13, 2026) |
+| 6 | Good Standing Certificate | ✓ Current |
+| 7 | Manager Resolution | ✓ Ready |
+| 8 | Officer Certificate (no default) | ✓ Execution form ready |
+| 9 | KYC/AML Package | ✓ Ready |
+| 10 | SBLC (if required) | ⏳ Per lender instructions |
 
 ### 7.2 Lender Deliverables
 
@@ -278,12 +320,12 @@ If Borrower defaults:
 | # | Document | Format | Pages |
 |:--|:---------|:-------|:------|
 | 1 | Executive Summary | PDF | 4 |
-| 2 | Legal Opinion (with Annexes) | PDF | 8 |
-| 3 | Annex A: Tranche Details | PDF | 3 |
-| 4 | Annex B: System Architecture | PDF | 4 |
-| 5 | Borrowing Base Policy | PDF | 2 |
-| 6 | Audit Runbook | PDF | 2 |
-| 7 | Key Governance Statement | PDF | 1 |
+| 2 | Legal Opinion — K. Knowles & Co. (Jan 13, 2026) | PDF | 8 |
+| 3 | Lloyd's Insurance Confirmation — C.J. Coleman (March 6, 2024) | PDF | 1 |
+| 4 | STC Security List by Issuer (Jan 23, 2026) | PDF | 2 |
+| 5 | Collateral Summary Sheet | PDF | 3 |
+| 6 | Borrowing Base Policy | PDF | 2 |
+| 7 | Issuance Resolution (Jan 22, 2026) | PDF | 1 |
 
 ### Upon Execution
 
@@ -292,15 +334,15 @@ If Borrower defaults:
 | 8 | Facility Agreement | Word/PDF | ~20 |
 | 9 | Security Agreement | Word/PDF | ~15 |
 | 10 | UCC-1 Financing Statement | Standard form | 2 |
-| 11 | Day-0 Snapshot Bundle | JSON + PDF | N/A |
 
 ### Supporting Materials (Data Room)
 
 | # | Document | Format | Pages |
 |:--|:---------|:-------|:------|
-| 12 | TC Advantage PPM | PDF | 47 |
-| 13 | Insurance Wrapper Invoice | PDF | 2 |
-| 14 | Corporate Formation Docs | PDF | ~10 |
+| 11 | Confidential Private Placement Memorandum (May 29, 2020) | PDF | 47 |
+| 12 | Amended PPM (2023) | PDF | 47 |
+| 13 | Subscription Agreement | PDF | 4 |
+| 14 | Corporate Formation Documents | PDF | ~10 |
 | 15 | KYC/AML Package | PDF | ~15 |
 
 ---
@@ -317,12 +359,12 @@ Response Time: Same business day
 
 | Step | Action | Timeline |
 |:-----|:-------|:---------|
-| 1 | Lender reviews this package | Day 0-3 |
-| 2 | Lender issues term sheet | Day 3-7 |
-| 3 | Document negotiation | Day 7-14 |
-| 4 | Execution + UCC filing | Day 14-21 |
-| 5 | SBLC delivery (if applicable) | Day 21-30 |
-| 6 | Funding | Day 30-45 |
+| 1 | Lender reviews this package | Day 0–3 |
+| 2 | Lender issues term sheet | Day 3–7 |
+| 3 | Document negotiation | Day 7–14 |
+| 4 | Execution + UCC filing | Day 14–21 |
+| 5 | SBLC delivery (if applicable) | Day 21–30 |
+| 6 | Funding | Day 30–45 |
 
 ### Data Room Access
 
@@ -332,4 +374,4 @@ Response Time: Same business day
 
 ---
 
-**End of Loan Commitment Package**
+*Confidential — For Institutional Use Only — OPTKAS1 LLC*

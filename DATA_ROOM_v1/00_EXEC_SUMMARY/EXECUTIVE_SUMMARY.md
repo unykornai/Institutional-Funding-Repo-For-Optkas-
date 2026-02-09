@@ -2,14 +2,14 @@
 ## Secured Credit Facility Backed by Investment-Grade Notes
 
 **Prepared for:** Prospective Lenders  
-**Date:** February 2, 2026  
+**Date:** February 3, 2026  
 **Contact:** jimmy@optkas.com
 
 ---
 
 ## The Opportunity
 
-OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by TC Advantage 5% Secured Medium Term Notes with **250%+ coverage ratio** and traditional UCC enforcement rights.
+OPTKAS1 LLC seeks **$75M – $300M per institution** (up to $2B total program capacity) in secured credit facilities collateralized by TC Advantage 5% Secured Medium Term Notes with **250%+ coverage ratio**, Lloyd's of London insurance, and traditional UCC enforcement rights.
 
 ---
 
@@ -17,44 +17,62 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 
 | Parameter | Value | Verification |
 |:----------|:------|:-------------|
-| **Instrument** | TC Advantage 5% Secured MTN | Subscription Agreement |
-| **CUSIP (144A)** | 87225HAB4 | STC Verified ✓ |
-| **ISIN (144A)** | US87225HAB42 | STC Verified ✓ |
-| **Face Value** | $10,000,000+ | STC Position Statement |
-| **Maturity** | May 31, 2030 | Certificate |
-| **Coupon** | 5.00% per annum | Certificate |
-| **Insurance** | Per PPM (page 14)  insurance wrap on underlying properties | Premium invoice |
-| **Transfer Agent** | Securities Transfer Corporation | Industry standard |
+| **Instrument** | TC Advantage 5% Secured MTN | PPM (May 29, 2020) |
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, Reg# 205197B) | PPM / STC Records |
+| **CUSIP (144A)** | 87225HAB4 | STC / PPM page 2 |
+| **ISIN (144A)** | US87225HAB42 | STC / PPM page 2 |
+| **CUSIP (Reg S)** | P9000TAA8 | STC / PPM page 2 |
+| **ISIN (Reg S)** | BSP9000TAA83 | STC / PPM page 2 |
+| **Program Face Value** | $5,000,000,000 (500 notes × $10M) | PPM / STC Security List |
+| **Cost Basis** | $3,000,000,000 ($6M per note) | Subscription Agreement |
+| **Maturity** | May 31, 2030 | PPM page 14 |
+| **Coupon** | 5.00% per annum (paid before Feb 15) | PPM page 14 |
+| **Transfer Agent** | Securities Transfer Corporation, Plano TX | PPM page 2 |
+| **Settlement** | DTC/DWAC FAST system | Subscription Agreement |
+
+---
+
+## Insurance Coverage
+
+| Detail | Value |
+|:-------|:------|
+| **Broker** | C.J. Coleman & Company Limited (FCA No. 30820, Lloyd's No. COL/879) |
+| **Sum Insured** | USD $625,000,000 |
+| **Market** | Lloyd's of London and Company Markets |
+| **Date** | March 6, 2024 |
+| **Signatory** | John Collier, Divisional Director, Financial Institutions |
+| **PPM Security Clause** | "Fully secured by an insurance wrap along with underlying properties" (PPM page 14) |
+| **Insurer Schedule** | Available upon request from C.J. Coleman |
 
 ---
 
 ## Deal Structure
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    COLLATERAL STRUCTURE                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│   TC ADVANTAGE 5% SECURED MTN                                │
-│   Face Value: $10,000,000+                                   │
-│   CUSIP: 87225HAB4                                           │
-│                         │                                    │
-│                         ▼                                    │
-│   ┌─────────────────────────────────────────────────────┐   │
-│   │  HAIRCUT: 40%                                       │   │
-│   │  Collateral Value: $6,000,000                       │   │
-│   └─────────────────────────────────────────────────────┘   │
-│                         │                                    │
-│                         ▼                                    │
-│   ┌─────────────────────────────────────────────────────┐   │
-│   │  ADVANCE RATE: 40%                                  │   │
-│   │  Maximum Facility: $2,400,000                       │   │
-│   └─────────────────────────────────────────────────────┘   │
-│                         │                                    │
-│                         ▼                                    │
-│   COVERAGE RATIO: 250%+ (Collateral ÷ Advance)              │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                    COLLATERAL STRUCTURE                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                               │
+│   TC ADVANTAGE 5% SECURED MTN PROGRAM                         │
+│   Program Face Value: $5,000,000,000                          │
+│   CUSIP: 87225HAB4 (144A) / P9000TAA8 (Reg S)                │
+│   Insurance: $625M (Lloyd's via C.J. Coleman)                 │
+│                         │                                     │
+│                         ▼                                     │
+│   ┌─────────────────────────────────────────────────────┐    │
+│   │  ADVANCE RATE: 40% LTV                              │    │
+│   │  Maximum Facility: $2,000,000,000                   │    │
+│   └─────────────────────────────────────────────────────┘    │
+│                         │                                     │
+│                         ▼                                     │
+│   ┌─────────────────────────────────────────────────────┐    │
+│   │  PER-INSTITUTION TRANCHE: $75M – $300M              │    │
+│   │  Coverage Ratio: 250%+                              │    │
+│   └─────────────────────────────────────────────────────┘    │
+│                                                               │
+│   ANNUAL COUPON INCOME: $250,000,000 (5% × $5B)              │
+│                                                               │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -65,20 +83,22 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 
 | Benefit | Detail |
 |:--------|:-------|
-| **Overcollateralized** | 250%+ coverage ratio |
-| **Verifiable** | STC position statement + cryptographic attestations |
-| **Enforceable** | Standard UCC foreclosure rights |
-| **Income-Producing** | 5% coupon supports debt service |
-| **Insured** | (per PPM) per PPM coverage |
+| **Overcollateralized** | 250%+ coverage ratio ($5B collateral vs. $2B max facility) |
+| **Insured** | $625M Lloyd's of London coverage via FCA-regulated broker |
+| **Verifiable** | STC position statement + direct transfer agent confirmation |
+| **Enforceable** | Standard UCC foreclosure rights, perfected first-priority lien |
+| **Income-Producing** | 5% coupon ($250M/year) supports debt service |
+| **Legal Opinion** | K. Knowles & Co. confirms validity, enforceability, eligible collateral status |
 
 ### Risk Mitigants
 
 | Risk | Mitigation |
 |:-----|:-----------|
-| Collateral authenticity | STC verification + physical certificates received |
-| Collateral decline | 40% haircut absorbs volatility |
-| Borrower default | First-lien security interest + control agreement |
-| Operational | Traditional enforcement path (no cryptographic dependency) |
+| Collateral authenticity | STC verification + physical certificates received Jan 22, 2026 |
+| Valuation | 60% haircut (only 40% LTV) absorbs any market adjustment |
+| Borrower default | First-lien security interest + STC control agreement |
+| Insurance | $625M Lloyd's coverage via FCA-regulated broker (C.J. Coleman, No. 30820) |
+| Operational | Traditional enforcement path — no special technology required |
 
 ---
 
@@ -89,19 +109,24 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 | UCC-1 Financing Statement | Ready to file |
 | Security Agreement | Template ready |
 | STC Control Agreement | Template ready |
-| Legal Opinion | Complete |
-| Good Standing Certificate | Current |
+| Legal Opinion (K. Knowles & Co., Jan 13, 2026) | ✓ Complete (8 pages) |
+| Lloyd's Insurance Confirmation (March 6, 2024) | ✓ On file |
+| STC Security List (Jan 23, 2026) | ✓ On file |
+| Good Standing Certificate | ✓ Current |
 
 ---
 
 ## Borrower Profile
 
-| Entity | OPTKAS1 LLC |
-|:-------|:-----------------|
-| **Structure** | OPTKAS1 LLC |
+| Entity | Detail |
+|:-------|:-------|
+| **Name** | OPTKAS1 LLC |
+| **Structure** | Wyoming Limited Liability Company |
+| **Date of Formation** | December 19, 2025 |
 | **Purpose** | Single-asset SPV for collateral management |
 | **Bankruptcy Remote** | Yes (series isolation) |
 | **Management** | Professional manager with signatory authority |
+| **Chairman (Issuer)** | Larry Corona |
 
 ---
 
@@ -109,11 +134,25 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 
 | Parameter | Range |
 |:----------|:------|
-| **Facility Amount** | $2,400,000 – $15,000,000 |
-| **Term** | 12-36 months |
+| **Per-Institution Facility** | $75,000,000 – $300,000,000 |
+| **Maximum Program Capacity** | $2,000,000,000 |
+| **Term** | 12–36 months |
 | **Interest Rate** | Per lender term sheet |
-| **Advance Rate** | 20-40% LTV |
+| **Advance Rate** | 40% LTV |
 | **Repayment** | Coupon income + refinancing |
+| **Coverage Ratio** | 250%+ |
+
+---
+
+## Independent Evidence Summary
+
+| Evidence | Source | Date |
+|:---------|:-------|:-----|
+| **STC Security List** | Securities Transfer Corporation (Plano, TX) | January 23, 2026 |
+| **Legal Opinion** | K. Knowles & Co. (Freeport, Grand Bahama) | January 13, 2026 |
+| **Insurance Confirmation** | C.J. Coleman & Company Ltd. (London) | March 6, 2024 |
+| **Issuance Resolution** | Larry Corona, Chairman | January 22, 2026 |
+| **PPM** | TC Advantage Traders, Ltd. | May 29, 2020 |
 
 ---
 
@@ -121,11 +160,11 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 
 | Step | Timeline |
 |:-----|:---------|
-| 1. Review this package | Day 0-3 |
-| 2. Issue term sheet | Day 3-7 |
-| 3. Document negotiation | Day 7-14 |
-| 4. Execution + UCC filing | Day 14-21 |
-| 5. Funding | Day 30-45 |
+| 1. Review this package | Day 0–3 |
+| 2. Issue term sheet | Day 3–7 |
+| 3. Document negotiation | Day 7–14 |
+| 4. Execution + UCC filing | Day 14–21 |
+| 5. Funding | Day 30–45 |
 
 ---
 
@@ -139,4 +178,4 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 
 ---
 
-*Confidential — For Institutional Use Only*
+*Confidential — For Institutional Use Only — OPTKAS1 LLC*

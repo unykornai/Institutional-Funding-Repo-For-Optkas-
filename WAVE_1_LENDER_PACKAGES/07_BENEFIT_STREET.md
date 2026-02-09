@@ -107,12 +107,13 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 ---
 
-## 🔐 VERIFICATION
+## ✓ VERIFICATION
 
-```bash
-python cryptographic_proof_engine.py --verify
-# Merkle Root: 5A859413146252D45254FA1BA0B391B23E10F5C880FB5143DE5888EFD36749A8
-```
+All collateral evidence is independently verifiable:
+- **STC Position Statement** — Contact Securities Transfer Corporation, Plano TX
+- **Lloyd's Insurance** — C.J. Coleman & Company Ltd. (FCA No. 30820, Lloyd's No. COL/879)
+- **Legal Opinion** — K. Knowles & Co. (January 13, 2026)
+- **Document Hashes** — SHA-256 manifest available upon request
 
 ---
 

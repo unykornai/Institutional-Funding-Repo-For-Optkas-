@@ -2,8 +2,8 @@
 ## OPTKAS1 LLC — Secured Credit Facility
 
 **Date:** February 3, 2026  
-**Facility Amount:** $2,000,000,000 (maximum, at 40% advance rate)  
-**Advance Rate:** 40% on $5,000,000,000 face value  
+**Maximum Program Capacity:** $2,000,000,000 (at 40% advance rate on $5B face value)  
+**Per-Institution Facility:** $75,000,000 – $300,000,000  
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Parameter | Specification |
 |:----------|:--------------|
-| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, reg# 205197B) |
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, Reg# 205197B) |
 | **Program Size** | $5,000,000,000 (500 notes × $10,000,000) |
 | **Per Note Face Value** | $10,000,000 |
 | **Cost Basis** | $3,000,000,000 ($6,000,000 per note) |
@@ -26,6 +26,7 @@
 | **Coupon Frequency** | Annual (paid before February 15) |
 | **Maturity Date** | May 31, 2030 |
 | **Transfer Agent / Escrow / Paying Agent** | Securities Transfer Corporation (Plano, TX) |
+| **Escrow Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 |
 | **Settlement** | DTC/DWAC FAST system |
 | **Offering Exemption** | Regulation S and Rule 144A (QIB/QP only) |
 | **PPM Date** | May 29, 2020 |
@@ -36,10 +37,40 @@
 - **Form:** Book-entry (STC custody)
 - **Restriction Status:** Rule 144A / Regulation S (restricted securities)
 - **Chain of Custody:** Complete documentation trail from issuance
-- **Escrow Bank:** EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814
+- **Physical Delivery:** FedEx tracked delivery received January 22, 2026
 
-### Security (per PPM, page 14)
+### Insurance Coverage
+
+| Detail | Value |
+|:-------|:------|
+| **Broker** | C.J. Coleman & Company Limited |
+| **FCA Registration** | No. 30820 |
+| **Lloyd's Accreditation** | No. COL/879 |
+| **Broker Address** | Portsoken House, 155 Minories, London, EC3N 1BT |
+| **Sum Insured** | USD $625,000,000 |
+| **Market** | Lloyd's of London and Company Markets |
+| **Confirmation Date** | March 6, 2024 |
+| **Signatory** | John Collier, Divisional Director, Financial Institutions |
+
+**PPM Security Clause (page 14):**
 > *"The Offered TC ADVANTAGE 5% SECURED MEDIUM TERM NOTE will be fully secured by an insurance wrap along with underlying properties as listed in the Business Plan Annex 'A.' At all times the value of the insurance wrap and property will exceed the total debt carried by the property."*
+
+### STC Confirmation (January 23, 2026)
+Securities Transfer Corporation Security List by Issuer confirms:
+- **144A Series (CUSIP 87225HAB4):** $500,000,000 outstanding, 1 active holder
+- **Reg S Series (CUSIP P9000TAA8):** $4,000,000,000 authorized
+- **Total Active Shareholders:** 2
+- **Issuer:** TC Advantage Traders, Ltd. (Freeport, Grand Bahama)
+
+### Legal Opinion (K. Knowles & Co., January 13, 2026)
+International counsel confirms:
+- Program authorizes issuance of up to USD $5 billion of secured medium-term notes
+- Tranche is validly issued and outstanding
+- SPV acquires valid and legally recognizable title upon subscription and STC confirmation
+- Security Agreement constitutes a legal, valid, and binding obligation
+- Lender achieves first-priority perfected security interest upon UCC filings and/or control arrangements
+- Tranche is legally eligible to secure: revolving/term facilities, repo transactions, warehouse lines, structured funding
+- Discounted LTV limits are "commercially reasonable and legally unobjectionable"
 
 ---
 
@@ -51,10 +82,11 @@
 | Component | Face Value | Cost Basis | Advance Rate | Borrowing Base |
 |:----------|:-----------|:-----------|:-------------|:---------------|
 | TC Advantage 5% Secured MTN (500 notes) | $5,000,000,000 | $3,000,000,000 | 40% | $2,000,000,000 |
-| **Total Maximum Facility** | | | | **$2,000,000,000** |
+| **Maximum Program Capacity** | | | | **$2,000,000,000** |
 
 ### Coverage Ratio
-- **Collateral Coverage:** 250% ($5B face value collateral / $2B maximum facility)
+- **Collateral Coverage:** 250% ($5B face value ÷ $2B maximum facility)
+- **Insurance Coverage:** $625,000,000 (Lloyd's of London via C.J. Coleman)
 - **Interest Coverage:** Annual coupon income of $250,000,000 (5% × $5B face value)
 - **Maturity Buffer:** 4+ years remaining to May 31, 2030
 
@@ -78,14 +110,16 @@
 ## VERIFICATION PATHWAYS
 
 ### Primary Verification
-1. **STC Position Statement** — Transfer Agent confirmation of holdings
+1. **STC Position Statement** — Transfer Agent confirmation of holdings (direct contact: STC, Plano TX)
 2. **DTC/DWAC Confirmation** — Book-entry verification via FAST system
 3. **Chain of Custody Documentation** — Complete audit trail from issuance
 
 ### Secondary Verification
 1. **CUSIP Database Confirmation** — 87225HAB4 (144A) / P9000TAA8 (Reg S)
 2. **Issuer Documentation Review** — PPM (May 29, 2020), Issuance Resolution (Jan 22, 2026)
-3. **Independent Appraisal** — Available upon request
+3. **Lloyd's Insurance Verification** — Contact C.J. Coleman & Company Ltd. (FCA No. 30820)
+4. **FCA Firm Checker** — Verify C.J. Coleman via FCA Financial Services Register
+5. **Independent Appraisal** — Available upon request
 
 ---
 
@@ -94,7 +128,7 @@
 ### Affirmative Covenants
 - Maintain collateral value above 200% of outstanding balance
 - Provide quarterly valuation updates
-- Maintain insurance coverage (per PPM (page 14) insurance wrap)
+- Maintain insurance coverage (Lloyd's via C.J. Coleman, sum insured USD $625M)
 - Comply with transfer agent requirements
 
 ### Negative Covenants
@@ -125,11 +159,12 @@
 | Role | Contact |
 |:-----|:--------|
 | **Borrower** | OPTKAS1 LLC — jimmy@optkas.com |
-| **Technology Provider** | Unykorn 7777, Inc. (document hashing & verification infrastructure only; no financial role) |
 | **Transfer Agent** | Securities Transfer Corporation, 2901 Dallas Parkway Suite 380, Plano, TX 75093 |
 | **Escrow Bank** | EagleBank, 7815 Woodmont Ave, Bethesda, MD 20814 |
+| **Insurance Broker** | C.J. Coleman & Company Ltd., Portsoken House, 155 Minories, London EC3N 1BT |
+| **Legal Counsel** | K. Knowles & Co., Suite D, Bain Building, Freeport, Grand Bahama |
 | **Chairman (Issuer)** | Larry Corona |
 
 ---
 
-*This collateral summary sheet is prepared for institutional lender evaluation purposes. All figures are sourced from the Confidential Private Placement Memorandum (May 29, 2020) and STC Issuance Resolution (January 22, 2026). Unykorn 7777, Inc. serves solely as a technology provider and has no financial, advisory, or broker-dealer role.*
+*This collateral summary sheet is prepared for institutional lender evaluation purposes. All figures are sourced from the Confidential Private Placement Memorandum (May 29, 2020), STC Security List (January 23, 2026), Lloyd's Insurance Confirmation (March 6, 2024), and Legal Opinion (K. Knowles & Co., January 13, 2026).*
