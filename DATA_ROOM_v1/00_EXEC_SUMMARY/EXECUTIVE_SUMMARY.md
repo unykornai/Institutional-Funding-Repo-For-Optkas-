@@ -23,7 +23,7 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 | **Face Value** | $10,000,000+ | STC Position Statement |
 | **Maturity** | May 31, 2030 | Certificate |
 | **Coupon** | 5.00% per annum | Certificate |
-| **Insurance** | $25.75M C.J. Coleman wrapper | Premium invoice |
+| **Insurance** | $675M C.J. Coleman wrapper | Premium invoice |
 | **Transfer Agent** | Securities Transfer Corporation | Industry standard |
 
 ---
@@ -69,7 +69,7 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 | **Verifiable** | STC position statement + XRPL attestations |
 | **Enforceable** | Standard UCC foreclosure rights |
 | **Income-Producing** | 5% coupon supports debt service |
-| **Insured** | $25.75M C.J. Coleman coverage |
+| **Insured** | $675M C.J. Coleman coverage |
 
 ### Risk Mitigants
 

@@ -87,7 +87,7 @@
 | Parameter | Value |
 |:----------|:------|
 | **Insurer** | C.J. Coleman & Company, London |
-| **Coverage Amount** | $25,750,000 |
+| **Coverage Amount** | $675,000,000 |
 | **Premium Period** | January 2024 – January 2029 |
 | **Coverage Type** | Insurance wrapper |
 | **Documentation** | Premium invoice on file |

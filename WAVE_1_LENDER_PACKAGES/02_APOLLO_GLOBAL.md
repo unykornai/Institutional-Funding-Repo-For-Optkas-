@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $300M Secured Credit Facility — $5.45B+ Alternative Asset Portfolio — Institutional Verification
+**Subject:** $300M Secured Credit Facility — $6.1B+ Alternative Asset Portfolio — Institutional Verification
 
 ---
 
@@ -23,13 +23,13 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $300,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 1,800%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
 - **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $25,750,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
@@ -38,7 +38,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested
 
 **Why This Fits Apollo:**
-Apollo's credit division specializes in yield-generating, asset-backed structures with strong downside protection at significant scale. This facility offers 1,800%+ collateral coverage across three diversified asset classes, third-party custody through STC, DTC settlement, and a $25.75M Lloyd's insurance wrapper — providing the over-collateralization and risk mitigation Apollo's credit committees prioritize. The $5B bond program represents exactly the type of complex alternative structure Apollo is built to evaluate.
+Apollo's credit division specializes in yield-generating, asset-backed structures with strong downside protection at significant scale. This facility offers 1,800%+ collateral coverage across three diversified asset classes, third-party custody through STC, DTC settlement, and a $675M Lloyd's insurance wrapper — providing the over-collateralization and risk mitigation Apollo's credit committees prioritize. The $5B bond program represents exactly the type of complex alternative structure Apollo is built to evaluate.
 
 **Attached Documentation:**
 1. Draft Term Sheet

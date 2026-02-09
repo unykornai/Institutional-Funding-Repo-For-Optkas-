@@ -16,7 +16,7 @@
 
 Dear Credit Suisse Legacy / UBS Structured Products Team,
 
-We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
+We are presenting a $200,000,000 secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your structured products expertise and note-backed lending capabilities.
 
 **Facility Summary:**
 
@@ -24,14 +24,14 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
 - **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $25,750,000 — C.J. Coleman & Co., London
+- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
 **Key Infrastructure:**
 
@@ -42,7 +42,7 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 
 **Why This Fits CS Legacy / UBS Structured Products:**
 
-Your structured products expertise means you understand DTC-eligible note collateral, CUSIP-identified securities, and STC-custodied positions. This facility is built on exactly those rails — a $5B program (500 bonds × $10M, CUSIP 87225HAB4) with standard DTC/DWAC settlement infrastructure, supplemented by $74M blockchain-verified USDT and $376.7M hard assets. The $25.75M Lloyd's insurance wrapper and cryptographic verification infrastructure (SHA-256 + IPFS) add layers of audit trail and credit enhancement that structured desks increasingly value.
+Your structured products expertise means you understand DTC-eligible note collateral, CUSIP-identified securities, and STC-custodied positions. This facility is built on exactly those rails — a $5B program (500 bonds × $10M, CUSIP 87225HAB4) with standard DTC/DWAC settlement infrastructure, supplemented by $74M blockchain-verified USDT and $376.7M hard assets. The $675M Lloyd's insurance wrapper and cryptographic verification infrastructure (SHA-256 + IPFS) add layers of audit trail and credit enhancement that structured desks increasingly value.
 
 **Attached Documentation:**
 

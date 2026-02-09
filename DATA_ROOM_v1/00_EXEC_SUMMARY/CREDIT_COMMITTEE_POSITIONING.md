@@ -24,7 +24,7 @@ OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-gr
 | **Coupon** | 5.00% per annum, semi-annual | Certificate |
 | **Maturity** | May 31, 2030 (4.3 years remaining) | Certificate |
 | **Transfer Agent** | Securities Transfer Corporation (Plano, TX) | Industry standard |
-| **Insurance** | $25.75M blanket coverage (C.J. Coleman) | Premium invoice on file |
+| **Insurance** | $675M blanket coverage (C.J. Coleman) | Premium invoice on file |
 | **Form** | Physical certificate TCAT-10M-2030-001 | Chain of custody complete |
 
 ---
@@ -52,7 +52,7 @@ OPTKAS1-MAIN SPV seeks a secured credit facility collateralized by investment-gr
 
 - **STC-held** — Securities Transfer Corporation maintains position records
 - **Physically delivered** — Certificate received, FedEx chain of custody documented
-- **Insured** — $25.75M C.J. Coleman coverage exceeds facility size by 6x
+- **Insured** — $675M C.J. Coleman coverage exceeds facility size by 6x
 - **CUSIP registered** — 87225HAB4 is a verifiable identifier
 - **Income-producing** — 5% coupon supports debt service at any advance rate up to 50%
 

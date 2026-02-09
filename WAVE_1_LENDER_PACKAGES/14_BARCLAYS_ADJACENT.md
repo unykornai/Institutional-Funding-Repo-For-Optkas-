@@ -16,7 +16,7 @@
 
 Dear Barclays-Adjacent Private Credit Team,
 
-We are presenting a $175,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your institutional credit and bank-adjacent lending capabilities.
+We are presenting a $175,000,000 secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with your institutional credit and bank-adjacent lending capabilities.
 
 **Facility Summary:**
 
@@ -24,14 +24,14 @@ We are presenting a $175,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $175,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,129%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
 - **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $25,750,000 — C.J. Coleman & Co., London
+- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
 **Key Infrastructure:**
 
@@ -42,7 +42,7 @@ We are presenting a $175,000,000 secured credit facility backed by a $5,476,450,
 
 **Why This Fits Barclays-Adjacent Platforms:**
 
-Bank-adjacent credit platforms bridge the gap between traditional bank lending and alternative credit. This $5.45B+ portfolio featuring a $5B bond program (STC-custodied, DTC-eligible) provides the institutional documentation quality and settlement infrastructure that bank-adjacent platforms require. The conservative 40% LTV, $25.75M Lloyd's insurance wrapper, $74M blockchain-verified digital reserves, and $376.7M hard assets provide the multi-layered credit enhancement that differentiates this from typical alternative credit opportunities.
+Bank-adjacent credit platforms bridge the gap between traditional bank lending and alternative credit. This $6.1B+ portfolio featuring a $5B bond program (STC-custodied, DTC-eligible) provides the institutional documentation quality and settlement infrastructure that bank-adjacent platforms require. The conservative 40% LTV, $675M Lloyd's insurance wrapper, $74M blockchain-verified digital reserves, and $376.7M hard assets provide the multi-layered credit enhancement that differentiates this from typical alternative credit opportunities.
 
 **Attached Documentation:**
 

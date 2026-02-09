@@ -65,7 +65,7 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 | **Transfer Agent** | Securities Transfer Corporation, Plano TX | STC Statement ✅ |
 | **Settlement** | DTC/DWAC FAST system | Subscription Agreement |
 | **Chairman** | Larry Corona | Subscription Agreement |
-| **Insurance Wrapper** | C.J. Coleman & Co., London ($25.75M premium, 2024-2029) | Invoice attached |
+| **Insurance Wrapper** | C.J. Coleman & Co., London ($675M coverage / $25.75M premium, 2024-2029) | Invoice attached |
 
 ### 2.2 Collateral Valuation
 

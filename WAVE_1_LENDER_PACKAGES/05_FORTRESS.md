@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M Secured Credit Facility — $5.45B+ Multi-Asset Portfolio — Credit & Real Assets
+**Subject:** $150M Secured Credit Facility — $6.1B+ Multi-Asset Portfolio — Credit & Real Assets
 
 ---
 
@@ -23,13 +23,13 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
 - **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $25,750,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
@@ -38,7 +38,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested — independent verification available
 
 **Why This Fits Fortress:**
-Fortress has deep experience in credit opportunities where strong collateral packages create asymmetric risk/reward profiles. This facility combines a $5B DTC-eligible bond program with $74M blockchain-verified digital reserves and $376.7M in hard assets — the type of diversified, over-collateralized portfolio Fortress's credit funds are built to evaluate. The conservative 40% advance rate and $25.75M Lloyd's wrapper provide significant downside protection.
+Fortress has deep experience in credit opportunities where strong collateral packages create asymmetric risk/reward profiles. This facility combines a $5B DTC-eligible bond program with $74M blockchain-verified digital reserves and $376.7M in hard assets — the type of diversified, over-collateralized portfolio Fortress's credit funds are built to evaluate. The conservative 40% advance rate and $675M Lloyd's wrapper provide significant downside protection.
 
 **Attached Documentation:**
 1. Draft Term Sheet

@@ -16,7 +16,7 @@
 
 Dear Deutsche Bank SBLC Monetization / Structured Trade Finance Team,
 
-We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
+We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
 
 **Facility Summary:**
 
@@ -24,14 +24,14 @@ We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
 - **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $25,750,000 — C.J. Coleman & Co., London
+- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
 **Key Infrastructure:**
 
@@ -50,7 +50,7 @@ We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by
 
 **Why This Fits Deutsche Bank SBLC / Trade Finance:**
 
-Deutsche Bank's SBLC monetization capabilities are well-suited to evaluate collateral backed by a $5B STC-custodied, DTC-eligible bond program with $25.75M Lloyd's insurance enhancement. The SBLC structure can be layered on top of the primary bond collateral to create the dual-collateral structure DB's trade finance team is experienced in evaluating at this scale.
+Deutsche Bank's SBLC monetization capabilities are well-suited to evaluate collateral backed by a $5B STC-custodied, DTC-eligible bond program with $675M Lloyd's insurance enhancement. The SBLC structure can be layered on top of the primary bond collateral to create the dual-collateral structure DB's trade finance team is experienced in evaluating at this scale.
 
 **Attached Documentation:**
 

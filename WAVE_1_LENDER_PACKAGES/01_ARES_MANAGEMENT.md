@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $200M Secured Credit Facility — $5.45B+ Diversified Collateral Portfolio — 40% Advance Rate
+**Subject:** $200M Secured Credit Facility — $6.1B+ Diversified Collateral Portfolio — 40% Advance Rate
 
 ---
 
@@ -23,13 +23,13 @@ We are writing to present a large-scale secured credit facility opportunity that
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 2,700%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
 - **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $25,750,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)

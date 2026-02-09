@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $75M Secured Credit Facility — $5.45B+ Bond-Backed Portfolio — STC-Custodied, Lloyd's-Insured
+**Subject:** $75M Secured Credit Facility — $6.1B+ Bond-Backed Portfolio — STC-Custodied, Lloyd's-Insured
 
 ---
 
@@ -23,13 +23,13 @@ We are presenting a secured credit facility structured to align with Stonebriar'
 - **Facility Request:** $75,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 7,300%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
 - **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $25,750,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
@@ -38,7 +38,7 @@ We are presenting a secured credit facility structured to align with Stonebriar'
 - **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested — independent verification available
 
 **Why This Fits Stonebriar:**
-Stonebriar specializes in asset-backed structures where the collateral is identifiable, custodied, and independently valued. This $5B bond program in STC custody with DTC settlement capability, a $25.75M Lloyd's insurance wrapper, and $450M+ in additional verified assets provides exactly the institutional-grade collateral Stonebriar's lending platform evaluates — at a conservative 40% advance rate that provides extraordinary downside protection.
+Stonebriar specializes in asset-backed structures where the collateral is identifiable, custodied, and independently valued. This $5B bond program in STC custody with DTC settlement capability, a $675M Lloyd's insurance wrapper, and $450M+ in additional verified assets provides exactly the institutional-grade collateral Stonebriar's lending platform evaluates — at a conservative 40% advance rate that provides extraordinary downside protection.
 
 **Attached Documentation:**
 1. Draft Term Sheet

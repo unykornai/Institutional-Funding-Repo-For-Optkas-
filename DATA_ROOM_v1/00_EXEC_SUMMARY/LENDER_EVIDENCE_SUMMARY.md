@@ -27,7 +27,7 @@
 │  CUSIP (144A): 87225HAB4     ISIN: US87225HAB42                 │
 │  CUSIP (Reg S): P9000TAA8    ISIN: BSP9000TAA83                 │
 │  Face Value: $10,000,000     Coupon: 5.00% p.a.                 │
-│  Maturity: May 31, 2030      Insurance: $25.75M (C.J. Coleman)  │
+│  Maturity: May 31, 2030      Insurance: $675M (C.J. Coleman)  │
 └──────────────────────────┬──────────────────────────────────────┘
                            │
                            ▼
@@ -125,7 +125,7 @@
 | "Is the CUSIP valid?" | Yes — 87225HAB4, cross-verified across 4 documents | Reconciliation table above |
 | "What's the coverage?" | 250%+ ($10M collateral / $4M facility) | Borrowing Base Policy |
 | "How do I enforce?" | Traditional UCC Article 8/9 + STC Control Agreement | Security Agreement template |
-| "Is there insurance?" | Yes — $25.75M C.J. Coleman wrapper | PPM Section 3 |
+| "Is there insurance?" | Yes — $675M C.J. Coleman wrapper | PPM Section 3 |
 | "Are the docs executed?" | Yes — 5 agreements signed 2026-02-07, hashed | EXECUTION_v1/02_SIGNED/ |
 
 ---

@@ -173,7 +173,7 @@ sequenceDiagram
 │     ↓                                                               │
 │  4. VERIFICATION ───────── IPFS + SHA-256 + XRPL attestation       │
 │     ↓                                                               │
-│  5. INSURANCE ──────────── $25.75M Lloyd's wrapper                  │
+│  5. INSURANCE ──────────── $675M Lloyd's wrapper                  │
 │     ↓                                                               │
 │  6. COMPLIANCE ─────────── KYC/AML + jurisdictional                 │
 │     ↓                                                               │

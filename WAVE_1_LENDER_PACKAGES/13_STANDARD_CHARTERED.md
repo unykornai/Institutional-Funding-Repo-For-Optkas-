@@ -16,7 +16,7 @@
 
 Dear Standard Chartered Trade & Structured Finance Team,
 
-We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Standard Chartered's trade finance and structured lending capabilities.
+We are presenting a $200,000,000 secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Standard Chartered's trade finance and structured lending capabilities.
 
 **Facility Summary:**
 
@@ -24,14 +24,14 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
 - **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $25,750,000 — C.J. Coleman & Co., London
+- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
 **Key Infrastructure:**
 
@@ -42,7 +42,7 @@ We are presenting a $200,000,000 secured credit facility backed by a $5,476,450,
 
 **Why This Fits Standard Chartered:**
 
-Standard Chartered's structured finance capabilities span traditional banking infrastructure with an understanding of newer verification technologies. This $5B bond program (CUSIP 87225HAB4, STC-custodied) with $450M+ in supplementary assets combines standard DTC/DWAC settlement rails with a cryptographic verification layer — a hybrid approach that aligns with StanChart's innovation in structured lending at scale. The $25.75M Lloyd's wrapper via C.J. Coleman provides additional credit enhancement.
+Standard Chartered's structured finance capabilities span traditional banking infrastructure with an understanding of newer verification technologies. This $5B bond program (CUSIP 87225HAB4, STC-custodied) with $450M+ in supplementary assets combines standard DTC/DWAC settlement rails with a cryptographic verification layer — a hybrid approach that aligns with StanChart's innovation in structured lending at scale. The $675M Lloyd's wrapper via C.J. Coleman provides additional credit enhancement.
 
 **Attached Documentation:**
 

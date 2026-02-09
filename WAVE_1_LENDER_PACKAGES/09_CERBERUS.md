@@ -11,13 +11,13 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M Secured Credit Facility — $5.45B+ Operationally Verified Portfolio — Asset-Backed
+**Subject:** $150M Secured Credit Facility — $6.1B+ Operationally Verified Portfolio — Asset-Backed
 
 ---
 
 Dear Cerberus Capital Management Team,
 
-We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Cerberus's private credit and operationally intensive underwriting capabilities.
+We are presenting a $150,000,000 secured credit facility backed by a $6,125,700,000+ multi-asset portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Cerberus's private credit and operationally intensive underwriting capabilities.
 
 **Facility Summary:**
 
@@ -25,14 +25,14 @@ We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,
 - **Facility Request:** $150,000,000
 - **Advance Rate:** 40% LTV
 - **Coverage Ratio:** 3,650%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
 - **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
-- **Lloyd's Insurance:** $25,750,000 — C.J. Coleman & Co., London
+- **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
 **Key Infrastructure:**
 
@@ -43,7 +43,7 @@ We are presenting a $150,000,000 secured credit facility backed by a $5,476,450,
 
 **Why This Fits Cerberus:**
 
-Cerberus combines financial acumen with operational expertise, often looking beneath the surface to understand collateral quality. This $5.45B+ portfolio — including a $5B STC-custodied bond program, $74M blockchain-verified USDT, and $376.7M hard assets — provides unprecedented transparency through SHA-256 hashing, IPFS pinning, and XRPL attestation. The verification infrastructure provides the operational transparency Cerberus requires to move quickly and confidently on credit decisions at this scale.
+Cerberus combines financial acumen with operational expertise, often looking beneath the surface to understand collateral quality. This $6.1B+ portfolio — including a $5B STC-custodied bond program, $74M blockchain-verified USDT, and $376.7M hard assets — provides unprecedented transparency through SHA-256 hashing, IPFS pinning, and XRPL attestation. The verification infrastructure provides the operational transparency Cerberus requires to move quickly and confidently on credit decisions at this scale.
 
 **Attached Documentation:**
 

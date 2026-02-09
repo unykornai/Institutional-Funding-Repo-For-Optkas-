@@ -2,15 +2,15 @@
 
 [![Status](https://img.shields.io/badge/Status-OPEN%20FOR%20REVIEW-success?style=for-the-badge)](#overview)
 [![Bond](https://img.shields.io/badge/Bond%20Program-$5B-gold?style=for-the-badge)](#bond-program)
-[![Portfolio](https://img.shields.io/badge/Total%20Portfolio-$5.45B+-blue?style=for-the-badge)](#collateral-portfolio)
-[![Insurance](https://img.shields.io/badge/Insurance-$25.75M%20Lloyds-purple?style=for-the-badge)](#insurance)
+[![Portfolio](https://img.shields.io/badge/Total%20Portfolio-$6.1B+-blue?style=for-the-badge)](#collateral-portfolio)
+[![Insurance](https://img.shields.io/badge/Insurance-$675M%20Lloyds-purple?style=for-the-badge)](#insurance)
 [![Verified](https://img.shields.io/badge/Docs-IPFS%20Pinned%20✓-teal?style=for-the-badge)](#cryptographic-verification)
 
 ---
 
 ## Overview
 
-**OPTKAS1-MAIN SPV** (Wyoming Series LLC, bankruptcy-remote) is presenting a secured credit facility backed by a diversified collateral portfolio totaling **$5.45 billion+**, including a **$5 billion bond program**, **$74 million in blockchain-verified digital reserves**, and a **$376.7 million professionally appraised gemstone portfolio** — all enhanced by a **$25.75 million Lloyd's of London insurance wrapper**.
+**OPTKAS1-MAIN SPV** (Wyoming Series LLC, bankruptcy-remote) is presenting a secured credit facility backed by a diversified collateral portfolio totaling **$6.1 billion+**, including a **$5 billion bond program**, **$74 million in blockchain-verified digital reserves**, and a **$376.7 million professionally appraised gemstone portfolio** — all enhanced by a **$675 million Lloyd's of London insurance wrapper**.
 
 This repository contains all documentation required for institutional lenders to evaluate, conduct due diligence, and proceed to facility commitment. Every executed agreement is cryptographically hashed (SHA-256) and permanently pinned to IPFS for tamper-proof verification.
 
@@ -65,8 +65,8 @@ This repository contains all documentation required for institutional lenders to
 | **TC Advantage 5% Secured MTN** | $5,000,000,000 | STC custody, DTC/DWAC, CUSIP 87225HAB4 |
 | **XRPL USDT Reserves** | $74,000,000 | Blockchain-verified, live attestation |
 | **Gemstone Portfolio** | $376,700,000 | Professional appraisal |
-| **Lloyd's Insurance Wrapper** | $25,750,000 | C.J. Coleman & Co., London |
-| **Total Collateral** | **$5,476,450,000+** | **Multi-source, independently verifiable** |
+| **Lloyd's Insurance Wrapper** | $675,000,000 | C.J. Coleman & Co., London |
+| **Total Collateral** | **$6,125,700,000+** | **Multi-source, independently verifiable** |
 
 ---
 
@@ -75,7 +75,7 @@ This repository contains all documentation required for institutional lenders to
 | Parameter | Value |
 |:----------|:------|
 | **Broker** | C.J. Coleman & Co., London |
-| **Coverage** | $25,750,000 |
+| **Coverage** | $675,000,000 |
 | **Underwriter** | Lloyd's of London syndicate |
 | **Policy Period** | 2024–2029 |
 | **Type** | Blanket coverage on collateral instruments |
@@ -86,7 +86,7 @@ This repository contains all documentation required for institutional lenders to
 
 | Metric | Value |
 |:-------|:------|
-| **Total Collateral** | $5,476,450,000+ |
+| **Total Collateral** | $6,125,700,000+ |
 | **Advance Rate** | 40% LTV (conservative) |
 | **Maximum Facility** | $2,190,000,000 |
 | **Target Facility** | $75M–$300M per institution |
@@ -287,5 +287,5 @@ Institutional-Funding-Repo-For-Optkas-/
 ---
 
 *OPTKAS1-MAIN SPV — Institutional Secured Credit Facility*  
-*$5B Bond Program · $5.45B+ Collateral Portfolio · All Documents Cryptographically Verified*  
+*$5B Bond Program · $6.1B+ Collateral Portfolio · All Documents Cryptographically Verified*  
 *© 2026 OPTKAS1-MAIN SPV. All rights reserved.*

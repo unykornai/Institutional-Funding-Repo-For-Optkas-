@@ -83,7 +83,7 @@
 ### Affirmative Covenants
 - Maintain collateral value above 200% of outstanding balance
 - Provide quarterly valuation updates
-- Maintain insurance coverage ($25.75M blanket policy)
+- Maintain insurance coverage ($675M blanket policy)
 - Comply with transfer agent requirements
 
 ### Negative Covenants

@@ -10,7 +10,7 @@
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $200M Secured Credit Facility — $5.45B+ Portfolio — Conservative Structure, Institutional Verification
+**Subject:** $200M Secured Credit Facility — $6.1B+ Portfolio — Conservative Structure, Institutional Verification
 
 ---
 
@@ -23,13 +23,13 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Facility Request:** $200,000,000
 - **Advance Rate:** 40% LTV (conservative)
 - **Coverage Ratio:** 2,738%+
-- **Collateral Portfolio:** $5,476,450,000+
+- **Collateral Portfolio:** $6,125,700,000+
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
 - **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $25,750,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
@@ -38,7 +38,7 @@ We are presenting a large-scale secured credit facility structured to align with
 - **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested — independent verification available
 
 **Why This Fits Oaktree:**
-Howard Marks has written extensively about the importance of understanding what you own and controlling downside risk. This facility embodies those principles: a $5B bond program (STC-custodied, DTC-eligible), $74M blockchain-verified digital reserves, $376.7M hard assets, and $25.75M Lloyd's insurance — providing 2,738%+ collateral coverage. The cryptographic verification system allows independent audit of every document in under 10 minutes, eliminating the information asymmetry typical in alternative credit.
+Howard Marks has written extensively about the importance of understanding what you own and controlling downside risk. This facility embodies those principles: a $5B bond program (STC-custodied, DTC-eligible), $74M blockchain-verified digital reserves, $376.7M hard assets, and $675M Lloyd's insurance — providing 2,738%+ collateral coverage. The cryptographic verification system allows independent audit of every document in under 10 minutes, eliminating the information asymmetry typical in alternative credit.
 
 **Attached Documentation:**
 1. Draft Term Sheet

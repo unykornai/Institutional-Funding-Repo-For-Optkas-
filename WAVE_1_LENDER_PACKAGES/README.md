@@ -3,7 +3,7 @@
 > **Generated: February 9, 2026**  
 > **Status: READY TO SEND**  
 > **Bond Program: $5,000,000,000 (500 × $10M TC Advantage 5% Secured MTN)**  
-> **Total Portfolio: $5,476,450,000+ (bonds + XRPL USDT + gemstones + insurance)**
+> **Total Portfolio: $6,125,700,000+ (bonds + XRPL USDT + gemstones + insurance)**
 
 Each package below contains a personalized outreach email, deal summary with correct portfolio-scale figures, clickable links to all PDF documents, data room access, and cryptographic verification references.
 
@@ -42,8 +42,8 @@ Each package below contains a personalized outreach email, deal summary with cor
 | TC Advantage 5% Secured MTN | $5,000,000,000 | CUSIP 87225HAB4, STC custody, DTC/DWAC |
 | XRPL USDT Reserves | $74,000,000 | Blockchain-verified, live attestation |
 | Gemstone Portfolio | $376,700,000 | Professional appraisal |
-| Lloyd's Insurance Wrapper | $25,750,000 | C.J. Coleman & Co., London |
-| **Total** | **$5,476,450,000+** | **Multi-source, independently verifiable** |
+| Lloyd's Insurance Wrapper | $675,000,000 | C.J. Coleman & Co., London |
+| **Total** | **$6,125,700,000+** | **Multi-source, independently verifiable** |
 
 ---
 
@@ -63,4 +63,4 @@ Each package below contains a personalized outreach email, deal summary with cor
 ---
 
 **Wave 1 Total Facility Requests: ~$2.5B across 14 institutions**  
-**Advance Rate: 40% on $5.45B+ portfolio = $2.19B maximum capacity**
+**Advance Rate: 40% on $6.1B+ portfolio = $2.19B maximum capacity**
