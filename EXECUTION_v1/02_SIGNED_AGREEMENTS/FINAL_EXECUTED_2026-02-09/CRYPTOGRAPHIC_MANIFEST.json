@@ -1,0 +1,126 @@
+{
+  "manifest_version": "1.0.0",
+  "system": "OPTKAS1 Funding System — Cryptographic Document Registry",
+  "generated": "2026-02-09T00:00:00Z",
+  "issuer": "Unykorn 7777, Inc.",
+  "counterparty": "OPTKAS1-MAIN SPV",
+  "purpose": "Immutable cryptographic proof of fully executed agreements for lender leverage and verification",
+  "repository": "unykornai/Institutional-Funding-Repo-For-Optkas-",
+  "branch": "main",
+
+  "ipfs_node": {
+    "peer_id": "12D3KooWS2kwSctr6Lbxw2BZrEpAKQEwpaX1KnwDUSTxC3EKZd6E",
+    "agent": "kubo/0.39.0/desktop",
+    "gateway": "https://ipfs.io/ipfs/"
+  },
+
+  "documents": [
+    {
+      "sequence": 1,
+      "filename": "01_Strategic_Infrastructure_Agreement.pdf",
+      "title": "Strategic Infrastructure & Execution Agreement",
+      "description": "Master agreement between Unykorn 7777, Inc. and OPTKAS1-MAIN SPV governing infrastructure partnership, economic terms, and governance framework",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "75F909AF90658C1099871511290E0580BC424A3BA13971FF331EE0E5DEFD12F8",
+      "ipfs_cid": "QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ",
+      "ipfs_url": "https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ",
+      "size_bytes": 137427,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    },
+    {
+      "sequence": 2,
+      "filename": "02_Exhibit_A_Economic_Participation.pdf",
+      "title": "Exhibit A — Economic Participation Terms",
+      "description": "Economic participation schedule defining Option A (10% equity participation) and Option B (4% + 2% success fee) terms for infrastructure sponsor",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "1BB360733285BF4E5F3FAE382B3C41D321C7A8CFB2B86C73FC1086EB322C457E",
+      "ipfs_cid": "QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh",
+      "ipfs_url": "https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh",
+      "size_bytes": 140750,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    },
+    {
+      "sequence": 3,
+      "filename": "03_Signature_Page.pdf",
+      "title": "Signature Page — All Parties",
+      "description": "Consolidated signature page with wet/digital signatures from all authorized signatories of both parties",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "CB373890EB8E5702C70FAF8D4DC86F232FEBBC5A02454F40C478853F736B0227",
+      "ipfs_cid": "QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb",
+      "ipfs_url": "https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb",
+      "size_bytes": 84696,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    },
+    {
+      "sequence": 4,
+      "filename": "04_Sponsor_Consideration_Note.pdf",
+      "title": "Sponsor Consideration Note",
+      "description": "Promissory consideration note documenting the economic consideration exchanged between sponsor and SPV as part of the infrastructure arrangement",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "2284E45CA29DB034DE4C569BE73A970EC672822100369ED9799B7E7F1D0AA994",
+      "ipfs_cid": "QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc",
+      "ipfs_url": "https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc",
+      "size_bytes": 88759,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    },
+    {
+      "sequence": 5,
+      "filename": "05_Sponsor_Note_Estoppel.pdf",
+      "title": "Sponsor Note Estoppel Certificate",
+      "description": "Estoppel certificate confirming no defaults, outstanding claims, or modifications to the Sponsor Consideration Note — required for lender reliance",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "D3660294E75C280C7AA82C567195A8C988AA134CA474DD381F4CACA0F0483A22",
+      "ipfs_cid": "QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x",
+      "ipfs_url": "https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x",
+      "size_bytes": 94054,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    },
+    {
+      "sequence": 6,
+      "filename": "sigs 7777 optkas .pdf",
+      "title": "Consolidated Signature Package — Unykorn 7777 × OPTKAS1",
+      "description": "Master consolidated signature document containing all authorized signatures from both Unykorn 7777, Inc. and OPTKAS1-MAIN SPV across all agreement documents",
+      "parties": ["Unykorn 7777, Inc.", "OPTKAS1-MAIN SPV"],
+      "execution_date": "2026-02-09",
+      "sha256": "A7CF7B8B3A9F47572956E79EE75632AD15202843E1937823F52361FA4152FFDE",
+      "ipfs_cid": "QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
+      "ipfs_url": "https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
+      "size_bytes": 1640358,
+      "status": "FULLY_EXECUTED",
+      "signatures_present": true
+    }
+  ],
+
+  "hash_manifest": {
+    "filename": "SHA256_HASHES.txt",
+    "sha256_of_manifest": null,
+    "ipfs_cid": "QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm",
+    "ipfs_url": "https://ipfs.io/ipfs/QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm"
+  },
+
+  "verification_instructions": {
+    "step_1": "Download document from IPFS gateway URL",
+    "step_2": "Compute SHA-256 hash of downloaded file",
+    "step_3": "Compare hash against the sha256 field in this manifest",
+    "step_4": "Verify IPFS CID by running: ipfs add -n --only-hash <file>",
+    "step_5": "Confirm manifest CID matches the hash manifest pinned at QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm"
+  },
+
+  "chain_of_custody": {
+    "source_repository": "https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-",
+    "execution_path": "EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/",
+    "data_room_reference": "DATA_ROOM_v1/",
+    "ipfs_attestation_path": "EXECUTION_v1/04_IPFS_ATTESTATIONS/",
+    "immutability_guarantee": "All documents pinned to IPFS with content-addressed hashing. Any modification produces a different CID, making tampering cryptographically detectable."
+  }
+}

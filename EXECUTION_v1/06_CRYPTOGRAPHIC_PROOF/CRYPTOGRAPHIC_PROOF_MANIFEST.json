@@ -1,0 +1,188 @@
+{
+  "$schema": "OPTKAS1-CryptographicProofManifest-v1",
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-02-09T17:07:24.139941+00:00",
+  "transaction": {
+    "name": "OPTKAS1 Strategic Infrastructure Partner Agreement",
+    "spv_entity": "OPTKAS1-MAIN SPV",
+    "partner_entity": "Unykorn 7777, Inc.",
+    "execution_date": "2026-02-09",
+    "jurisdiction": "Wyoming, USA"
+  },
+  "integrity": {
+    "merkle_root": "5A859413146252D45254FA1BA0B391B23E10F5C880FB5143DE5888EFD36749A8",
+    "document_count": 6,
+    "total_size_bytes": 2186044,
+    "hash_algorithm": "SHA-256",
+    "merkle_algorithm": "Binary SHA-256 Merkle Tree",
+    "ipfs_manifest_cid": "QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G",
+    "ipfs_hashes_cid": "QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm"
+  },
+  "documents": [
+    {
+      "document_id": "DOC-001",
+      "title": "Strategic Infrastructure & Execution Agreement",
+      "filename": "01_Strategic_Infrastructure_Agreement.pdf",
+      "document_type": "Master Agreement",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 137427,
+      "cryptographic_hashes": {
+        "sha256": "75F909AF90658C1099871511290E0580BC424A3BA13971FF331EE0E5DEFD12F8",
+        "sha512": "92BF4402C41DD2C3C15DE980C99A2EA94AE225600961E3E86E2CB8865B1F8E706FB4D3EE69E2168F8DB595018337C4B9C6EE99FBCEE25789FBEC3D18FC701C7A"
+      },
+      "ipfs": {
+        "cid": "QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ",
+        "gateway": "https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    },
+    {
+      "document_id": "DOC-002",
+      "title": "Exhibit A - Economic Participation Schedule",
+      "filename": "02_Exhibit_A_Economic_Participation.pdf",
+      "document_type": "Exhibit / Schedule",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 140750,
+      "cryptographic_hashes": {
+        "sha256": "1BB360733285BF4E5F3FAE382B3C41D321C7A8CFB2B86C73FC1086EB322C457E",
+        "sha512": "F81183123225B51A9D629B8C8E862D2AB26DB8A540EF8E3C71E5024D2380D101E1A70B39B94ACC1201A775D3DC2B05070284913CDB250F949502FE7F0BBE6E66"
+      },
+      "ipfs": {
+        "cid": "QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh",
+        "gateway": "https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    },
+    {
+      "document_id": "DOC-003",
+      "title": "Signature Page - All Parties",
+      "filename": "03_Signature_Page.pdf",
+      "document_type": "Execution Evidence",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 84696,
+      "cryptographic_hashes": {
+        "sha256": "CB373890EB8E5702C70FAF8D4DC86F232FEBBC5A02454F40C478853F736B0227",
+        "sha512": "A149149CE3E962D03DFCAE8B0FB3F27F4F1DD3442B0008E3C9E2B3ED7B52E53905FD7B75D46C9A4104E691325A6C6FB570D3CF1BB499FCC34A673D9D88F1D975"
+      },
+      "ipfs": {
+        "cid": "QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb",
+        "gateway": "https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    },
+    {
+      "document_id": "DOC-004",
+      "title": "Sponsor Consideration & Promissory Note",
+      "filename": "04_Sponsor_Consideration_Note.pdf",
+      "document_type": "Promissory Note",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 88759,
+      "cryptographic_hashes": {
+        "sha256": "2284E45CA29DB034DE4C569BE73A970EC672822100369ED9799B7E7F1D0AA994",
+        "sha512": "0DE4F6CECF0166CAEB8D7B72BE9F353EDF6E76EAAFC0107D853B8454D8D6E1CF2847E985AEDFF8FF2988DF1C43D2D884A1D29B952D06DC6CEE30354241F70AD5"
+      },
+      "ipfs": {
+        "cid": "QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc",
+        "gateway": "https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    },
+    {
+      "document_id": "DOC-005",
+      "title": "Sponsor Note Estoppel Certificate",
+      "filename": "05_Sponsor_Note_Estoppel.pdf",
+      "document_type": "Estoppel Certificate",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 94054,
+      "cryptographic_hashes": {
+        "sha256": "D3660294E75C280C7AA82C567195A8C988AA134CA474DD381F4CACA0F0483A22",
+        "sha512": "21AEF7664F225B9AFA43812995DB37C3FE73A525E7C4F1D18509FEAE161726A70EFF15A556E07B3E0D26E2927264B3EA68D8CBDAC9C433B05C352CDD87CDBD81"
+      },
+      "ipfs": {
+        "cid": "QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x",
+        "gateway": "https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    },
+    {
+      "document_id": "DOC-006",
+      "title": "Combined Signature Attestation - 7777 x OPTKAS",
+      "filename": "sigs 7777 optkas .pdf",
+      "document_type": "Signature Attestation Bundle",
+      "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
+      "parties": [
+        "OPTKAS1-MAIN SPV",
+        "Unykorn 7777, Inc."
+      ],
+      "execution_date": "2026-02-09",
+      "file_size_bytes": 1640358,
+      "cryptographic_hashes": {
+        "sha256": "A7CF7B8B3A9F47572956E79EE75632AD15202843E1937823F52361FA4152FFDE",
+        "sha512": "2AD4B9D6EB26F976DF5883B6291F14B414E85DF1F7746AB2BB9429973A6D52C367EDF88F9CF5C2E9F2F2BE395988C09D9F9281A02610346B06D8548517A40738"
+      },
+      "ipfs": {
+        "cid": "QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
+        "gateway": "https://ipfs.io/ipfs/QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
+        "pinned": true,
+        "pin_date": "2026-02-09"
+      },
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "ipfs_node": {
+    "peer_id": "12D3KooWS2kwSctr6Lbxw2BZrEpAKQEwpaX1KnwDUSTxC3EKZd6E",
+    "agent": "kubo/0.39.0/desktop",
+    "gateway": "https://ipfs.io/ipfs/"
+  },
+  "verification_instructions": {
+    "step_1": "Download document from IPFS gateway URL or repository",
+    "step_2": "Compute SHA-256: certutil -hashfile <file> SHA256 (Windows) or sha256sum <file> (Linux/Mac)",
+    "step_3": "Compare hash against manifest sha256 field — must match exactly",
+    "step_4": "Verify Merkle root by recomputing from all document hashes",
+    "step_5": "Verify IPFS CID: ipfs add -n --only-hash <file> — must match manifest CID",
+    "step_6": "Check XRPL attestation for on-chain timestamp proof"
+  },
+  "repository": {
+    "url": "https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-",
+    "branch": "main",
+    "execution_path": "EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/"
+  },
+  "manifest_integrity": {
+    "self_hash": "5A9F79648402AE41B8DE9842B0CF50D8F3ACED143DEAC963371BBF2C13534D8A"
+  }
+}
