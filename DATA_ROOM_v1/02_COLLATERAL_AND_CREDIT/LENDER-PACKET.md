@@ -40,11 +40,11 @@
 
 - Confidential Private Placement Memorandum (May 29, 2020)
 - STC Issuance Resolution (January 22, 2026)
-- Executed agreements (SHA-256 verified, cryptographically archived)
+- Executed agreements (SHA-256 verified, independently verifiable)
 
 ## Verification
 
-All executed agreements are SHA-256 hashed and archived for tamper-evident verification.
+All executed agreements are SHA-256 hashed and independently verifiable for tamper-evident verification.
 
 ```bash
 python cryptographic_proof_engine.py --verify

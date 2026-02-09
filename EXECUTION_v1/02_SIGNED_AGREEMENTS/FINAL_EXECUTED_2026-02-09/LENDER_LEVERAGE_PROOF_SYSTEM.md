@@ -173,7 +173,7 @@ sequenceDiagram
 │     ↓                                                               │
 │  4. VERIFICATION ───────── IPFS + SHA-256 + cryptographic attestation       │
 │     ↓                                                               │
-│  5. INSURANCE ──────────── (per PPM) insurance wrap per PPM wrapper                  │
+│  5. INSURANCE ──────────── Per PPM (page 14)  insurance wrap                  │
 │     ↓                                                               │
 │  6. COMPLIANCE ─────────── KYC/AML + jurisdictional                 │
 │     ↓                                                               │

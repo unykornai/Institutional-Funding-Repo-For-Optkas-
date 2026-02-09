@@ -1,11 +1,13 @@
 # WAVE 1 LENDER PACKAGES — INDEX
 
-> **Generated: February 9, 2026**  
-> **Status: READY TO SEND**  
-> **Bond Program: $5,000,000,000 (500 × $10M TC Advantage 5% Secured MTN)**  
-> **Total Portfolio: $5,000,000,000 (TC Advantage 5% Secured Notes, STC custody, DTC/DWAC)**
+> **Generated: February 9, 2026**
+> **Status: READY TO SEND**
+> **Bond Program: $5,000,000,000 — TC Advantage 5% Secured Medium Term Notes**
+> **Issuer: TC Advantage Traders, Ltd. (Bahamas, reg# 205197B)**
+> **Borrower: OPTKAS1 LLC**
+> **CUSIP: 87225HAB4 | Settlement: DTC/DWAC FAST | Custody: STC**
 
-Each package below contains a personalized outreach email, deal summary with correct portfolio-scale figures, clickable links to all PDF documents, data room access, and cryptographic verification references.
+Each package below contains a personalized outreach email, deal summary, clickable links to all PDF documents, data room access, and verification references.
 
 ---
 
@@ -29,20 +31,31 @@ Each package below contains a personalized outreach email, deal summary with cor
 | # | Institution | Facility Target | Package | Email Status |
 |:--|:------------|:----------------|:--------|:-------------|
 | 11 | Credit Suisse Legacy Desks | $200M | [📦 11_CS_LEGACY.md](11_CS_LEGACY.md) | ✅ Ready |
-| 12 | Deutsche Bank–Linked SBLC | $150M | [📦 12_DB_SBLC.md](12_DB_SBLC.md) | ✅ Ready |
+| 12 | Deutsche Bank—Linked SBLC | $150M | [📦 12_DB_SBLC.md](12_DB_SBLC.md) | ✅ Ready |
 | 13 | Standard Chartered | $200M | [📦 13_STANDARD_CHARTERED.md](13_STANDARD_CHARTERED.md) | ✅ Ready |
 | 14 | Barclays-Adjacent Private Credit | $175M | [📦 14_BARCLAYS_ADJACENT.md](14_BARCLAYS_ADJACENT.md) | ✅ Ready |
 
 ---
 
-## Portfolio Summary (All Packages Reference)
+## Bond Program Summary (All Packages Reference)
 
-| Asset Class | Value | Verification |
-|:------------|:------|:-------------|
-| TC Advantage 5% Secured MTN | $5,000,000,000 | CUSIP 87225HAB4, STC custody, DTC/DWAC |
-| Cost Basis | $3,000,000,000 | $6,000,000 per note (Issuance Resolution) |
-| Insurance Wrap | Per PPM page 14 | Secured by insurance wrap + underlying properties |
-| **Total Collateral** | **$5,000,000,000** | **PPM & Issuance Resolution verified** |
+| Parameter | Value |
+|:----------|:------|
+| **Issuer** | TC Advantage Traders, Ltd. (Bahamas, reg# 205197B) |
+| **Borrower** | OPTKAS1 LLC |
+| **Program Size** | $5,000,000,000 (500 notes × $10,000,000 face) |
+| **Cost Basis** | $3,000,000,000 ($6,000,000 per note per Issuance Resolution) |
+| **CUSIP (144A)** | 87225HAB4 |
+| **ISIN (144A)** | US87225HAB42 |
+| **Coupon** | 5.00% annual, paid before February 15 |
+| **Maturity** | May 31, 2030 |
+| **Transfer Agent** | Securities Transfer Corporation (Plano, TX) |
+| **Settlement** | DTC/DWAC FAST system |
+| **Offering** | Rule 144A / Regulation S (QIB/QP only) |
+| **Security** | Per PPM page 14: Insurance wrap + underlying properties |
+| **Max Advance Rate** | 40% LTV |
+| **Max Facility Capacity** | $2,000,000,000 (at 40% on $5B face) |
+| **Coverage Ratio** | 250%+ |
 
 ---
 
@@ -61,5 +74,6 @@ Each package below contains a personalized outreach email, deal summary with cor
 
 ---
 
-**Wave 1 Total Facility Requests: ~$2.5B across 14 institutions**  
-**Advance Rate: 40% on $5B portfolio = $2B maximum capacity**
+**Wave 1 Total Facility Requests: ~$2.3B across 14 institutions**
+**Maximum Capacity: $2B at 40% advance rate on $5B collateral**
+**Coverage Ratio: 250%+ across all packages**

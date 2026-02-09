@@ -94,7 +94,7 @@
 ### Affirmative Covenants
 - Maintain collateral value above 200% of outstanding balance
 - Provide quarterly valuation updates
-- Maintain insurance coverage (per PPM insurance wrap)
+- Maintain insurance coverage (per PPM (page 14) insurance wrap)
 - Comply with transfer agent requirements
 
 ### Negative Covenants

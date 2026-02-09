@@ -125,7 +125,7 @@
 | "Is the CUSIP valid?" | Yes — 87225HAB4, cross-verified across 4 documents | Reconciliation table above |
 | "What's the coverage?" | 250%+ ($10M collateral / $4M facility) | Borrowing Base Policy |
 | "How do I enforce?" | Traditional UCC Article 8/9 + STC Control Agreement | Security Agreement template |
-| "Is there insurance?" | Yes — (per PPM) per PPM wrapper | PPM Section 3 |
+| "Is there insurance?" | Yes — Per PPM (page 14)  insurance wrap on underlying properties | PPM Section 3 |
 | "Are the docs executed?" | Yes — 5 agreements signed 2026-02-07, hashed | EXECUTION_v1/02_SIGNED/ |
 
 ---

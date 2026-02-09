@@ -1,73 +1,57 @@
-# Deutsche Bank SBLC Monetization / Structured Trade Finance — Secured Credit Facility Package
+# 📦 LENDER PACKAGE — DEUTSCHE BANK — SBLC / STRUCTURED TRADE FINANCE
 
-> **Target:** Deutsche Bank SBLC Monetization / Structured Trade Finance  
-> **Specialty:** SBLC monetization, trade finance, bank guarantee structures  
-> **Priority:** Tier 1B — Structured & Bank-Adjacent  
-> **Facility Target:** $150,000,000  
-> **Date:** February 9, 2026  
+> **Target:** Deutsche Bank — SBLC / Structured Trade Finance (Structured Trade Finance)
+> **AUM:** $50B+ | **Specialty:** SBLC monetization, structured trade finance, securities-backed lending
+> **Priority:** Tier 1B — Structured & Bank-Adjacent
+> **Facility Target:** $150,000,000
+> **Date Prepared:** February 9, 2026
 
 ---
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $150M SBLC-Enhanced Credit Facility — $5B Bond Program + $450M+ Supplementary Assets — MT760/MT799 Ready
+**Subject:** $150M SBLC-Enhanced Secured Facility — $5B Bond-Backed Collateral — Trade Finance
 
 ---
 
-Dear Deutsche Bank SBLC Monetization / Structured Trade Finance Team,
+Dear Deutsche Bank Credit Team,
 
-We are presenting a $150,000,000 SBLC-enhanced secured credit facility backed by a $5B bond portfolio with institutional-grade custody, DTC-eligible settlement infrastructure, and cryptographic verification across all collateral classes. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
+We are presenting an SBLC-enhanced secured credit facility backed by a $5 billion bond program with institutional-grade custody, DTC-eligible settlement, and full documentation. This package has been structured to align with Deutsche Bank's SBLC monetization and structured trade finance capabilities.
 
 **Facility Summary:**
-
 - **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $150,000,000
-- **Advance Rate:** 40% LTV
-- **Coverage Ratio:** 3,650%+
+- **Advance Rate:** 40% LTV (conservative)
+- **Coverage Ratio:** 250%+
 - **Collateral Portfolio:** $5,000,000,000
 
-**Collateral Breakdown:**
-
-- **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
-- **insurance wrap per PPM Insurance:** (premium per policy) — per PPM & Co., London
-
-**Key Infrastructure:**
-
-- **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
+**Collateral:**
+- **TC Advantage 5% Secured Medium Term Notes:** $5,000,000,000 face value (CUSIP 87225HAB4)
+- **Issuer:** TC Advantage Traders, Ltd. (Bahamas, reg# 205197B)
+- **Custody:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic verified attestation
 
-**SBLC Capability:**
-
-- **MT760:** Operative instrument available upon facility agreement execution
-- **MT799:** Pre-advice issuable within 48 hours of facility commitment
-- **Structure:** Cash-collateralized, irrevocable, freely transferable
-- **Issuing Bank:** Top 100 global bank per lender requirements
-- **Enhancement:** SBLC layered on top of primary bond collateral to create dual-collateral structure
-
-**Why This Fits Deutsche Bank SBLC / Trade Finance:**
-
-Deutsche Bank's SBLC monetization capabilities are well-suited to evaluate collateral backed by a $5B STC-custodied, DTC-eligible bond program with (per PPM) insurance wrap per PPM insurance enhancement. The SBLC structure can be layered on top of the primary bond collateral to create the dual-collateral structure DB's trade finance team is experienced in evaluating at this scale.
+**Why This Fits Deutsche Bank:**
+Deutsche Bank's structured trade finance capabilities include SBLC monetization and securities-backed lending where collateral quality is paramount. This $5B bond program — CUSIP-identified, STC-custodied, DTC/DWAC eligible — provides the institutional settlement infrastructure that aligns with DB's structured trade finance evaluation framework. The 250%+ coverage and conservative advance rate reduce credit risk to levels consistent with DB's risk appetite.
 
 **Attached Documentation:**
+1. Draft Term Sheet
+2. Collateral Verification Memo
+3. Credit Committee Positioning Brief
+4. Borrowing Base Policy
+5. Data Room Index
 
-1. Draft Term Sheet & Collateral Verification Memo
-2. Data Room Index with full document access
-3. Executed agreements (cryptographically archived with cryptographic proof)
-4. Borrowing Base Policy & Valuation Justification
-5. Credit Committee Positioning Materials
+**Verification:** All executed agreements are independently verifiable. Complete documentation available in the institutional data room.
 
-**Verification:**
-
-All documents are cryptographically hashed (SHA-256) and pinned to IPFS. The full verification suite can be executed via `python cryptographic_proof_engine.py --verify` against the public repository.
+We would welcome a call this week to discuss facility terms and provide full data room access.
 
 Best regards,
 
-**Jimmy**  
-OPTKAS1 LLC  
-📧 jimmy@optkas.com  
-🔗 https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
+**Jimmy**
+OPTKAS1 LLC
+Email: jimmy@optkas.com
+Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 ---
 
@@ -91,16 +75,16 @@ OPTKAS1 LLC
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (IPFS-Pinned)
+### Executed Agreements (Verified)
 
-| Document | PDF | IPFS Proof |
-|:---------|:----|:-----------|
-| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
-| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
-| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
-| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
-| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
-| Cryptographic Manifest | — | [🔗 IPFS](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
+| Document | PDF | Verification |
+|:---------|:----|:-------------|
+| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
+| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
+| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
+| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
+| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
+| Verification Manifest | — | [🔗 Verify](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
 
 ### Data Room Access
 
@@ -132,4 +116,4 @@ python cryptographic_proof_engine.py --verify
 
 ---
 
-*Package prepared for Deutsche Bank SBLC Monetization / Structured Trade Finance — OPTKAS Sovereign Platform*
+*Package prepared for Deutsche Bank — SBLC / Structured Trade Finance — OPTKAS1 LLC*

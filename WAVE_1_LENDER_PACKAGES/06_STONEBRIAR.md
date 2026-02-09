@@ -1,57 +1,56 @@
 # 📦 LENDER PACKAGE — STONEBRIAR COMMERCIAL FINANCE
 
-> **Target:** Stonebriar Commercial Finance  
-> **Specialty:** Asset-backed commercial lending, equipment & note financing  
-> **Priority:** Tier 1A — Primary Target  
-> **Facility Target:** $75,000,000  
+> **Target:** Stonebriar Commercial Finance (Asset-Based Lending Division)
+> **AUM:** $10B+ | **Specialty:** Asset-based lending, equipment finance, structured credit
+> **Priority:** Tier 1A — Primary Target
+> **Facility Target:** $75,000,000
 > **Date Prepared:** February 9, 2026
 
 ---
 
 ## 📧 OUTREACH EMAIL — COPY & SEND
 
-**Subject:** $75M Secured Credit Facility — $5B Bond-Backed Portfolio — STC-Custodied, insurance wrap per PPM-Insured
+**Subject:** $75M Secured Credit Facility — $5B Bond-Backed Collateral — Asset-Based
 
 ---
 
-Dear Stonebriar Commercial Finance Team,
+Dear Stonebriar Credit Team,
 
-We are presenting a secured credit facility structured to align with Stonebriar's asset-backed commercial lending platform, featuring institutional-grade custodied collateral with conservative advance rates and comprehensive documentation.
+We are presenting a secured credit facility structured to align with Stonebriar's asset-based lending capabilities. The facility is backed by a $5 billion bond program with institutional custody, DTC-eligible settlement, and comprehensive documentation.
 
 **Facility Summary:**
 - **Borrower:** OPTKAS1 LLC
 - **Facility Request:** $75,000,000
 - **Advance Rate:** 40% LTV (conservative)
-- **Coverage Ratio:** 7,300%+
+- **Coverage Ratio:** 250%+
 - **Collateral Portfolio:** $5,000,000,000
 
-**Collateral Breakdown:**
-- **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-
-**Key Infrastructure:**
-- **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
+**Collateral:**
+- **TC Advantage 5% Secured Medium Term Notes:** $5,000,000,000 face value (CUSIP 87225HAB4)
+- **Issuer:** TC Advantage Traders, Ltd. (Bahamas, reg# 205197B)
+- **Custody:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% annual, maturity May 31, 2030
-- **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits Stonebriar:**
+Stonebriar's asset-based lending platform evaluates collateral quality and documentation integrity as primary underwriting criteria. This $5B bond program provides institutional-grade collateral with conservative advance rates, STC custody, DTC/DWAC settlement, and 250%+ coverage — the type of well-documented, identifiable collateral Stonebriar's credit process is designed to evaluate.
 
 **Attached Documentation:**
 1. Draft Term Sheet
 2. Collateral Verification Memo
 3. Credit Committee Positioning Brief
 4. Borrowing Base Policy
-5. Data Room Index (full access available upon request)
+5. Data Room Index
 
-**Verification:** All executed agreements are SHA-256 hashed and cryptographically archived for tamper-proof integrity. Independent verification available at any time — no API or permissions required.
+**Verification:** All executed agreements are independently verifiable. Complete documentation available in the institutional data room.
 
-We welcome the opportunity to schedule a call this week to discuss the facility structure and provide immediate data room access.
+We would welcome a call this week to discuss facility terms and provide full data room access.
 
 Best regards,
 
-**Jimmy**  
-OPTKAS1 LLC  
-Email: jimmy@optkas.com  
+**Jimmy**
+OPTKAS1 LLC
+Email: jimmy@optkas.com
 Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 ---
@@ -76,16 +75,16 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (IPFS-Pinned)
+### Executed Agreements (Verified)
 
-| Document | PDF | IPFS Proof |
-|:---------|:----|:-----------|
-| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
-| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
-| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
-| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
-| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
-| Cryptographic Manifest | — | [🔗 IPFS](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
+| Document | PDF | Verification |
+|:---------|:----|:-------------|
+| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
+| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
+| Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb) |
+| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc) |
+| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x) |
+| Verification Manifest | — | [🔗 Verify](https://ipfs.io/ipfs/QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G) |
 
 ### Data Room Access
 
@@ -117,4 +116,4 @@ python cryptographic_proof_engine.py --verify
 
 ---
 
-*Package prepared for Stonebriar Commercial Finance — OPTKAS Sovereign Platform*
+*Package prepared for Stonebriar Commercial Finance — OPTKAS1 LLC*

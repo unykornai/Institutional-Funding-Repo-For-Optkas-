@@ -23,7 +23,7 @@ OPTKAS1 LLC seeks a **$2.4M – $15M secured credit facility** collateralized by
 | **Face Value** | $10,000,000+ | STC Position Statement |
 | **Maturity** | May 31, 2030 | Certificate |
 | **Coupon** | 5.00% per annum | Certificate |
-| **Insurance** | (per PPM) per PPM wrapper | Premium invoice |
+| **Insurance** | Per PPM (page 14)  insurance wrap on underlying properties | Premium invoice |
 | **Transfer Agent** | Securities Transfer Corporation | Industry standard |
 
 ---
