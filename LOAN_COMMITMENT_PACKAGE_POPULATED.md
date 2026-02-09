@@ -1,7 +1,3 @@
-![OPTKAS Logo](assets/optkas-logo.png)
-
----
-
 # OPTKAS1 LOAN COMMITMENT PACKAGE
 ## Pre-Formatted Response to Lender Requirements
 
@@ -33,8 +29,8 @@ This document pre-answers every requirement from a standard Loan Commitment Lett
 | **Date of Formation** | December 19, 2025 |
 | **Good Standing** | ✓ Current (Certificate attached) |
 | **Principal Address** | 1712 Pioneer Ave, Suite 500, Cheyenne, WY 82001 |
-| **Manager/Signatory** | [Authorized manager] |
-| **Tax ID / EIN** | [On file] |
+| **Manager/Signatory** | Jimmy, Manager |
+| **Tax ID / EIN** | Available upon NDA execution |
 
 ### 1.2 Facility Request
 
@@ -158,7 +154,7 @@ If lender requires SBLC as additional or primary collateral:
 
 ### 3.3 SBLC Conditions Precedent
 
-Borrower confirms SBLC will be:
+Borrower proposes SBLC with the following characteristics (subject to availability and lender approval):
 - [ ] Issued by Top 100 World Bank (acceptable to lender)
 - [ ] Cash-collateralized or unconditionally guaranteed
 - [ ] Freely transferable without issuer consent
