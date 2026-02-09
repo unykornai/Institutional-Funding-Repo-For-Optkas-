@@ -1,4 +1,4 @@
-# 📦 LENDER PACKAGE — APOLLO GLOBAL
+﻿# 📦 LENDER PACKAGE — APOLLO GLOBAL
 
 > **Target:** Apollo Global Management (Credit Division)  
 > **AUM:** $600B+ | **Specialty:** Credit & yield strategies, structured credit  
@@ -27,18 +27,18 @@ We are presenting a large-scale secured credit facility structured to align with
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-- **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
+- **Digital Reserve Balances:** $74,000,000 (independently verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Coverage:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% semi-annual, maturity May 31, 2030
-- **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested
+- **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified
 
 **Why This Fits Apollo:**
-Apollo's credit division specializes in yield-generating, asset-backed structures with strong downside protection at significant scale. This facility offers 1,800%+ collateral coverage across three diversified asset classes, third-party custody through STC, DTC settlement, and a $675M Lloyd's insurance wrapper — providing the over-collateralization and risk mitigation Apollo's credit committees prioritize. The $5B bond program represents exactly the type of complex alternative structure Apollo is built to evaluate.
+Apollo's credit division specializes in yield-generating, asset-backed structures with strong downside protection at significant scale. This facility offers 1,800%+ collateral coverage across three diversified asset classes, third-party custody through STC, DTC settlement, and a $675M Lloyd's insurance coverage — providing the over-collateralization and risk mitigation Apollo's credit committees prioritize. The $5B bond program represents exactly the type of complex alternative structure Apollo is built to evaluate.
 
 **Attached Documentation:**
 1. Draft Term Sheet
@@ -47,7 +47,7 @@ Apollo's credit division specializes in yield-generating, asset-backed structure
 4. Borrowing Base Policy
 5. Data Room Index
 
-**Verification:** All executed agreements are SHA-256 hashed and IPFS-pinned for tamper-proof integrity.
+**Verification:** All executed agreements are SHA-256 hashed and cryptographically archived for tamper-proof integrity.
 
 We would welcome a call this week to discuss facility terms and provide full data room access.
 
@@ -80,9 +80,9 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (IPFS-Pinned)
+### Executed Agreements (Cryptographically Verified)
 
-| Document | PDF | IPFS Proof |
+| Document | PDF | Verification |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

@@ -1,4 +1,4 @@
-# CREDIT COMMITTEE POSITIONING BRIEF
+﻿# CREDIT COMMITTEE POSITIONING BRIEF
 
 **Borrower:** OPTKAS1-MAIN SPV (Wyoming Series LLC)
 **Facility Request:** $2,400,000 – $4,000,000 Secured Credit Facility
@@ -71,7 +71,7 @@ Unlike typical borrowers presenting static documents, OPTKAS1-MAIN SPV operates 
 | Capability | What It Means for the Lender |
 |:-----------|:----------------------------|
 | **Automated borrowing base certificates** | Monthly collateral reporting without manual preparation |
-| **XRPL blockchain attestations** | Immutable, timestamped proof of collateral position |
+| **Cryptographic ledger attestations** | Immutable, timestamped proof of collateral position |
 | **Real-time compliance monitoring** | Covenant breaches detected automatically, not quarterly |
 | **Live operational dashboard** | 16-card institutional monitor accessible on demand |
 | **949 automated tests** | System integrity verified continuously, audit-grade evidence |

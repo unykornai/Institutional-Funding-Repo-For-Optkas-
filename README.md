@@ -1,4 +1,4 @@
-# OPTKAS1-MAIN SPV — Institutional Secured Credit Facility
+﻿# OPTKAS1-MAIN SPV — Institutional Secured Credit Facility
 
 [![Status](https://img.shields.io/badge/Status-OPEN%20FOR%20REVIEW-success?style=for-the-badge)](#overview)
 [![Bond](https://img.shields.io/badge/Bond%20Program-$5B-gold?style=for-the-badge)](#bond-program)
@@ -10,9 +10,18 @@
 
 ## Overview
 
-**OPTKAS1-MAIN SPV** (Wyoming Series LLC, bankruptcy-remote) is presenting a secured credit facility backed by a diversified collateral portfolio totaling **$6.1 billion+**, including a **$5 billion bond program**, **$74 million in blockchain-verified digital reserves**, and a **$376.7 million professionally appraised gemstone portfolio** — all enhanced by a **$675 million Lloyd's of London insurance wrapper**.
+**OPTKAS1-MAIN SPV** (Wyoming Series LLC, bankruptcy-remote) is presenting a secured credit facility backed by a diversified collateral portfolio totaling **$6.1 billion+**, including:
 
-This repository contains all documentation required for institutional lenders to evaluate, conduct due diligence, and proceed to facility commitment. Every executed agreement is cryptographically hashed (SHA-256) and permanently pinned to IPFS for tamper-proof verification.
+- **$5 billion** in Secured Medium-Term Notes (CUSIP 87225HAB4, STC custody, DTC/DWAC)
+- **$74 million** in independently verifiable digital reserve balances
+- **$376.7 million** in professionally appraised gemstones
+- **$675 million** in Lloyd's of London insurance coverage
+
+All executed agreements are cryptographically hashed (SHA-256) and archived for tamper-evident verification.
+Cryptographic tools are used **solely for transparency and auditability** — not as part of any digital asset offering.
+
+**Technology Infrastructure:**
+Document hashing, verification tooling, and evidence-chain automation were developed by **Unykorn 7777, Inc.**, acting solely as a **technology provider**. Unykorn 7777, Inc. performs **no broker-dealer, advisory, or financial services** and has **no role in issuance, collateral, or facility structure**.
 
 **Contact:** jimmy@optkas.com
 
@@ -63,9 +72,9 @@ This repository contains all documentation required for institutional lenders to
 | Asset Class | Value | Verification Method |
 |:------------|:------|:--------------------|
 | **TC Advantage 5% Secured MTN** | $5,000,000,000 | STC custody, DTC/DWAC, CUSIP 87225HAB4 |
-| **XRPL USDT Reserves** | $74,000,000 | Blockchain-verified, live attestation |
+| **Digital Reserve Balances** | $74,000,000 | Independently verifiable, live attestation |
 | **Gemstone Portfolio** | $376,700,000 | Professional appraisal |
-| **Lloyd's Insurance Wrapper** | $675,000,000 | C.J. Coleman & Co., London |
+| **Lloyd's Insurance Coverage** | $675,000,000 | C.J. Coleman & Co., London |
 | **Total Collateral** | **$6,125,700,000+** | **Multi-source, independently verifiable** |
 
 ---
@@ -139,7 +148,7 @@ The institutional data room is frozen, hashed, and ready for lender review.
 | **02 — Collateral & Credit** | PPM, STC statement, borrowing base, valuations | [02_COLLATERAL_AND_CREDIT/](DATA_ROOM_v1/02_COLLATERAL_AND_CREDIT/) |
 | **03 — Bond & Note Issuance** | Bond workflow, issuance guide, CAT bond blueprint | [03_BOND_AND_NOTE_ISSUANCE/](DATA_ROOM_v1/03_BOND_AND_NOTE_ISSUANCE/) |
 | **04 — Compliance & Risk** | KYC/AML, insurance underwriting, legal opinion | [04_COMPLIANCE_AND_RISK/](DATA_ROOM_v1/04_COMPLIANCE_AND_RISK/) |
-| **05 — Chain of Custody** | Audit runbook, FedEx scan, XRPL attestation spec | [05_CHAIN_OF_CUSTODY/](DATA_ROOM_v1/05_CHAIN_OF_CUSTODY/) |
+| **05 — Chain of Custody** | Audit runbook, FedEx scan, document attestation spec | [05_CHAIN_OF_CUSTODY/](DATA_ROOM_v1/05_CHAIN_OF_CUSTODY/) |
 
 **Machine Manifest:** [data-room.json](DATA_ROOM_v1/data-room.json) | **Data Room Index:** [INDEX.md](DATA_ROOM_v1/INDEX.md)
 
@@ -149,7 +158,7 @@ The institutional data room is frozen, hashed, and ready for lender review.
 
 All agreements were executed on **February 9, 2026** and are filed with cryptographic proof.
 
-| # | Document | PDF | IPFS Verification |
+| # | Document | PDF | Verification |
 |:--|:---------|:----|:------------------|
 | 1 | Strategic Infrastructure Agreement | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | 2 | Exhibit A — Economic Participation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
@@ -164,7 +173,7 @@ All agreements were executed on **February 9, 2026** and are filed with cryptogr
 
 ## Cryptographic Verification
 
-Every executed document has been **SHA-256 hashed** and **IPFS-pinned** to provide institutional-grade tamper-evidence.
+Every executed document has been **SHA-256 hashed** and **permanently archived** to provide institutional-grade tamper-evidence. Cryptographic verification is used **solely for transparency and auditability**.
 
 ### SHA-256 Document Hashes
 
@@ -279,7 +288,7 @@ Institutional-Funding-Repo-For-Optkas-/
 | | |
 |:-----|:-------|
 | **Entity** | OPTKAS1-MAIN SPV (Wyoming Series LLC) |
-| **Partner** | Unykorn 7777, Inc. |
+| **Technology Provider** | Unykorn 7777, Inc. (infrastructure only; no financial role) |
 | **Contact** | jimmy@optkas.com |
 | **Response Time** | Same business day |
 | **Data Room Access** | Available in this repository |
@@ -289,3 +298,5 @@ Institutional-Funding-Repo-For-Optkas-/
 *OPTKAS1-MAIN SPV — Institutional Secured Credit Facility*  
 *$5B Bond Program · $6.1B+ Collateral Portfolio · All Documents Cryptographically Verified*  
 *© 2026 OPTKAS1-MAIN SPV. All rights reserved.*
+
+**Disclaimer:** Unykorn 7777, Inc. serves solely as a technology provider for document hashing, verification tooling, and evidence-chain infrastructure. Unykorn 7777, Inc. performs no broker-dealer, investment advisory, underwriting, or financial services of any kind and has no role in the issuance, collateral, borrowing base, or facility structure described herein. All financial obligations are solely those of OPTKAS1-MAIN SPV.

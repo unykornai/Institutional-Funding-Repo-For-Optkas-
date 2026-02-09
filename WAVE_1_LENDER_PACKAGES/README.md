@@ -1,9 +1,9 @@
-# WAVE 1 LENDER PACKAGES — INDEX
+﻿# WAVE 1 LENDER PACKAGES — INDEX
 
 > **Generated: February 9, 2026**  
 > **Status: READY TO SEND**  
 > **Bond Program: $5,000,000,000 (500 × $10M TC Advantage 5% Secured MTN)**  
-> **Total Portfolio: $6,125,700,000+ (bonds + XRPL USDT + gemstones + insurance)**
+> **Total Portfolio: $6,125,700,000+ (bonds + digital reserves + gemstones + insurance)**
 
 Each package below contains a personalized outreach email, deal summary with correct portfolio-scale figures, clickable links to all PDF documents, data room access, and cryptographic verification references.
 
@@ -40,9 +40,9 @@ Each package below contains a personalized outreach email, deal summary with cor
 | Asset Class | Value | Verification |
 |:------------|:------|:-------------|
 | TC Advantage 5% Secured MTN | $5,000,000,000 | CUSIP 87225HAB4, STC custody, DTC/DWAC |
-| XRPL USDT Reserves | $74,000,000 | Blockchain-verified, live attestation |
+| Digital Reserve Balances | $74,000,000 | Independently verified, live attestation |
 | Gemstone Portfolio | $376,700,000 | Professional appraisal |
-| Lloyd's Insurance Wrapper | $675,000,000 | C.J. Coleman & Co., London |
+| Lloyd's Insurance Coverage | $675,000,000 | C.J. Coleman & Co., London |
 | **Total** | **$6,125,700,000+** | **Multi-source, independently verifiable** |
 
 ---

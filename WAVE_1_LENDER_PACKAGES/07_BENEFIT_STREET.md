@@ -1,4 +1,4 @@
-# 📦 LENDER PACKAGE — BENEFIT STREET PARTNERS
+﻿# 📦 LENDER PACKAGE — BENEFIT STREET PARTNERS
 
 > **Target:** Benefit Street Partners (Franklin Templeton)  
 > **Specialty:** Credit-focused alternatives, direct lending  
@@ -27,15 +27,15 @@ We are presenting a large-scale secured credit facility structured to align with
 
 **Collateral Breakdown:**
 - **TC Advantage 5% Secured MTN:** $5,000,000,000 (500 bonds × $10M, CUSIP 87225HAB4)
-- **XRPL USDT Reserves:** $74,000,000 (blockchain-verified, real-time attestation)
+- **Digital Reserve Balances:** $74,000,000 (independently verified, real-time attestation)
 - **Gemstone Portfolio:** $376,700,000 (professionally appraised)
-- **Lloyd's Insurance Wrapper:** $675,000,000 (C.J. Coleman & Co., London)
+- **Lloyd's Insurance Coverage:** $675,000,000 (C.J. Coleman & Co., London)
 
 **Key Infrastructure:**
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% semi-annual, maturity May 31, 2030
-- **Verification:** SHA-256 hashed, IPFS-pinned, XRPL-attested — independent verification available
+- **Verification:** SHA-256 hashed, cryptographically archived, cryptographically verified — independent verification available
 
 **Why This Fits Benefit Street:**
 As a leading credit alternatives manager within the Franklin Templeton platform, Benefit Street focuses on opportunities where credit quality and structural protections create compelling risk-adjusted returns. This $6.1B+ diversified portfolio backing a $100M facility provides extraordinary coverage. The $5B STC-custodied bond program, Lloyd's insurance enhancement, and cryptographic verification infrastructure deliver the structural protection your credit committees evaluate favorably.
@@ -47,7 +47,7 @@ As a leading credit alternatives manager within the Franklin Templeton platform,
 4. Borrowing Base Policy
 5. Data Room Index (full access available upon request)
 
-**Verification:** All executed agreements are SHA-256 hashed and IPFS-pinned for tamper-proof integrity. Independent verification available at any time — no API or permissions required.
+**Verification:** All executed agreements are SHA-256 hashed and cryptographically archived for tamper-proof integrity. Independent verification available at any time — no API or permissions required.
 
 We welcome the opportunity to schedule a call this week to discuss the facility structure and provide immediate data room access.
 
@@ -80,9 +80,9 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (IPFS-Pinned)
+### Executed Agreements (Cryptographically Verified)
 
-| Document | PDF | IPFS Proof |
+| Document | PDF | Verification |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |

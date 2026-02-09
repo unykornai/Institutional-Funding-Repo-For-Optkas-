@@ -1,4 +1,4 @@
-# DUAL-TRACK COLLATERAL ARCHITECTURE
+﻿# DUAL-TRACK COLLATERAL ARCHITECTURE
 ## Simulation Using Actual Assets
 
 **Document Type:** Technical Simulation & Architecture Example  
@@ -12,14 +12,14 @@
 
 This simulation demonstrates Uny's **dual-track collateral architecture** using actual assets:
 
-- **Track A (Liquid):** 74,000,000 XRPL USDT IOUs → Drives issuance
+- **Track A (Liquid):** 74,000,000 digital reserves IOUs → Drives issuance
 - **Track B (Illiquid):** $376.7M appraised gemstones → Evidence only, zero issuance weight
 
 **Critical Principle:** The system maintains institutional credibility by applying extreme conservatism to illiquid assets, ensuring only verifiable, liquid proofs drive economic activity.
 
 ---
 
-## TRACK A: XRPL USDT PROOF (PRIMARY ISSUANCE BASE)
+## TRACK A: digital reserves PROOF (PRIMARY ISSUANCE BASE)
 
 ### Asset Characteristics
 
@@ -294,7 +294,7 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 ## COMPARATIVE ANALYSIS: WHY TRACK A DRIVES SYSTEM, TRACK B DOES NOT
 
-| Criterion | Track A (XRPL USDT) | Track B (Gems) | Winner |
+| Criterion | Track A (digital reserves) | Track B (Gems) | Winner |
 |-----------|---------------------|----------------|---------|
 | **Verification** | On-ledger, cryptographic | Document-based, off-ledger | Track A |
 | **Liquidity** | High (DEX, redemption, OTC) | Extremely low (no market) | Track A |
@@ -473,10 +473,10 @@ if asset_class == RWA_ILLIQUID_PHYSICAL {
 
 **Objective:** Use Track A collateral to access Aave liquidity
 
-#### Step 1: XRPL USDT → Exchange → EVM USDC
+#### Step 1: digital reserves → Exchange → EVM USDC
 
 ```
-Input:           5,000,000 XRPL USDT (tranche 1 of 74M)
+Input:           5,000,000 digital reserves (tranche 1 of 74M)
 Route:           XRPL → Regulated Exchange → Arbitrum USDC
 Output:          5,000,000 USDC (Arbitrum)
 Time:            2-4 hours
@@ -615,7 +615,7 @@ Liquidation Risk: Very low (stable/stable pair)
 ### Phase 3: Optional - Bridge to DeFi (Track A Only)
 
 **Actions (Tranche 1):**
-1. Convert 5M XRPL USDT → Arbitrum USDC
+1. Convert 5M digital reserves → Arbitrum USDC
 2. Deposit to Aave v3
 3. Borrow 2.5M USDC (conservative 50% LTV)
 4. Monitor health factor (target >2.0)
@@ -784,7 +784,7 @@ policy_reason = "ILLIQUID_NO_MARKET_DEPTH"
 This simulation demonstrates how Uny's dual-track architecture:
 
 1. **Drives Economics with Liquid Proofs** (Track A)
-   - 74M XRPL USDT → 42.18M UNY-REF issuance capacity
+   - 74M digital reserves → 42.18M UNY-REF issuance capacity
    - Verifiable, replayable, institution-grade
 
 2. **Discloses Illiquid Assets Honestly** (Track B)

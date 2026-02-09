@@ -1,4 +1,4 @@
-# AUDIT RUNBOOK
+﻿# AUDIT RUNBOOK
 ## OPTKAS1 Collateral & System Verification Procedures
 
 **Version:** 1.0  
@@ -166,7 +166,7 @@ Date: _____________________________
 |:-----|:---------------|
 | Legal | Entity status, UCC filings, agreements |
 | Custody | STC relationship, control agreement |
-| Technology | XRPL attestations, IPFS storage |
+| Technology | cryptographic attestations, IPFS storage |
 | Compliance | Covenant calculations, reporting |
 
 ### 5.2 Legal Entity Check
@@ -242,7 +242,7 @@ Authorization: [Attach signed authorization from SPV]
 - [ ] Insurance verification
 
 **Day 3: Transaction Testing**
-- [ ] Sample XRPL attestations (10% or 30, whichever greater)
+- [ ] Sample cryptographic attestations (10% or 30, whichever greater)
 - [ ] Verify hash matches for each
 - [ ] Test BBC calculations for 3 months
 - [ ] Review all material events

@@ -1,4 +1,4 @@
-# OPTKAS1 EXECUTIVE SUMMARY
+﻿# OPTKAS1 EXECUTIVE SUMMARY
 ## Secured Credit Facility Backed by Investment-Grade Notes
 
 **Prepared for:** Prospective Lenders  
@@ -66,7 +66,7 @@ OPTKAS1-MAIN SPV seeks a **$2.4M – $15M secured credit facility** collateraliz
 | Benefit | Detail |
 |:--------|:-------|
 | **Overcollateralized** | 250%+ coverage ratio |
-| **Verifiable** | STC position statement + XRPL attestations |
+| **Verifiable** | STC position statement + cryptographic attestations |
 | **Enforceable** | Standard UCC foreclosure rights |
 | **Income-Producing** | 5% coupon supports debt service |
 | **Insured** | $675M C.J. Coleman coverage |

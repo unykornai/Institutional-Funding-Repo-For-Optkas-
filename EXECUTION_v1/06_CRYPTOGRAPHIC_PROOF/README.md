@@ -22,7 +22,7 @@ Manifest Hash: 4A10DD81AAF2BD4C7EFB3FFD4034B6B8C493658276E1FFA72ABF8DEAFE2D0D82
 3. Compare against CRYPTOGRAPHIC_PROOF_MANIFEST.json
 4. Run: python cryptographic_proof_engine.py --verify
 5. Check IPFS CIDs at ipfs.io/ipfs/<CID>
-6. Verify XRPL attestation at livenet.xrpl.org
+6. Verify cryptographic attestation at livenet.xrpl.org
 
 ## Architecture
 

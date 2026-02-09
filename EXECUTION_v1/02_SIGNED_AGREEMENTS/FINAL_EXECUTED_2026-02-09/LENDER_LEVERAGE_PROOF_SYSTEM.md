@@ -1,9 +1,9 @@
-# LENDER LEVERAGE PROOF SYSTEM
+﻿# LENDER LEVERAGE PROOF SYSTEM
 
 ## Cryptographic Document Verification & Leverage Architecture
 
 **Entity:** OPTKAS1-MAIN SPV  
-**Infrastructure Partner:** Unykorn 7777, Inc.  
+**Technology Provider:** Unykorn 7777, Inc. (infrastructure only; no financial role)  
 **System Version:** 1.0.0  
 **Execution Date:** February 9, 2026  
 **Verification Status:** ✅ ALL AGREEMENTS FULLY EXECUTED & CRYPTOGRAPHICALLY PINNED
@@ -14,7 +14,7 @@
 
 This document provides lenders with a **complete, independently verifiable proof system** demonstrating:
 
-1. **All partnership agreements are fully executed** with authorized signatures
+1. **All infrastructure agreements are fully executed** with authorized signatures
 2. **Every document is cryptographically fingerprinted** (SHA-256)
 3. **Every document is pinned to IPFS** (content-addressed, immutable storage)
 4. **A machine-readable manifest** links all artifacts for automated verification
@@ -137,7 +137,7 @@ sequenceDiagram
     L->>IPFS: Download documents via CID
     L->>L: Compute SHA-256 of each document
     L->>L: Compare hashes to manifest
-    L->>XRPL: Verify XRPL attestation timestamp
+    L->>XRPL: Verify cryptographic attestation timestamp
     L-->>L: ✅ All documents verified
 ```
 
@@ -151,7 +151,7 @@ sequenceDiagram
 |-----------|---------|-------------------|
 | **Partnership is real** | 5 fully executed agreements + consolidated signatures | Download from IPFS, verify signatures visually |
 | **Documents haven't been altered** | SHA-256 hashes match across all copies | Hash comparison (command line or any SHA-256 tool) |
-| **Timestamped execution** | IPFS pin date + XRPL attestation | XRPL explorer lookup |
+| **Timestamped execution** | IPFS pin date + cryptographic attestation | XRPL explorer lookup |
 | **No hidden modifications** | Content-addressed storage (CID = hash of content) | `ipfs add -n --only-hash <file>` |
 | **Governance structure exists** | Strategic Infrastructure Agreement + Economic Participation | Document review |
 | **Economic terms are clear** | Exhibit A — Option A (10%) or Option B (4%+2%) | Document review |
@@ -171,9 +171,9 @@ sequenceDiagram
 │     ↓                                                               │
 │  3. GOVERNANCE ─────────── Executed partner agreements (THIS SYSTEM)│
 │     ↓                                                               │
-│  4. VERIFICATION ───────── IPFS + SHA-256 + XRPL attestation       │
+│  4. VERIFICATION ───────── IPFS + SHA-256 + cryptographic attestation       │
 │     ↓                                                               │
-│  5. INSURANCE ──────────── $675M Lloyd's wrapper                  │
+│  5. INSURANCE ──────────── $675M Lloyd's coverage                  │
 │     ↓                                                               │
 │  6. COMPLIANCE ─────────── KYC/AML + jurisdictional                 │
 │     ↓                                                               │

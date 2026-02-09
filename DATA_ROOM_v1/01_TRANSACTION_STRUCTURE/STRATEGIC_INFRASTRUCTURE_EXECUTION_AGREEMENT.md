@@ -1,4 +1,4 @@
-# STRATEGIC INFRASTRUCTURE & EXECUTION AGREEMENT
+﻿# STRATEGIC INFRASTRUCTURE & EXECUTION AGREEMENT
 
 **Document Status:** ![Execution Ready](https://img.shields.io/badge/Status-EXECUTION%20READY-success) ![Version](https://img.shields.io/badge/Version-1.0-blue)
 
@@ -53,7 +53,7 @@ Unykorn has materially contributed and shall continue to contribute, as applicab
 | **Borrowing Base Framework** | Development of haircut methodologies and advance rates | ✅ Complete |
 | **Lender Documentation** | Preparation of credit-committee-ready submission package | ✅ Complete |
 | **Chain of Custody** | Blockchain-based verification architecture and evidence frameworks | ✅ Complete |
-| **Snapshot & Reporting** | Day-0 baseline, XRPL attestation, immutable audit trails | ✅ Complete |
+| **Snapshot & Reporting** | Day-0 baseline, cryptographic attestation, immutable audit trails | ✅ Complete |
 | **Smart Contract Settlement** | Design and implementation of automated payment rails | ⏳ Ongoing |
 | **Funding Coordination** | Support through funding and stabilization phases | ⏳ Ongoing |
 

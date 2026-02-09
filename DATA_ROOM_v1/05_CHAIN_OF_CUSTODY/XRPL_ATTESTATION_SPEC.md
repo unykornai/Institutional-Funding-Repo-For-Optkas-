@@ -1,4 +1,4 @@
-# XRPL ATTESTATION SPECIFICATION
+﻿# XRPL ATTESTATION SPECIFICATION
 ## OPTKAS1 Evidence Layer Technical Documentation
 
 **Version:** 1.0  
@@ -11,7 +11,7 @@
 
 ### 1.1 Purpose
 
-The XRPL attestation system provides an immutable, publicly verifiable evidence layer for the OPTKAS1 collateral management system. This specification defines how document hashes and collateral positions are anchored to the XRP Ledger.
+The cryptographic attestation system provides an immutable, publicly verifiable evidence layer for the OPTKAS1 collateral management system. This specification defines how document hashes and collateral positions are anchored to the XRP Ledger.
 
 ### 1.2 Design Principles
 

@@ -1,4 +1,4 @@
-# OPTKAS1 Funding System
+﻿# OPTKAS1 Funding System
 ## Institutional Credit Facility Documentation Package
 
 **Entity:** OPTKAS1-MAIN SPV (Wyoming Series LLC)  
@@ -53,7 +53,7 @@ OPTKAS1-Funding-System/
 │   ├── 03_Facility/                             # Loan documents
 │   ├── 04_Offering/                             # Legal opinions & annexes
 │   ├── 05_Compliance/                           # KYC/AML package
-│   └── 06_Technical/                            # XRPL attestation specs
+│   └── 06_Technical/                            # cryptographic attestation specs
 │
 ├── data_room/templates/                         # Document templates
 │   ├── FACILITY_AGREEMENT_TEMPLATE.md

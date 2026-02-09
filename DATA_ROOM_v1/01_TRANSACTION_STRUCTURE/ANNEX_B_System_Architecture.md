@@ -1,4 +1,4 @@
-# ANNEX B: SYSTEM ARCHITECTURE
+﻿# ANNEX B: SYSTEM ARCHITECTURE
 ## OPTKAS1 Collateral Management & Verification Infrastructure
 
 **Reference:** OPTKAS1 Loan Commitment Package  
@@ -146,7 +146,7 @@ Step 5: Confirmation Storage
 Lender Query: "What is current collateral status?"
         │
         ▼
-Step 1: Retrieve latest XRPL attestation
+Step 1: Retrieve latest cryptographic attestation
         │
         ▼
 Step 2: Verify hash against IPFS document

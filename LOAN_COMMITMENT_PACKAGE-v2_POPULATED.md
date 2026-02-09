@@ -1,4 +1,4 @@
-# OPTKAS1 LOAN COMMITMENT PACKAGE
+﻿# OPTKAS1 LOAN COMMITMENT PACKAGE
 ## Pre-Formatted Response to Lender Requirements
 
 **Date:** January 26, 2026  
@@ -65,7 +65,7 @@ This document pre-answers every requirement from the Loan Commitment Letter Temp
 | **Transfer Agent** | Securities Transfer Corporation, Plano TX | STC Statement ✅ |
 | **Settlement** | DTC/DWAC FAST system | Subscription Agreement |
 | **Chairman** | Larry Corona | Subscription Agreement |
-| **Insurance Wrapper** | C.J. Coleman & Co., London ($675M coverage / $25.75M premium, 2024-2029) | Invoice attached |
+| **Insurance Coverage** | C.J. Coleman & Co., London ($675M coverage / $25.75M premium, 2024-2029) | Invoice attached |
 
 ### 2.2 Collateral Valuation
 
@@ -154,7 +154,7 @@ Borrower confirms SBLC will be:
 | Document | Status | Location |
 |:---------|:-------|:---------|
 | Private Placement Memorandum (47 pages) | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_2.md |
-| Insurance Wrapper Invoice | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_6.md |
+| Insurance Coverage Invoice | ✅ Ready | data_room/02_Asset/TC_Advantage_Bond_Document_6.md |
 | **STC Position Statement** | ✅ **RECEIVED** | data_room/02_Asset/STC_Statement.pdf |
 | **Corporate Bond Certificate** | ✅ **RECEIVED** | data_room/02_Asset/TCAT-10M-2030-001_Certificate.pdf |
 | **FedEx Delivery Confirmation** | ✅ **SCANNED 2026-01-22** | data_room/02_Asset/FedEx_Scan_2026-01-22.pdf |
@@ -299,7 +299,7 @@ If Borrower defaults:
 | # | Document | Format | Pages |
 |:--|:---------|:-------|:------|
 | 12 | TC Advantage PPM | PDF | 47 |
-| 13 | Insurance Wrapper Invoice | PDF | 2 |
+| 13 | Insurance Coverage Invoice | PDF | 2 |
 | 14 | Corporate Formation Docs | PDF | ~10 |
 | 15 | KYC/AML Package | PDF | ~15 |
 

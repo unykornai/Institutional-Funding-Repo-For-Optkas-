@@ -1,4 +1,4 @@
-# Standard Chartered Bank (Trade & Structured Finance) — Secured Credit Facility Package
+﻿# Standard Chartered Bank (Trade & Structured Finance) — Secured Credit Facility Package
 
 > **Target:** Standard Chartered Bank (Trade & Structured Finance)  
 > **Specialty:** Trade finance, structured lending, emerging market credit  
@@ -29,7 +29,7 @@ We are presenting a $200,000,000 secured credit facility backed by a $6,125,700,
 **Collateral Breakdown:**
 
 - **Bond Program:** $5,000,000,000 — 500 bonds × $10M, CUSIP 87225HAB4, STC-custodied, DTC/DWAC eligible
-- **XRPL USDT Reserves:** $74,000,000 — blockchain-verified, on-ledger attestation
+- **Digital Reserve Balances:** $74,000,000 — independently verified, independent attestation
 - **Gemstone Portfolio:** $376,700,000 — professionally appraised hard assets
 - **Lloyd's Insurance:** $675,000,000 — C.J. Coleman & Co., London
 
@@ -38,17 +38,17 @@ We are presenting a $200,000,000 secured credit facility backed by a $6,125,700,
 - **Transfer Agent:** Securities Transfer Corporation (Plano, TX)
 - **Settlement:** DTC/DWAC FAST system
 - **Coupon:** 5.00% semi-annual, maturity May 31, 2030
-- **Verification:** SHA-256 cryptographic hashing, IPFS-pinned executed agreements, XRPL on-ledger attestation
+- **Verification:** SHA-256 cryptographic hashing, cryptographically archived executed agreements, cryptographic document attestation
 
 **Why This Fits Standard Chartered:**
 
-Standard Chartered's structured finance capabilities span traditional banking infrastructure with an understanding of newer verification technologies. This $5B bond program (CUSIP 87225HAB4, STC-custodied) with $450M+ in supplementary assets combines standard DTC/DWAC settlement rails with a cryptographic verification layer — a hybrid approach that aligns with StanChart's innovation in structured lending at scale. The $675M Lloyd's wrapper via C.J. Coleman provides additional credit enhancement.
+Standard Chartered's structured finance capabilities span traditional banking infrastructure with an understanding of newer verification technologies. This $5B bond program (CUSIP 87225HAB4, STC-custodied) with $450M+ in supplementary assets combines standard DTC/DWAC settlement rails with a cryptographic verification layer — a hybrid approach that aligns with StanChart's innovation in structured lending at scale. The $675M Lloyd's coverage via C.J. Coleman provides additional credit enhancement.
 
 **Attached Documentation:**
 
 1. Draft Term Sheet & Collateral Verification Memo
 2. Data Room Index with full document access
-3. Executed agreements (IPFS-pinned with cryptographic proof)
+3. Executed agreements (cryptographically archived with cryptographic proof)
 4. Borrowing Base Policy & Valuation Justification
 5. Credit Committee Positioning Materials
 
@@ -85,9 +85,9 @@ OPTKAS1-MAIN SPV
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](../Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Collateral Summary Sheet | [📄 COLLATERAL_SUMMARY_SHEET.md](../COLLATERAL_SUMMARY_SHEET_POPULATED.md) |
 
-### Executed Agreements (IPFS-Pinned)
+### Executed Agreements (Cryptographically Verified)
 
-| Document | PDF | IPFS Proof |
+| Document | PDF | Verification |
 |:---------|:----|:-----------|
 | Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmdMVsjUXK8phJT8ueEP69CTaX6o6f875if5PgGvRMnBEQ) |
 | Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 IPFS](https://ipfs.io/ipfs/QmcdEqk7PSHEsPdMrc1HLSwddSnqjMrCw7Hcrq9HPx9dGh) |
