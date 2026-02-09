@@ -2,230 +2,182 @@
 
 ---
 
-# CONDITIONS PRECEDENT TRACKER
-## OPTKAS1 LLC — Secured Credit Facility
+# CONDITIONS PRECEDENT TRACKER — OPTKAS1 LLC
 
-**Date:** February 9, 2026  
-**Version:** 1.0  
-**Maintained by:** jimmy@optkas.com  
-**Purpose:** Operational CP tracking with evidence artifact mapping, blocking flags, and data room integration
+**Program:** $75M–$300M per institution | $2B max capacity | $5B collateral (CUSIP 87225HAB4)  
+**Version:** v2.0 | **Owner:** OPTKAS1 PMO | **Last Updated:** 2026-02-09  
+**Contact:** jimmy@optkas.com
 
 ---
 
-## HOW TO USE THIS TRACKER
+## Legend
 
-This is the **operational** version of the CP Checklist. Every CP has:
-
-- **CP ID** — Unique sequential identifier (CP-01 through CP-62)
-- **Phase** — When the CP is required (1–5)
-- **Condition** — What the CP requires
-- **Status** — Current readiness state
-- **Owner** — Who is responsible for delivery
-- **Evidence Artifact** — Exact data room folder + file that satisfies the CP
-- **Date Available** — When the artifact is/will be available
-- **Notes** — Lender-specific comments, customization notes
-- **Blocking** — Whether this CP blocks closing if unsatisfied
-
-**Status Key:**
-| Symbol | Meaning |
-|:-------|:--------|
-| ✅ Ready | Document exists, verified, deliverable immediately |
-| 📋 Staged | Template/draft exists, requires customization or execution |
-| ⏳ At Closing | Standard closing deliverable, produced upon engagement |
-| 🔲 Lender-Dependent | Requires lender input before borrower can act |
-| ❌ Gap | Missing — requires action |
-
-**Blocking Key:**
-| Flag | Meaning |
-|:-----|:--------|
-| 🔴 Yes | Closing cannot proceed without this CP |
-| 🟡 Conditional | Blocking only if lender requires it |
-| 🟢 No | Not blocking; informational or post-closing |
+| Field | Values |
+|:------|:-------|
+| **Status** | Ready / In Progress / Lender-Dependent / Not Applicable |
+| **Owner** | Borrower / Counsel / Custodian / Insurer / Lender |
+| **Blocking** | Yes = prevents next phase · Medium = slows but doesn't block · No = informational |
 
 ---
 
-## PHASE 1: PRE-COMMITMENT
-*Required before term sheet issuance. Deliver within 48 hours of lender request.*
+## Phase 1 — Pre-Commitment (Term Sheet Readiness)
 
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-01 | 1 | Executive Summary | ✅ Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.01 Executive Summary.pdf` | Immediate | 2-page deal positioning; approved version on file | 🔴 Yes |
-| CP-02 | 1 | Loan Commitment Package (v2) | ✅ Ready | Borrower | `08_LENDER_PACKAGE/08.01 Loan Commitment Package (v2).pdf` | Immediate | Pre-formatted lender response; all Q&A pre-answered | 🔴 Yes |
-| CP-03 | 1 | Collateral Summary Sheet | ✅ Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.02 Collateral Summary Sheet.pdf` | Immediate | Full collateral description, valuation, 250%+ coverage | 🔴 Yes |
-| CP-04 | 1 | Legal Opinion (K. Knowles & Co.) | ✅ Ready | Borrower | `05_LEGAL/05.01 Legal Opinion — K. Knowles & Co. (Jan 13, 2026).pdf` | Immediate | 8-page opinion; 6 formal opinions on validity/enforceability | 🔴 Yes |
-| CP-05 | 1 | STC Security List (Jan 23, 2026) | ✅ Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.03 STC Security List by Issuer (Jan 23, 2026).pdf` | Immediate | Transfer agent confirms holdings by issuer | 🔴 Yes |
-| CP-06 | 1 | Lloyd's Insurance Confirmation | ✅ Ready | Borrower | `04_INSURANCE/04.01 Lloyd's Insurance Confirmation Letter (March 6, 2024).pdf` | Immediate | $625M sum insured; signed John Collier, FCA #30820 | 🔴 Yes |
-| CP-07 | 1 | Private Placement Memorandum | ✅ Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.01 Private Placement Memorandum (May 29, 2020).pdf` | Immediate | 47 pages; full offering memorandum for collateral notes | 🔴 Yes |
-| CP-08 | 1 | Issuance Resolution (Jan 22, 2026) | ✅ Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.07 Issuance Resolution (Jan 22, 2026).pdf` | Immediate | Chairman authorization of note issuance; signed Larry Corona | 🔴 Yes |
-| CP-09 | 1 | Certificate of Formation | ✅ Ready | Borrower | `02_ENTITY_DOCUMENTS/02.01 Certificate of Formation (Dec 19, 2025).pdf` | Immediate | Wyoming LLC, File# 2025-001184729 | 🔴 Yes |
-| CP-10 | 1 | Operating Agreement | ✅ Ready | Borrower | `02_ENTITY_DOCUMENTS/02.02 Operating Agreement.pdf` | Immediate | SPV governance; Jimmy as Manager | 🔴 Yes |
-| CP-11 | 1 | Borrowing Base Policy | ✅ Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.04 Borrowing Base Policy.pdf` | Immediate | 40% LTV haircut methodology, advance rate rationale | 🔴 Yes |
-| CP-12 | 1 | Wave 1 Lender Package (lender-specific) | ✅ Ready | Borrower | `08_LENDER_PACKAGE/08.02 Credit Committee Positioning Brief.pdf` | Immediate | Customized cover letter + deal positioning per lender | 🔴 Yes |
-| CP-13 | 1 | NDA / Confidentiality Agreement | 📋 Staged | Borrower | `10_CORRESPONDENCE/[LENDER]/NDA_executed.pdf` | Per lender template | Use lender's form; borrower accepts standard NDAs | 🔴 Yes |
+*These items must be deliverable within 48 hours of a lender request. 12/13 are ready now.*
 
-### Phase 1 Summary
-| ✅ Ready | 📋 Staged | ⏳ At Closing | 🔲 Lender-Dependent | 🔴 Blocking |
-|:---------|:----------|:--------------|:--------------------|:------------|
-| 12 | 1 | 0 | 0 | 13/13 |
+| CP ID | CP Item | Status | Owner | Evidence (Data Room Path) | Date Available | Blocking | Notes |
+|:------|:--------|:-------|:------|:--------------------------|:---------------|:---------|:------|
+| CP-01 | Executive Summary (final) | Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.01 Executive Summary.pdf` | Immediate | Yes | 2-page deal positioning; approved version on file |
+| CP-02 | Collateral Summary Sheet (final) | Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.02 Collateral Summary Sheet.pdf` | Immediate | Yes | Full valuation, coverage ratios, 250%+ overcollateralization |
+| CP-03 | Loan Commitment Package (clean lender-facing) | Ready | Borrower | `08_LENDER_PACKAGE/08.01 Loan Commitment Package (v2).pdf` | Immediate | Yes | Pre-formatted response to every standard commitment letter question |
+| CP-04 | Entity formation + Good Standing | In Progress | Counsel | `02_ENTITY_DOCUMENTS/02.01 Certificate of Formation (Dec 19, 2025).pdf` + `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | Formation: Immediate / GS: 1–2 BD | Yes | Formation on file; Good Standing ordered fresh per lender engagement from Wyoming SOS |
+| CP-05 | Corporate authority (resolutions / signatory attestations) | Ready | Counsel | `02_ENTITY_DOCUMENTS/02.04 Manager Resolution.pdf` + `02_ENTITY_DOCUMENTS/02.05 Signatory Authority / Incumbency Certificate.pdf` | Immediate | Yes | Signer Attestations on file with dual authorization protocol |
+| CP-06 | Collateral existence evidence (PPM + CUSIP + Issuance Resolution) | Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.01 Private Placement Memorandum (May 29, 2020).pdf` + `03_COLLATERAL_DOCUMENTATION/03.07 Issuance Resolution (Jan 22, 2026).pdf` | Immediate | Yes | 47-page PPM; CUSIP 144A: 87225HAB4, Reg S: P9000TAA8; Issuance authorized Jan 22, 2026 by Larry Corona |
+| CP-07 | Custody evidence (STC statements / security list) | In Progress | Custodian | `03_COLLATERAL_DOCUMENTATION/03.03 STC Security List by Issuer (Jan 23, 2026).pdf` + `03_COLLATERAL_DOCUMENTATION/03.04 STC Position Statement (Holder-Level).pdf` | Issuer list: Immediate / Holder-specific: 3–5 BD | Yes | Issuer-level on file; holder-specific produced upon lender request via STC, Plano TX |
+| CP-08 | Insurance evidence package (declarations/schedule) | In Progress | Insurer | `04_INSURANCE/04.01 Lloyd's Insurance Confirmation Letter (March 6, 2024).pdf` + `04_INSURANCE/04.02 Full Policy Schedule and Terms.pdf` | Confirmation: Immediate / Full schedule: 5–7 BD | Yes | $625M sum insured; C.J. Coleman & Co Ltd, FCA #30820, Lloyd's COL/879; must be lender-addable (loss payee) |
+| CP-09 | Legal opinion (scope + reliance) | Ready | Counsel | `05_LEGAL/05.01 Legal Opinion — K. Knowles & Co. (Jan 13, 2026).pdf` | Immediate | Yes | 8-page opinion; 6 formal opinions; covers Bahamas + US law; confirm reliance language with lender counsel |
+| CP-10 | Compliance pack (KYC/AML/SoF) – summary | In Progress | Borrower | `06_COMPLIANCE/06.01 KYC Package — Entity.pdf` + `06_COMPLIANCE/06.04 Source of Funds Statement.pdf` | Upon NDA | Yes | Entity KYC, SoF, OFAC/AML staged; PII tiered access (Folder 06 gated) |
+| CP-11 | Borrowing Base Policy | Ready | Borrower | `01_EXECUTIVE_OVERVIEW/01.04 Borrowing Base Policy.pdf` | Immediate | Yes | 40% LTV haircut methodology; advance rate derived from cost basis ($3B), not face ($5B) |
+| CP-12 | Wave 1 Lender Package (lender-specific) | Ready | Borrower | `08_LENDER_PACKAGE/08.02 Credit Committee Positioning Brief.pdf` | Immediate | Yes | 14 customized packages across Tier 1A + 1B |
+| CP-13 | NDA / Confidentiality Agreement | In Progress | Borrower | `10_CORRESPONDENCE/[LENDER]/NDA/NDA_executed.pdf` | Per lender template | Yes | Use lender's form; borrower accepts standard NDAs; same-day execution |
+
+### Phase 1 Summary: 8 Ready · 5 In Progress · 0 Lender-Dependent · 13/13 Blocking
 
 ---
 
-## PHASE 2: DUE DILIGENCE
-*After term sheet, before binding commitment. Respond within 5 business days.*
+## Phase 2 — Due Diligence (Post-Term Sheet)
 
-### 2A. Collateral Verification
+*Requested during diligence. Respond within 5 business days per item.*
 
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-14 | 2 | STC Position Statement (lender-addressed) | ⏳ At Closing | Borrower + STC | `03_COLLATERAL_DOCUMENTATION/03.04 STC Position Statement (Holder-Level).pdf` | 3–5 BD after request | Contact STC upon lender engagement; must be addressed to specific lender | 🔴 Yes |
-| CP-15 | 2 | UCC Search (Wyoming + all jurisdictions) | 🔲 Lender-Dependent | Lender's Counsel | `05_LEGAL/UCC_Search_Results.pdf` | Per lender counsel | Standard lien search; borrower can pre-run if requested; expect clean results | 🔴 Yes |
-| CP-16 | 2 | Independent Valuation / Appraisal | 🔲 Lender-Dependent | Lender | `03_COLLATERAL_DOCUMENTATION/Independent_Valuation.pdf` | Per lender selection | Lender selects appraiser; borrower cooperates fully; expect face ≥ cost basis | 🔴 Yes |
-| CP-17 | 2 | DTC/DWAC Eligibility Confirmation | 📋 Staged | Borrower + STC | `03_COLLATERAL_DOCUMENTATION/DTC_DWAC_Eligibility.pdf` | 2–3 BD | STC participation in FAST implies eligibility; formal letter available | 🟡 Conditional |
-| CP-18 | 2 | Chain of Custody Documentation | ✅ Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.08 FedEx Delivery Confirmation (Jan 22, 2026).pdf` | Immediate | FedEx scan dated Jan 22, 2026 on file | 🟡 Conditional |
-| CP-19 | 2 | Coupon Payment Evidence | ⏳ At Closing | Borrower + STC | `07_FINANCIAL/Coupon_Payment_Confirmation.pdf` | 3–5 BD after request | Request paying agent confirmation from STC | 🔴 Yes |
+| CP ID | CP Item | Status | Owner | Evidence (Data Room Path) | Date Available | Blocking | Notes |
+|:------|:--------|:-------|:------|:--------------------------|:---------------|:---------|:------|
+| CP-14 | UBO disclosure + org chart | In Progress | Borrower | `06_COMPLIANCE/06.06 UBO Disclosure.pdf` | Upon NDA + compliance request | Yes | Manager: Jimmy; UBO disclosure available upon request |
+| CP-15 | Full KYC documents (tiered) | Lender-Dependent | Borrower | `06_COMPLIANCE/06.02 KYC Package — Manager / UBOs.pdf` | Upon NDA + specific request | Yes | Government ID, proof of address — PII tier; release after NDA + compliance request only |
+| CP-16 | Borrower financial summary | In Progress | Borrower | `07_FINANCIAL/07.02 Borrower Financial Statements.pdf` | 5 BD | Yes | Non-audited acceptable initially; SPV newly formed Dec 2025; limited operating history by design |
+| CP-17 | Borrowing Base Certificate template + initial BBC | In Progress | Borrower | `07_FINANCIAL/07.01 Borrowing Base Certificate (initial).pdf` | 2 BD | Yes | Template ready; populate with verified collateral position at closing |
+| CP-18 | Valuation memo / haircut basis | In Progress | Borrower/Counsel | `07_FINANCIAL/VALUATION_MEMO.pdf` | 5–10 BD | Medium | **PRIMARY GATING ITEM** — Broker Opinion of Value or independent valuation; cost basis $3B anchors conservative haircut |
+| CP-19 | Custodian confirmation protocol (direct call/email) | Ready | Custodian | `09_VERIFICATION/09.02 STC Contact Information & Verification Process.pdf` | Immediate | Medium | Lender can contact STC directly; verification instructions in Folder 09 |
+| CP-20 | Lender diligence Q&A log starts | Ready | Borrower | `10_CORRESPONDENCE/[LENDER]/QA_Log/QA_Log.md` | Immediate | No | Per-lender silo; keep Q&A strictly siloed between lenders |
+| CP-21 | Holder-specific STC position statement | In Progress | Custodian | `03_COLLATERAL_DOCUMENTATION/03.04 STC Position Statement (Holder-Level).pdf` | 3–5 BD after request | Yes | **NEW from Issuance Resolution** — Must confirm: holder name, quantity, date, no liens; addressed to specific lender |
+| CP-22 | Negative lien / no prior pledge confirmation | In Progress | Borrower | `02_ENTITY_DOCUMENTS/Officer_Certificate_No_Liens.pdf` | 2 BD | Yes | **NEW from Issuance Resolution** — Officer certificate + STC negative pledge confirmation; UCC search clean expected |
+| CP-23 | Evidence of $3B cost basis funding | In Progress | Borrower | `06_COMPLIANCE/06.04 Source of Funds Statement.pdf` + `03_COLLATERAL_DOCUMENTATION/03.05 Subscription Agreement.pdf` | Upon NDA | Medium | **NEW from Issuance Resolution** — Subscription agreement + payment records; wire confirmation or escrow close memo |
+| CP-24 | OFAC / Sanctions Certification | In Progress | Borrower | `06_COMPLIANCE/06.03 OFAC / Sanctions Certification.pdf` | Upon NDA | Yes | Officer certificate form ready; borrower cooperates with lender's own screening |
+| CP-25 | AML Certification | In Progress | Borrower | `06_COMPLIANCE/06.05 AML Certification.pdf` | Upon NDA | Yes | Officer certificate form ready |
+| CP-26 | DTC/DWAC Eligibility Confirmation | In Progress | Borrower + STC | `03_COLLATERAL_DOCUMENTATION/DTC_DWAC_Eligibility.pdf` | 2–3 BD | Medium | STC FAST participation implies eligibility; formal letter available |
+| CP-27 | Coupon Payment Evidence | In Progress | Borrower + STC | `07_FINANCIAL/Coupon_Payment_Confirmation.pdf` | 3–5 BD | Medium | Request paying agent confirmation from STC; $250M/year coupon supports 16.7x DSCR |
+| CP-28 | Chain of Custody Documentation | Ready | Borrower | `03_COLLATERAL_DOCUMENTATION/03.08 FedEx Delivery Confirmation (Jan 22, 2026).pdf` | Immediate | Medium | FedEx scan Jan 22, 2026 on file |
 
-### 2B. Corporate / Entity Verification
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-20 | 2 | Good Standing Certificate (current) | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | 1–2 BD | Order from Wyoming SOS (wyobiz.wyo.gov); must be dated within 30 days of closing | 🔴 Yes |
-| CP-21 | 2 | Manager Resolution (facility-specific) | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/02.04 Manager Resolution.pdf` | 2 BD | Template ready; customize to specific lender + facility amount | 🔴 Yes |
-| CP-22 | 2 | Incumbency Certificate | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/02.05 Signatory Authority / Incumbency Certificate.pdf` | 2 BD | Signer Attestations on file; formalize per lender format | 🔴 Yes |
-| CP-23 | 2 | EIN / Tax ID Confirmation | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/02.06 EIN Confirmation Letter.pdf` | Upon NDA | Available upon NDA execution | 🔴 Yes |
-
-### 2C. KYC / AML / Compliance
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-24 | 2 | KYC Package (Entity) | 📋 Staged | Borrower | `06_COMPLIANCE/06.01 KYC Package — Entity.pdf` | Upon NDA | Formation docs, operating agreement, UBO disclosure ready | 🔴 Yes |
-| CP-25 | 2 | KYC Package (Manager / UBOs) | 📋 Staged | Borrower | `06_COMPLIANCE/06.02 KYC Package — Manager / UBOs.pdf` | Upon compliance request | Government ID, proof of address — available upon request | 🔴 Yes |
-| CP-26 | 2 | OFAC / Sanctions Certification | 📋 Staged | Borrower | `06_COMPLIANCE/06.03 OFAC / Sanctions Certification.pdf` | Upon NDA | Officer certificate form ready | 🔴 Yes |
-| CP-27 | 2 | Source of Funds Statement | 📋 Staged | Borrower | `06_COMPLIANCE/06.04 Source of Funds Statement.pdf` | Upon NDA | Subscription agreement + payment records available | 🔴 Yes |
-| CP-28 | 2 | AML Certification | 📋 Staged | Borrower | `06_COMPLIANCE/06.05 AML Certification.pdf` | Upon NDA | Officer certificate form ready | 🔴 Yes |
-
-### 2D. Legal / Counsel
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-29 | 2 | Lender's Counsel Opinion (US-qualified) | 🔲 Lender-Dependent | Lender | `05_LEGAL/Lender_Counsel_Opinion.pdf` | Per lender counsel | Lender engages own counsel; borrower cooperates with info requests | 🔴 Yes |
-| CP-30 | 2 | Full Insurance Policy Schedule (C.J. Coleman) | ⏳ At Closing | Borrower | `04_INSURANCE/04.02 Full Policy Schedule and Terms.pdf` | 5–7 BD | C.J. Coleman confirmed willingness to provide | 🔴 Yes |
-| CP-31 | 2 | Supplemental Legal Opinion (if required) | 🔲 Lender-Dependent | Lender | `05_LEGAL/Supplemental_Legal_Opinion.pdf` | Per lender counsel | K. Knowles opines on Bahamas + US law; lender may want separate US opinion | 🟡 Conditional |
-
-### Phase 2 Summary
-| ✅ Ready | 📋 Staged | ⏳ At Closing | 🔲 Lender-Dependent | 🔴 Blocking |
-|:---------|:----------|:--------------|:--------------------|:------------|
-| 1 | 11 | 3 | 3 | 15/18 |
+### Phase 2 Summary: 3 Ready · 11 In Progress · 1 Lender-Dependent · 10 Yes / 5 Medium / 0 No
 
 ---
 
-## PHASE 3: PRE-CLOSING
-*After binding commitment, before funding. All documents in final executed form.*
+## Phase 3 — Pre-Closing (Documentation & Perfection)
 
-### 3A. Facility Documents
+*After binding commitment. All documents in final executed form before funding.*
 
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-32 | 3 | Executed Facility Agreement | 📋 Staged | Both | `05_LEGAL/05.02 Facility Agreement.pdf` | Per negotiation | Template available; customize to negotiated terms | 🔴 Yes |
-| CP-33 | 3 | Executed Security Agreement | 📋 Staged | Borrower | `05_LEGAL/05.03 Security Agreement.pdf` | Per negotiation | Template available | 🔴 Yes |
-| CP-34 | 3 | Executed Pledge Agreement | 📋 Staged | Borrower | `05_LEGAL/05.04 Pledge Agreement.pdf` | Per negotiation | Template available | 🔴 Yes |
-| CP-35 | 3 | Account Control Agreement (STC / EagleBank) | 📋 Staged | All Parties | `05_LEGAL/05.05 Account Control Agreement — STC.pdf` | Per negotiation | Requires STC and bank coordination | 🔴 Yes |
-| CP-36 | 3 | UCC-1 Financing Statement (filed) | 📋 Staged | Borrower's Counsel | `05_LEGAL/05.06 UCC-1 Financing Statement.pdf` | Ready to file | Filed in Wyoming upon execution; confirm with search | 🔴 Yes |
+| CP ID | CP Item | Status | Owner | Evidence (Data Room Path) | Date Available | Blocking | Notes |
+|:------|:--------|:-------|:------|:--------------------------|:---------------|:---------|:------|
+| CP-29 | Credit/Facility Agreement (near-final) | Lender-Dependent | Lender/Counsel | `05_LEGAL/05.02 Facility Agreement.pdf` | Per negotiation | Yes | Template available; customize to negotiated terms |
+| CP-30 | Security Agreement (near-final) | Lender-Dependent | Lender/Counsel | `05_LEGAL/05.03 Security Agreement.pdf` | Per negotiation | Yes | Template available; first-priority perfected security interest |
+| CP-31 | Control Agreement (STC / account control) | Lender-Dependent | Lender/Custodian | `05_LEGAL/05.05 Account Control Agreement — STC.pdf` | Per negotiation | Yes | Tri-party: OPTKAS1 + STC + Lender; gives lender UCC 8-106 control |
+| CP-32 | Pledge Agreement | Lender-Dependent | Lender/Counsel | `05_LEGAL/05.04 Pledge Agreement.pdf` | Per negotiation | Yes | Template available; note-specific pledge grant |
+| CP-33 | UCC-1 drafts + debtor info verified | In Progress | Counsel | `05_LEGAL/05.06 UCC-1 Financing Statement.pdf` | Ready to file | Yes | Wyoming filing; debtor: OPTKAS1 LLC; collateral: TC Advantage 5% Notes |
+| CP-34 | Insurance endorsements (lender as loss payee/add'l insured) | In Progress | Insurer | `04_INSURANCE/Insurance_Certificate_Lender_Named.pdf` | 5–7 BD | Yes | Coordinate with C.J. Coleman; lender named as additional insured + loss payee |
+| CP-35 | Closing checklist (counsel) | In Progress | Counsel | `05_LEGAL/CLOSING_CHECKLIST.pdf` | 2 BD | Yes | Compiled from CP Tracker Phases 1–4 |
+| CP-36 | Officer Certificate (no default, no litigation) | In Progress | Borrower | `02_ENTITY_DOCUMENTS/Officer_Certificate.pdf` | 2 BD | Yes | Execution form ready |
+| CP-37 | Good Standing Certificate (within 30 days of closing) | In Progress | Borrower | `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | 1–2 BD | Yes | Fresh from Wyoming SOS |
+| CP-38 | Lender's Counsel Opinion (US-qualified) | Lender-Dependent | Lender | `05_LEGAL/Lender_Counsel_Opinion.pdf` | Per lender counsel | Yes | Wyoming UCC perfection, enforceability, SPV remoteness |
+| CP-39 | Supplemental Legal Opinion (if required) | Lender-Dependent | Lender | `05_LEGAL/Supplemental_Legal_Opinion.pdf` | Per lender counsel | Medium | K. Knowles covers Bahamas + US; lender may want separate US opinion |
+| CP-40 | SBLC (if required by lender) | Lender-Dependent | Borrower | `05_LEGAL/SBLC_Draft.pdf` | Per lender policy | Medium | Per credit policy; borrower proposes terms per Loan Commitment Package |
+| CP-41 | Full Insurance Policy Schedule + Participating Insurers | In Progress | Insurer | `04_INSURANCE/04.02 Full Policy Schedule and Terms.pdf` + `04_INSURANCE/04.03 List of Participating Insurers.pdf` | 5–7 BD | Yes | C.J. Coleman confirmed willingness to provide |
 
-### 3B. Corporate Deliverables
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-37 | 3 | Officer Certificate (no default, no litigation) | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/Officer_Certificate.pdf` | 2 BD | Execution form ready | 🔴 Yes |
-| CP-38 | 3 | Signatory Authority Certificate | ✅ Ready | Borrower | `02_ENTITY_DOCUMENTS/02.05 Signatory Authority / Incumbency Certificate.pdf` | Immediate | Signer Attestations on file with dual authorization protocol | 🔴 Yes |
-| CP-39 | 3 | Board / Manager Resolution (facility-specific) | 📋 Staged | Borrower | `02_ENTITY_DOCUMENTS/02.04 Manager Resolution.pdf` | 2 BD | Template ready; same as CP-21 but in final form | 🔴 Yes |
-| CP-40 | 3 | Good Standing Certificate (within 30 days) | ⏳ At Closing | Borrower | `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | 1–2 BD | Order fresh from Wyoming SOS | 🔴 Yes |
-
-### 3C. Financial Deliverables
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-41 | 3 | Borrower Financial Statements | ⏳ At Closing | Borrower | `07_FINANCIAL/07.02 Borrower Financial Statements.pdf` | 5 BD | Unaudited acceptable; SPV is newly formed | 🔴 Yes |
-| CP-42 | 3 | Initial Borrowing Base Certificate | 📋 Staged | Borrower | `07_FINANCIAL/07.01 Borrowing Base Certificate (initial).pdf` | 2 BD | Template ready; populate with verified collateral position | 🔴 Yes |
-| CP-43 | 3 | SBLC (if required) | 🔲 Lender-Dependent | Borrower | `05_LEGAL/SBLC_Draft.pdf` | Per lender policy | Per lender credit policy; borrower proposes terms per Loan Commitment Package | 🟡 Conditional |
-
-### 3D. Insurance
-
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-44 | 3 | Insurance Certificate (lender as loss payee) | ⏳ At Closing | Borrower + Broker | `04_INSURANCE/Insurance_Certificate_Lender_Named.pdf` | 5–7 BD | Coordinate with C.J. Coleman; lender named as additional insured | 🔴 Yes |
-| CP-45 | 3 | Full Policy Terms + Participating Insurers | ⏳ At Closing | Borrower + Broker | `04_INSURANCE/04.02 Full Policy Schedule and Terms.pdf` + `04_INSURANCE/04.03 List of Participating Insurers.pdf` | 5–7 BD | C.J. Coleman confirmed willingness to provide | 🔴 Yes |
-
-### Phase 3 Summary
-| ✅ Ready | 📋 Staged | ⏳ At Closing | 🔲 Lender-Dependent | 🔴 Blocking |
-|:---------|:----------|:--------------|:--------------------|:------------|
-| 1 | 9 | 3 | 1 | 12/14 |
+### Phase 3 Summary: 0 Ready · 6 In Progress · 7 Lender-Dependent · 11 Yes / 2 Medium
 
 ---
 
-## PHASE 4: CLOSING DAY
+## Phase 4 — Closing Day
 
-| CP ID | Phase | Condition | Status | Owner | Evidence Artifact | Date Available | Notes | Blocking |
-|:------|:------|:----------|:-------|:------|:------------------|:---------------|:------|:---------|
-| CP-46 | 4 | All Phase 3 documents in executed final form | ⏳ At Closing | Both | All Phase 3 artifacts — final PDFs | Closing day | Complete closing binder | 🔴 Yes |
-| CP-47 | 4 | UCC-1 filed and search-confirmed | ⏳ At Closing | Borrower's Counsel | `05_LEGAL/05.06 UCC-1 Financing Statement.pdf` + `05_LEGAL/UCC_Search_Results.pdf` | Closing day | Perfected lien confirmed | 🔴 Yes |
-| CP-48 | 4 | Control Agreement acknowledged by STC | ⏳ At Closing | STC | `05_LEGAL/05.05 Account Control Agreement — STC.pdf` (acknowledged) | Closing day | Lender control over collateral account confirmed | 🔴 Yes |
-| CP-49 | 4 | Wire instructions exchanged and verified | ⏳ At Closing | Both | `10_CORRESPONDENCE/[LENDER]/Wire_Instructions.pdf` | Closing day | Funding mechanics confirmed by both parties | 🔴 Yes |
-| CP-50 | 4 | Lender's counsel sign-off | 🔲 Lender-Dependent | Lender | `10_CORRESPONDENCE/[LENDER]/Counsel_Signoff.pdf` | Per lender counsel | Legal clearance for closing | 🔴 Yes |
-| CP-51 | 4 | Funds wired | 🔲 Lender-Dependent | Lender | `10_CORRESPONDENCE/[LENDER]/Wire_Confirmation.pdf` | Closing day | Facility funded | 🔴 Yes |
+| CP ID | CP Item | Status | Owner | Evidence (Data Room Path) | Date Available | Blocking | Notes |
+|:------|:--------|:-------|:------|:--------------------------|:---------------|:---------|:------|
+| CP-42 | Executed facility documents (all Phase 3 in final form) | Lender-Dependent | Lender/Counsel | `10_CORRESPONDENCE/[LENDER]/EXECUTED_DOCS.pdf` | Closing day | Yes | Complete closing binder |
+| CP-43 | Filed UCC-1 (stamped + search-confirmed) | In Progress | Counsel | `05_LEGAL/05.06 UCC-1 Financing Statement.pdf` | Closing day | Yes | Filed Wyoming; search confirms no prior filings |
+| CP-44 | Funding wire confirmation | Lender-Dependent | Lender | `10_CORRESPONDENCE/[LENDER]/Wire_Confirmation.pdf` | Closing day | Yes | Wire instructions exchanged + verified pre-close |
+| CP-45 | Custodian control effective confirmation | In Progress | Custodian | `03_COLLATERAL_DOCUMENTATION/Control_Effective_Confirmation.pdf` | Closing day | Yes | STC acknowledges Control Agreement; lender has UCC 8-106 control |
+| CP-46 | Lender's counsel sign-off | Lender-Dependent | Lender | `10_CORRESPONDENCE/[LENDER]/Counsel_Signoff.pdf` | Per lender counsel | Yes | Legal clearance for closing |
 
-### Phase 4 Summary
-| ✅ Ready | 📋 Staged | ⏳ At Closing | 🔲 Lender-Dependent | 🔴 Blocking |
-|:---------|:----------|:--------------|:--------------------|:------------|
-| 0 | 0 | 4 | 2 | 6/6 |
+### Phase 4 Summary: 0 Ready · 2 In Progress · 3 Lender-Dependent · 5/5 Blocking
 
 ---
 
-## PHASE 5: POST-CLOSING (Ongoing Covenants)
+## Phase 5 — Post-Closing (Covenants & Monitoring)
 
-| CP ID | Phase | Obligation | Frequency | Owner | Evidence Artifact | Notes | Blocking |
-|:------|:------|:-----------|:----------|:------|:------------------|:------|:---------|
-| CP-52 | 5 | Borrowing Base Certificate | Monthly | Borrower | `07_FINANCIAL/07.01 Borrowing Base Certificate.pdf` | PDF delivered to lender monthly | 🟢 No |
-| CP-53 | 5 | STC Position Confirmation | Quarterly | Borrower + STC | `03_COLLATERAL_DOCUMENTATION/03.04 STC Position Statement.pdf` | Direct from STC to lender | 🟢 No |
-| CP-54 | 5 | Financial Statements (Borrower) | Quarterly | Borrower | `07_FINANCIAL/07.02 Borrower Financial Statements.pdf` | PDF delivered quarterly | 🟢 No |
-| CP-55 | 5 | Covenant Compliance Certificate | Monthly | Borrower | `07_FINANCIAL/Covenant_Compliance_Certificate.pdf` | PDF + exception log | 🟢 No |
-| CP-56 | 5 | Insurance Renewal Confirmation | Annual | Borrower + Broker | `04_INSURANCE/Insurance_Renewal_Confirmation.pdf` | Broker confirmation letter from C.J. Coleman | 🟢 No |
-| CP-57 | 5 | Good Standing Certificate | Annual | Borrower | `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | Fresh from Wyoming SOS | 🟢 No |
-| CP-58 | 5 | Annual Audit | Yearly | Borrower | `07_FINANCIAL/Annual_Audit_Report.pdf` | CPA opinion | 🟢 No |
-| CP-59 | 5 | Collateral Coverage Ratio ≥ 200% | Continuous | Borrower | `07_FINANCIAL/07.01 Borrowing Base Certificate.pdf` | Monitored via BBC; trigger margin call if breached | 🟢 No |
-| CP-60 | 5 | No Additional Liens | Continuous | Borrower | — (negative covenant) | Organizational covenant — no artifact; breach = default | 🟢 No |
-| CP-61 | 5 | No Rehypothecation | Continuous | Borrower | — (negative covenant) | Organizational covenant — no artifact; breach = default | 🟢 No |
-| CP-62 | 5 | Single-Purpose Entity Maintenance | Continuous | Borrower | `02_ENTITY_DOCUMENTS/02.02 Operating Agreement.pdf` | SPV maintains single-purpose status | 🟢 No |
+| CP ID | CP Item | Status | Owner | Evidence (Data Room Path) | Frequency | Blocking | Notes |
+|:------|:--------|:-------|:------|:--------------------------|:----------|:---------|:------|
+| CP-47 | Monthly Borrowing Base Certificate | In Progress | Borrower | `07_FINANCIAL/BBC/[YYYY-MM].pdf` | Monthly | No | Template ready; collateral coverage ≥ 200% monitored |
+| CP-48 | Periodic STC confirmation | In Progress | Custodian | `03_COLLATERAL_DOCUMENTATION/STC_CONFIRM/[YYYY-MM].pdf` | Quarterly | No | Direct from STC to lender |
+| CP-49 | Borrower Financial Statements | In Progress | Borrower | `07_FINANCIAL/07.02 Borrower Financial Statements.pdf` | Quarterly | No | PDF delivered to lender |
+| CP-50 | Covenant Compliance Certificate | In Progress | Borrower | `07_FINANCIAL/Covenant_Compliance_Certificate.pdf` | Monthly | No | PDF + exception log |
+| CP-51 | Annual compliance refresh | In Progress | Borrower | `06_COMPLIANCE/REFRESH/[YYYY].pdf` | Annual | No | KYC/AML refresh; UBO updates |
+| CP-52 | Insurance renewal evidence | In Progress | Insurer | `04_INSURANCE/RENEWAL/[YYYY].pdf` | Annual | No | Broker confirmation letter from C.J. Coleman |
+| CP-53 | Good Standing Certificate | In Progress | Borrower | `02_ENTITY_DOCUMENTS/02.03 Good Standing Certificate.pdf` | Annual | No | Fresh from Wyoming SOS |
+| CP-54 | Annual Audit | In Progress | Borrower | `07_FINANCIAL/Annual_Audit_Report.pdf` | Yearly | No | CPA opinion |
+| CP-55 | No Additional Liens (negative covenant) | In Progress | Borrower | — | Continuous | No | Organizational covenant; breach = default |
+| CP-56 | No Rehypothecation (negative covenant) | In Progress | Borrower | — | Continuous | No | Organizational covenant; breach = default |
+| CP-57 | Single-Purpose Entity Maintenance | In Progress | Borrower | `02_ENTITY_DOCUMENTS/02.02 Operating Agreement.pdf` | Continuous | No | SPV maintains bankruptcy-remote, single-purpose status |
 
-### Phase 5 Summary
-Post-closing obligations are ongoing covenants. None are "blocking" in the pre-closing sense, but breach of any triggers default provisions under the Facility Agreement.
+### Phase 5 Summary: Post-closing covenants. None blocking pre-close; breach of any triggers default.
 
 ---
 
 ## MASTER SUMMARY
 
-| Phase | Total CPs | ✅ Ready | 📋 Staged | ⏳ At Closing | 🔲 Lender-Dependent | 🔴 Blocking | 🟡 Conditional | 🟢 Non-Blocking |
-|:------|:----------|:---------|:----------|:--------------|:--------------------|:------------|:--------------|:----------------|
-| **1** Pre-Commitment | 13 | 12 | 1 | 0 | 0 | 13 | 0 | 0 |
-| **2** Due Diligence | 18 | 1 | 11 | 3 | 3 | 15 | 3 | 0 |
-| **3** Pre-Closing | 14 | 1 | 9 | 3 | 1 | 12 | 2 | 0 |
-| **4** Closing Day | 6 | 0 | 0 | 4 | 2 | 6 | 0 | 0 |
-| **5** Post-Closing | 11 | — | — | — | — | 0 | 0 | 11 |
-| **TOTAL** | **62** | **14** | **21** | **10** | **6** | **46** | **5** | **11** |
+| Phase | Total CPs | Ready | In Progress | Lender-Dependent | Blocking (Yes) | Medium | Non-Blocking |
+|:------|:----------|:------|:------------|:-----------------|:---------------|:-------|:-------------|
+| **1** Pre-Commitment | 13 | 8 | 5 | 0 | 13 | 0 | 0 |
+| **2** Due Diligence | 15 | 3 | 11 | 1 | 10 | 5 | 0 |
+| **3** Pre-Closing | 13 | 0 | 6 | 7 | 11 | 2 | 0 |
+| **4** Closing Day | 5 | 0 | 2 | 3 | 5 | 0 | 0 |
+| **5** Post-Closing | 11 | 0 | 11 | 0 | 0 | 0 | 11 |
+| **TOTAL** | **57** | **11** | **35** | **11** | **39** | **7** | **11** |
 
 ---
 
 ## CRITICAL PATH ITEMS
 
-These CPs are on the critical path — they have the longest lead times or highest dependency risk:
+These CPs control closing timeline. Longest lead times, highest dependency risk.
 
-| CP ID | Condition | Lead Time | Risk | Mitigation |
-|:------|:----------|:----------|:-----|:-----------|
-| CP-14 | STC Position Statement (lender-addressed) | 3–5 BD | STC responsiveness | Pre-notify STC; provide template letter |
-| CP-16 | Independent Valuation | 2–4 weeks | Lender selects appraiser | Offer to share PPM + market data proactively |
-| CP-29 | Lender's Counsel Opinion | 2–3 weeks | Depends on lender's counsel engagement | Cooperate immediately with all info requests |
-| CP-30 | Full Insurance Policy Schedule | 5–7 BD | C.J. Coleman turnaround | Pre-request from broker upon term sheet |
-| CP-35 | Account Control Agreement | 1–2 weeks | Tri-party coordination (STC + EagleBank + Lender) | Begin drafting upon commitment |
-| CP-44 | Insurance Certificate (lender named) | 5–7 BD | C.J. Coleman coordination | Request simultaneously with CP-30 |
+| CP ID | Item | Lead Time | Risk | Mitigation |
+|:------|:-----|:----------|:-----|:-----------|
+| CP-18 | Valuation memo / haircut basis | 5–10 BD | **#1 gating item** — IC approval depends on this | Broker Opinion of Value; anchor to $3B cost basis, not $5B face |
+| CP-21 | Holder-specific STC position statement | 3–5 BD | STC responsiveness | Pre-notify STC; provide template letter; direct outreach to Plano TX |
+| CP-31 | Control Agreement (STC tri-party) | 1–2 weeks | Tri-party coordination | Begin drafting upon commitment; STC + EagleBank + Lender |
+| CP-34 | Insurance endorsements (lender-named) | 5–7 BD | C.J. Coleman turnaround | Request simultaneously with CP-41; pre-alert broker |
+| CP-38 | Lender's Counsel Opinion | 2–3 weeks | Depends on lender's counsel | Cooperate immediately with all info requests |
+| CP-41 | Full Insurance Policy Schedule | 5–7 BD | Broker turnaround | Pre-request from C.J. Coleman upon term sheet |
+
+---
+
+## ISSUANCE RESOLUTION INTEGRATION
+
+*The Issuance Resolution (January 22, 2026) materially strengthens the deal. Here is what it adds:*
+
+### CPs Cleared by Issuance Resolution
+- Corporate authorization of issuance ✅
+- Validity of notes (500 × $10M, fully paid, non-assessable) ✅
+- Transfer agent authority (STC authorized to issue + maintain ledger) ✅
+- Outstanding amount confirmation ($5B) ✅
+- Book-entry form confirmation ✅
+- Cost basis anchored ($3B = $6M per note) ✅
+
+### CPs Created by Issuance Resolution
+| CP ID | New Item | Why |
+|:------|:---------|:----|
+| CP-21 | Holder-specific STC position statement | Resolution confirms issuer-level; lender needs holder-level |
+| CP-22 | Negative lien / no prior pledge confirmation | Resolution silent on liens; officer cert confirms unencumbered |
+| CP-23 | Evidence of $3B cost basis funding | Resolution anchors cost basis; lender wants subscription close evidence |
+
+### Standard Sentence (use everywhere consistently)
+
+> "The Notes were duly authorized by board resolution dated January 22, 2026, issued in book-entry form, and recorded by Securities Transfer Corporation as transfer agent. Total outstanding: $5,000,000,000 (500 notes × $10,000,000). Cost basis: $3,000,000,000. Fully paid and non-assessable."
 
 ---
 
@@ -233,8 +185,8 @@ These CPs are on the critical path — they have the longest lead times or highe
 
 | Request Type | Committed Response Time |
 |:-------------|:-----------------------|
-| Pre-staged documents (✅ Ready) | Same business day |
-| Staged templates (📋) requiring customization | 2 business days |
+| Pre-staged documents (Ready) | Same business day |
+| Staged templates (In Progress) requiring customization | 2 business days |
 | STC coordination items | 3–5 business days |
 | Insurance coordination (C.J. Coleman) | 5–7 business days |
 | Financial statements / new documents | 5 business days |
@@ -244,12 +196,12 @@ These CPs are on the critical path — they have the longest lead times or highe
 
 ## LENDER-SPECIFIC TRACKER
 
-*Duplicate this section for each engaged lender. Track lender-specific CP status separately.*
+*Duplicate this section for each engaged lender. Store copy in lender silo: `10_CORRESPONDENCE/[LENDER]/CP_TRACKER.xlsx`*
 
 ### [LENDER NAME] — CP Status
 
-| CP ID | Requested | Delivered | Accepted | Notes |
-|:------|:----------|:----------|:---------|:------|
+| CP ID | Requested | Delivered | Accepted | Lender Notes |
+|:------|:----------|:----------|:---------|:-------------|
 | CP-01 | | | | |
 | CP-02 | | | | |
 | ... | | | | |
@@ -258,6 +210,7 @@ These CPs are on the critical path — they have the longest lead times or highe
 **NDA Executed:**  
 **Term Sheet Date:**  
 **Target Close:**  
+**Runbook Step:**  
 
 ---
 
