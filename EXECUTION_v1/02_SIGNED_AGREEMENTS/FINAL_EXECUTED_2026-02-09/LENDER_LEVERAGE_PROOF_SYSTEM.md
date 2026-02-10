@@ -3,7 +3,6 @@
 ## Cryptographic Document Verification & Leverage Architecture
 
 **Entity:** OPTKAS1 LLC  
-**Infrastructure Partner:** Unykorn 7777, Inc.  
 **System Version:** 1.0.0  
 **Execution Date:** February 9, 2026  
 **Verification Status:** ✅ ALL AGREEMENTS FULLY EXECUTED & CRYPTOGRAPHICALLY PINNED
@@ -109,7 +108,7 @@ graph TB
 
 ```mermaid
 sequenceDiagram
-    participant U as Unykorn 7777, Inc.
+    participant U as Infrastructure Partner
     participant O as OPTKAS1 LLC
     participant SYS as Funding System
     participant secure archive as Document Archive
@@ -240,7 +239,7 @@ Contains: All executed PDFs + hashes + manifest
 ```
 EXECUTION STATUS:
 ├── ✅ Agreements drafted (5 documents)
-├── ✅ All parties signed (Unykorn 7777 + OPTKAS1)
+├── ✅ All parties signed
 ├── ✅ Consolidated signature package created
 ├── ✅ SHA-256 hashes generated for all documents
 ├── ✅ All documents archived and verified (6 PDFs + hashes + manifest)
@@ -263,4 +262,4 @@ LENDER READINESS:
 **Cryptographic Proof:** COMPLETE  
 **secure archive Pinning:** COMPLETE  
 **Last Updated:** February 9, 2026  
-**Owner:** OPTKAS1 LLC + Unykorn 7777, Inc.
+**Owner:** OPTKAS1 LLC

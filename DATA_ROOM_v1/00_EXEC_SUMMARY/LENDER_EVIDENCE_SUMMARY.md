@@ -57,10 +57,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  5. EXECUTION & DOCUMENTATION                                   │
 │  ────────────────────────────                                   │
-│  Strategic Infrastructure Agreement: EXECUTED 2026-02-07        │
-│  Exhibit A Economic Participation: EXECUTED 2026-02-07          │
 │  Signature Page: EXECUTED 2026-02-07 (Option A — 10% NCF)       │
-│  Sponsor Consideration Note: EXECUTED 2026-02-07                │
 │  Sponsor Note Estoppel: EXECUTED 2026-02-07                     │
 │  All 5 agreements signed by both parties.                       │
 └──────────────────────────┬──────────────────────────────────────┘

@@ -23,8 +23,6 @@ All executed agreements are cryptographically hashed (SHA-256) and archived for 
 
 The facility targets institutional secured credit at a conservative **40% advance rate** against the $5B face value, providing **250%+ collateral coverage**.
 
-**Technology Infrastructure:**
-Document hashing, verification tooling, and evidence-chain automation were developed by **Unykorn 7777, Inc.**, acting solely as a **technology provider**. Unykorn 7777, Inc. performs **no broker-dealer, advisory, or financial services** and has **no role in issuance, collateral, or facility structure**.
 
 **Contact:** jimmy@optkas.com
 
@@ -159,11 +157,7 @@ All agreements were executed on **February 9, 2026** and are filed with cryptogr
 
 | # | Document | PDF | Verification |
 |:--|:---------|:----|:-------------|
-| 1 | Strategic Infrastructure Agreement | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://[Agreement Reference]) |
-| 2 | Exhibit A — Economic Participation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://[Terms Reference]) |
 | 3 | Signature Page | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://[Signature Reference]) |
-| 4 | Sponsor Consideration Note | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://[Note Reference]) |
-| 5 | Sponsor Note Estoppel | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://[Estoppel Reference]) |
 | 6 | Joint Signature Attestation | [📄 PDF](EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/sigs%207777%20optkas%20.pdf) | [🔗 Verify](https://[Package Reference]) |
 
 **Cryptographic Manifest:** [🔗 secure archive](https://[Manifest Reference]) | **SHA-256 Hash File:** [🔗 secure archive](https://[Hash Reference])
@@ -178,11 +172,7 @@ Every executed document has been **SHA-256 hashed** and **permanently archived**
 
 | Document | SHA-256 Hash |
 |:---------|:-------------|
-| 01_Strategic_Infrastructure_Agreement.pdf | `75F909AF90658C1099871511290E0580BC424A3BA13971FF331EE0E5DEFD12F8` |
-| 02_Exhibit_A_Economic_Participation.pdf | `1BB360733285BF4E5F3FAE382B3C41D321C7A8CFB2B86C73FC1086EB322C457E` |
 | 03_Signature_Page.pdf | `CB373890EB8E5702C70FAF8D4DC86F232FEBBC5A02454F40C478853F736B0227` |
-| 04_Sponsor_Consideration_Note.pdf | `2284E45CA29DB034DE4C569BE73A970EC672822100369ED9799B7E7F1D0AA994` |
-| 05_Sponsor_Note_Estoppel.pdf | `D3660294E75C280C7AA82C567195A8C988AA134CA474DD381F4CACA0F0483A22` |
 | sigs 7777 optkas .pdf | `A7CF7B8B3A9F47572956E79EE75632AD15202843E1937823F52361FA4152FFDE` |
 
 ### Merkle Root
@@ -218,8 +208,6 @@ Ready-to-review PDF documents for institutional due diligence:
 | Reporting Covenant Schedule | [📄 REPORTING_COVENANT_SCHEDULE.pdf](Final_Funding_Package/REPORTING_COVENANT_SCHEDULE.pdf) |
 | Valuation Justification | [📄 VALUATION_JUSTIFICATION_PRESET_B.pdf](Final_Funding_Package/VALUATION_JUSTIFICATION_PRESET_B.pdf) |
 | Terms Requested | [📄 TERMS_REQUESTED.pdf](Final_Funding_Package/TERMS_REQUESTED.pdf) |
-| Sponsor Consideration Note | [📄 SPONSOR_CONSIDERATION_NOTE_TEMPLATE.pdf](Final_Funding_Package/SPONSOR_CONSIDERATION_NOTE_TEMPLATE.pdf) |
-| Sponsor Note Estoppel | [📄 SPONSOR_NOTE_ESTOPPEL_TEMPLATE.pdf](Final_Funding_Package/SPONSOR_NOTE_ESTOPPEL_TEMPLATE.pdf) |
 | Data Room Index | [📄 DATA_ROOM_INDEX_v1.pdf](Final_Funding_Package/DATA_ROOM_INDEX_v1.pdf) |
 
 **Pre-Filled Loan Commitment Package:** [LOAN_COMMITMENT_PACKAGE-v2_POPULATED.md](LOAN_COMMITMENT_PACKAGE-v2_POPULATED.md)  
@@ -287,7 +275,6 @@ Institutional-Funding-Repo-For-Optkas-/
 | | |
 |:-----|:-------|
 | **Entity** | OPTKAS1 LLC |
-| **Technology Provider** | Unykorn 7777, Inc. (infrastructure only; no financial role) |
 | **Contact** | jimmy@optkas.com |
 | **Response Time** | Same business day |
 | **Data Room Access** | Available in this repository |
@@ -298,4 +285,3 @@ Institutional-Funding-Repo-For-Optkas-/
 *$5B Bond Program · $5B Collateral (Face Value) · All Documents Cryptographically Verified*  
 *© 2026 OPTKAS1 LLC. All rights reserved.*
 
-**Disclaimer:** Unykorn 7777, Inc. serves solely as a technology provider for document hashing, verification tooling, and evidence-chain infrastructure. Unykorn 7777, Inc. performs no broker-dealer, investment advisory, underwriting, or financial services of any kind and has no role in the issuance, collateral, borrowing base, or facility structure described herein. All financial obligations are solely those of OPTKAS1 LLC.

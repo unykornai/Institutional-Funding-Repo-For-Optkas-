@@ -5,7 +5,7 @@
   "transaction": {
     "name": "OPTKAS1 Strategic Infrastructure Partner Agreement",
     "spv_entity": "OPTKAS1-MAIN SPV",
-    "partner_entity": "Unykorn 7777, Inc.",
+    "partner_entity": "OPTKAS1 LLC",
     "execution_date": "2026-02-09",
     "jurisdiction": "Wyoming, USA"
   },
@@ -27,7 +27,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 137427,
@@ -51,7 +51,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 140750,
@@ -75,7 +75,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 84696,
@@ -99,7 +99,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 88759,
@@ -123,7 +123,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 94054,
@@ -147,7 +147,7 @@
       "classification": "CONFIDENTIAL - LENDER DISCLOSABLE",
       "parties": [
         "OPTKAS1-MAIN SPV",
-        "Unykorn 7777, Inc."
+        "OPTKAS1 LLC"
       ],
       "execution_date": "2026-02-09",
       "file_size_bytes": 1640358,

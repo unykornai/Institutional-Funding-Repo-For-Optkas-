@@ -1,4 +1,4 @@
-﻿import hashlib, json, datetime, os, sys, subprocess
+import hashlib, json, datetime, os, sys, subprocess
 from pathlib import Path
 from typing import List, Optional, Dict
 
@@ -19,19 +19,19 @@ KNOWN_CIDS = {
     "03_Signature_Page.pdf": "QmPYiMYwrf8jWa6rWgsVmRD8GSRomndaotCvo6h8DXooBb",
     "04_Sponsor_Consideration_Note.pdf": "QmWjyQapWDHUcR6L9aRa7njCcMcVsUxe3roCtwG1y9iSUc",
     "05_Sponsor_Note_Estoppel.pdf": "QmbEAnQ2cep4GP1wM4YNuYXEh162sLcMJ58xZPh4mppd5x",
-    "sigs 7777 optkas .pdf": "QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
+    "sigs optkas .pdf": "QmTFdv96vJNcair4qwjK1JjGPjnqHdoCKEQQb9cKqEnVAM",
 }
 
 MANIFEST_CID = "QmTNwdZuRunpfVpWqCkEmdmKfMvR6szFcH473kr3uyWV6G"
 HASHES_CID = "QmedJSTVKKMeCoi4UYt8xTZw9Hhs91ZD4bEdAotB65v1Zm"
 
 DOCUMENTS = [
-    {"id":"DOC-001","filename":"01_Strategic_Infrastructure_Agreement.pdf","title":"Strategic Infrastructure & Execution Agreement","doc_type":"Master Agreement","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
-    {"id":"DOC-002","filename":"02_Exhibit_A_Economic_Participation.pdf","title":"Exhibit A - Economic Participation Schedule","doc_type":"Exhibit / Schedule","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
-    {"id":"DOC-003","filename":"03_Signature_Page.pdf","title":"Signature Page - All Parties","doc_type":"Execution Evidence","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
-    {"id":"DOC-004","filename":"04_Sponsor_Consideration_Note.pdf","title":"Sponsor Consideration & Promissory Note","doc_type":"Promissory Note","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
-    {"id":"DOC-005","filename":"05_Sponsor_Note_Estoppel.pdf","title":"Sponsor Note Estoppel Certificate","doc_type":"Estoppel Certificate","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
-    {"id":"DOC-006","filename":"sigs 7777 optkas .pdf","title":"Combined Signature Attestation - 7777 x OPTKAS","doc_type":"Signature Attestation Bundle","parties":["OPTKAS1-MAIN SPV","Unykorn 7777, Inc."],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"}
+    {"id":"DOC-001","filename":"01_Strategic_Infrastructure_Agreement.pdf","title":"Strategic Infrastructure & Execution Agreement","doc_type":"Master Agreement","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
+    {"id":"DOC-002","filename":"02_Exhibit_A_Economic_Participation.pdf","title":"Exhibit A - Economic Participation Schedule","doc_type":"Exhibit / Schedule","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
+    {"id":"DOC-003","filename":"03_Signature_Page.pdf","title":"Signature Page - All Parties","doc_type":"Execution Evidence","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
+    {"id":"DOC-004","filename":"04_Sponsor_Consideration_Note.pdf","title":"Sponsor Consideration & Promissory Note","doc_type":"Promissory Note","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
+    {"id":"DOC-005","filename":"05_Sponsor_Note_Estoppel.pdf","title":"Sponsor Note Estoppel Certificate","doc_type":"Estoppel Certificate","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"},
+    {"id":"DOC-006","filename":"sigs optkas .pdf","title":"Combined Signature Attestation - OPTKAS1","doc_type":"Signature Attestation Bundle","parties":["OPTKAS1-MAIN SPV","OPTKAS1 LLC"],"execution_date":"2026-02-09","classification":"CONFIDENTIAL - LENDER DISCLOSABLE"}
 ]
 
 def sha256_file(fp):
@@ -106,7 +106,7 @@ def main():
             },
             "verification_status": "VERIFIED"
         })
-        pin_icon = "📌" if ipfs_pinned else "⏳"
+        pin_icon = "??" if ipfs_pinned else "?"
         print(f"  {pin_icon} {dm['id']}: {dm['filename']}")
         print(f"     SHA-256: {s256}")
         if cid:
@@ -124,7 +124,7 @@ def main():
         "transaction": {
             "name": "OPTKAS1 Strategic Infrastructure Partner Agreement",
             "spv_entity": "OPTKAS1-MAIN SPV",
-            "partner_entity": "Unykorn 7777, Inc.",
+            "partner_entity": "OPTKAS1 LLC",
             "execution_date": "2026-02-09",
             "jurisdiction": "Wyoming, USA"
         },
@@ -146,9 +146,9 @@ def main():
         "verification_instructions": {
             "step_1": "Download document from IPFS gateway URL or repository",
             "step_2": "Compute SHA-256: certutil -hashfile <file> SHA256 (Windows) or sha256sum <file> (Linux/Mac)",
-            "step_3": "Compare hash against manifest sha256 field — must match exactly",
+            "step_3": "Compare hash against manifest sha256 field � must match exactly",
             "step_4": "Verify Merkle root by recomputing from all document hashes",
-            "step_5": "Verify IPFS CID: ipfs add -n --only-hash <file> — must match manifest CID",
+            "step_5": "Verify IPFS CID: ipfs add -n --only-hash <file> � must match manifest CID",
             "step_6": "Check XRPL attestation for on-chain timestamp proof"
         },
         "repository": {
@@ -200,13 +200,13 @@ def main():
             actual = sha256_file(fp)
             expected = d["cryptographic_hashes"]["sha256"]
             match = actual == expected
-            icon = "✅" if match else "❌"
+            icon = "?" if match else "?"
             print(f"  {icon} {d['filename']}")
             if not match:
                 ok = False
                 print(f"     Expected: {expected}")
                 print(f"     Actual:   {actual}")
-        print(f"\n  {'ALL VERIFIED ✅' if ok else 'VERIFICATION FAILED ❌'}")
+        print(f"\n  {'ALL VERIFIED ?' if ok else 'VERIFICATION FAILED ?'}")
 
     print("=" * 60)
     print("  COMPLETE")
@@ -233,7 +233,7 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
     lines = [
         "# LENDER PROOF PACKAGE",
         "",
-        "## OPTKAS1-MAIN SPV — Cryptographic Document Verification",
+        "## OPTKAS1-MAIN SPV � Cryptographic Document Verification",
         "",
         f"**Generated:** {timestamp}",
         f"**Merkle Root:** `{merkle_root_hash}`",
@@ -249,10 +249,10 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
     ]
 
     for d in docs:
-        cid = d["ipfs"]["cid"] or "—"
+        cid = d["ipfs"]["cid"] or "�"
         short_hash = d["cryptographic_hashes"]["sha256"][:16] + "..."
         short_cid = cid[:20] + "..." if len(cid) > 20 else cid
-        lines.append(f"| {d['document_id'][-1]} | {d['title']} | `{short_hash}` | `{short_cid}` | ✅ |")
+        lines.append(f"| {d['document_id'][-1]} | {d['title']} | `{short_hash}` | `{short_cid}` | ? |")
 
     lines += [
         "",
@@ -264,8 +264,8 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "graph TB",
         "    subgraph EXECUTED[\"FULLY EXECUTED AGREEMENTS\"]",
         "        D1[\"01 Strategic Infrastructure Agreement\"]",
-        "        D2[\"02 Exhibit A — Economic Participation\"]",
-        "        D3[\"03 Signature Page — All Parties\"]",
+        "        D2[\"02 Exhibit A � Economic Participation\"]",
+        "        D3[\"03 Signature Page � All Parties\"]",
         "        D4[\"04 Sponsor Consideration Note\"]",
         "        D5[\"05 Sponsor Note Estoppel\"]",
         "        D6[\"06 Consolidated Signatures\"]",
@@ -287,7 +287,7 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "        DL[\"Download from IPFS\"]",
         "        CHECK[\"Compute SHA-256\"]",
         "        COMPARE[\"Compare to Manifest\"]",
-        "        RESULT[\"✅ VERIFIED\"]",
+        "        RESULT[\"? VERIFIED\"]",
         "    end",
         "",
         "    D1 & D2 & D3 & D4 & D5 & D6 --> HASH",
@@ -308,30 +308,30 @@ def generate_lender_package(docs: list, merkle_root_hash: str, timestamp: str) -
         "",
         "```mermaid",
         "sequenceDiagram",
-        "    participant U as Unykorn 7777",
+        "    participant U as Infrastructure Partner",
         "    participant O as OPTKAS1 SPV",
         "    participant SYS as Proof Engine",
         "    participant IPFS as IPFS Network",
         "    participant XRPL as XRPL Ledger",
         "    participant L as Lender",
         "",
-        "    Note over U,O: Phase 1 — Execution",
+        "    Note over U,O: Phase 1 � Execution",
         "    U->>O: Sign 5 agreements",
         "    O->>U: Countersign all",
         "    U->>SYS: Upload 6 executed PDFs",
         "",
-        "    Note over SYS,IPFS: Phase 2 — Cryptographic Proof",
+        "    Note over SYS,IPFS: Phase 2 � Cryptographic Proof",
         "    SYS->>SYS: SHA-256 + SHA-512 hashes",
         "    SYS->>SYS: Build Merkle tree",
         "    SYS->>IPFS: Pin 6 docs + manifest",
         "    IPFS-->>SYS: Return CIDs",
         "    SYS->>XRPL: Anchor Merkle root",
         "",
-        "    Note over L,IPFS: Phase 3 — Verification",
+        "    Note over L,IPFS: Phase 3 � Verification",
         "    SYS->>L: Share manifest CID",
         "    L->>IPFS: Download & verify",
         "    L->>XRPL: Check attestation",
-        "    L-->>L: ✅ All verified",
+        "    L-->>L: ? All verified",
         "```",
         "",
         "---",

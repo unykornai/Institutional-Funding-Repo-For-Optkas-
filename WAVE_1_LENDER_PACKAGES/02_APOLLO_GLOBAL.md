@@ -79,11 +79,7 @@ Repository: https://github.com/unykornai/Institutional-Funding-Repo-For-Optkas-
 
 | Document | PDF | Verification |
 |:---------|:----|:-------------|
-| Strategic Infrastructure Agreement | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/01_Strategic_Infrastructure_Agreement.pdf) | [🔗 Verify](https://[Agreement Reference]) |
-| Exhibit A — Economic Participation | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/02_Exhibit_A_Economic_Participation.pdf) | [🔗 Verify](https://[Terms Reference]) |
 | Signature Page | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/03_Signature_Page.pdf) | [🔗 Verify](https://[Signature Reference]) |
-| Sponsor Consideration Note | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/04_Sponsor_Consideration_Note.pdf) | [🔗 Verify](https://[Note Reference]) |
-| Sponsor Note Estoppel | [📄 PDF](../EXECUTION_v1/02_SIGNED_AGREEMENTS/FINAL_EXECUTED_2026-02-09/05_Sponsor_Note_Estoppel.pdf) | [🔗 Verify](https://[Estoppel Reference]) |
 | Verification Manifest | — | [🔗 Verify](https://[Manifest Reference]) |
 
 ### Data Room Access

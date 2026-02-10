@@ -72,7 +72,7 @@ graph TB
 
 ```mermaid
 sequenceDiagram
-    participant U as Unykorn 7777
+    participant U as Infrastructure Partner
     participant O as OPTKAS1 SPV
     participant SYS as Proof Engine
     participant secure archive as Document Archive

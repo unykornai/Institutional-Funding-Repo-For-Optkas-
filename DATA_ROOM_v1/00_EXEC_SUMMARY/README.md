@@ -43,7 +43,7 @@ OPTKAS1-Funding-System/
 ├── README.md                                    # This file
 ├── LOAN_COMMITMENT_PACKAGE.md                   # Primary lender submission
 ├── LOAN_COMMITMENT_PACKAGE-v2.md                # Enhanced version
-├── STRATEGIC_INFRASTRUCTURE_EXECUTION_AGREEMENT.md  # Unykorn partnership
+├── STRATEGIC_INFRASTRUCTURE_EXECUTION_AGREEMENT.md  # Infrastructure partnership
 │
 ├── data_room/
 │   ├── 01_Entity/                               # Corporate documents

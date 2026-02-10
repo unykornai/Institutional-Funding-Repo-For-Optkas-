@@ -38,8 +38,6 @@ Core deal documents defining the credit facility structure.
 |:-----|:------------|
 | LOAN_COMMITMENT_PACKAGE-v2.md | **PRIMARY** - Complete lender submission with pre-formatted responses |
 | LOAN_COMMITMENT_PACKAGE.md | Original version of lender package |
-| STRATEGIC_INFRASTRUCTURE_EXECUTION_AGREEMENT.md | Unykorn 7777 partnership agreement |
-| SPONSOR_CONSIDERATION_NOTE.md | **NEW** - Financeable debt instrument for platform delivery consideration |
 | ANNEX_A_Tranche_Details.md | Asset identification, CUSIP, valuation methodology |
 | ANNEX_B_System_Architecture.md | Technical infrastructure and data flows |
 
@@ -110,7 +108,6 @@ Templates, execution plans, and supplementary materials.
 | Required Document | Status | Location |
 |:------------------|:-------|:---------|
 | LOAN_COMMITMENT_PACKAGE-v2.md | ✅ Present | 01_TRANSACTION_STRUCTURE/ |
-| STRATEGIC_INFRASTRUCTURE_EXECUTION_AGREEMENT.md | ✅ Present | 01_TRANSACTION_STRUCTURE/ |
 | STC Statement.pdf | ✅ Present | 02_COLLATERAL_AND_CREDIT/ |
 | TC_Advantage_PPM_Series_B.pdf | ✅ Present | 02_COLLATERAL_AND_CREDIT/ |
 | optkas1-bond-issuance-guide.md | ✅ Present | 03_BOND_AND_NOTE_ISSUANCE/ |
