@@ -57,10 +57,13 @@
 
 ### STC Confirmation (January 23, 2026)
 Securities Transfer Corporation Security List by Issuer confirms:
-- **144A Series (CUSIP 87225HAB4):** $500,000,000 outstanding, 1 active holder
-- **Reg S Series (CUSIP P9000TAA8):** $4,000,000,000 authorized
+- **Total Program:** $5,000,000,000 (500 notes × $10,000,000 per PPM page 2)
+- **144A Series (CUSIP 87225HAB4):** $500,000,000 outstanding (50 of 500 notes), 1 active holder
+- **Reg S Series (CUSIP P9000TAA8):** $4,500,000,000 authorized (450 of 500 notes)
 - **Total Active Shareholders:** 2
 - **Issuer:** TC Advantage Traders, Ltd. (Freeport, Grand Bahama)
+
+> **PPM Cross-Reference (page 14):** *"TC Advantage Traders has a Total of Five Hundred (500) of 5% MEDIUM TERM NOTES."*
 
 ### Legal Opinion (K. Knowles & Co., January 13, 2026)
 International counsel confirms:
